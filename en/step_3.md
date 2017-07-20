@@ -1,3 +1,7 @@
-## Step title
+--- challenge ---
+## Challenge: Explain the Pi to a Friend
 
-+ Step content...
+Take turns explaining parts of the Raspberry Pi with a friend.
+
+
+--- /challenge ---
