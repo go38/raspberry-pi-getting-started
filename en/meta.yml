@@ -1,6 +1,7 @@
+---
 hero_image: images/banner.png
 theme: red
-duration: 1
+duration: 2
 listed: true
 ingredient: false
 copyedit: false
@@ -12,7 +13,7 @@ interests: ''
 technologies: ''
 site_areas: codeclub, raspberry-pi
 steps:
-- title: 'Introduction'
+- title: Introduction
 - title: 'Meet the Raspberry Pi '
 - title: 'Challenge: Explain the Pi to a Friend'
 - title: Connect Your Pi
