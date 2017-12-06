@@ -1,8 +1,7 @@
----
-hero_image: images/banner.png
+hero_image: images/getting-started-with-raspberry-pi.png
 theme: red
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
@@ -13,7 +12,7 @@ interests: ''
 technologies: ''
 site_areas: codeclub, raspberry-pi
 steps:
-- title: 'Introduction: '
+- title: Introduction
 - title: 'Meet the Raspberry Pi '
 - title: 'Challenge: Explain the Pi to a Friend'
 - title: Connect Your Pi
