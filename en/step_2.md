@@ -1,25 +1,21 @@
-## Meet the Raspberry Pi 
+## What you will need
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+### Hardware
 
++ A Raspberry Pi computer with an SD card
 
++ A monitor with a cable and, if needed, an adaptor
 
-Look at your Raspberry Pi. Can you find all the things labelled on the diagram.
++ A USB keyboard and mouse
 
-![screenshot](images/pi-labelled-names.png)
++ A power supply
 
-+ __USB ports__ - these are used to connect a USB mouse and keyboard and other peripherals such as a USB storage drive.
++ Headphones or speakers (optional)
 
-+ __SD Card slot__ - the SD card slots in underneath the Raspberry Pi, this is where the operating system and your files are stored.
++ An ethernet cable (optional)
 
-+ __Ethernet port__ - this is used to connect the Raspberry Pi to the network (it can also connect to a Wifi network)
+### Software
 
-+ __Audio Jack__ - this is where you connect headphones or speakers.
++ Raspbian, installed via NOOBS
 
-+ __HDMI Port__ - this is where you connect the monitor (or projector) that you are using to display the output from the Pi. If your monitor has speakers you can also get sound.
-
-+ __Micro USB Power connector__ - this is where you connect a power supply. You should always do this last.
-
-+ __GPIO Ports__ - these allow you to connect electronics components such as LEDs and buttons to the Pi.  
-
-
+[[[noobs-install]]]

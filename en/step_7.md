@@ -1,21 +1,12 @@
---- challenge ---
-## Challenge: Explore the Pi
+## Browsing the Web (Optional)
 
-Take some time to explore the Pi.
++ If you're not using an ethernet cable then you'll need to connect to a wireless network.
 
-Can you find:
++ Click the Wifi icon on the top-right of the screen and ask your Club Leader for Wifi access details.
 
-+ A version of Scratch
+	![screenshot](images/pi-wifi.png)
 
-+ A Python game to play
++ Click the Web Browser icon and search for `raspberry pi`.
 
-+ A version of Minecraft that you can program (you'll find out more about that later.)
+	![screenshot](images/pi-browser.png)
 
-If you are connected to the internet then you can also try browsing the web.
-
-+ Can you find out how the Raspberry Pi got its name?
-
-Note: You can also try any of the regular [Code Club projects](codeclubprojects.org) on the Raspberry Pi.
-
-
---- /challenge ---
