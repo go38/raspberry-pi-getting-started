@@ -4,7 +4,7 @@
 
 + A Raspberry Pi computer with an SD card
 
-+ A monitor with a cable and, if needed, an adaptor
++ A monitor with a cable (and, if needed, an HDMI adaptor)
 
 + A USB keyboard and mouse
 
