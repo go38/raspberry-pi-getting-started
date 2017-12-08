@@ -13,10 +13,10 @@ technologies: ''
 site_areas: codeclub, raspberry-pi
 steps:
 - title: Introduction
-- title: 'Meet the Raspberry Pi '
+- title: What you will need
+- title: Meet the Raspberry Pi
 - title: 'Challenge: Explain the Pi to a Friend'
 - title: Connect Your Pi
 - title: A Tour of the Pi
 - title: Browsing the Web (Optional)
 - title: 'Challenge: Explore the Pi'
-
