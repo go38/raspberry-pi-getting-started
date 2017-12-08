@@ -5,7 +5,7 @@ In this project you will connect up a Raspberry Pi computer and find out what it
 
 ### What you will make
 
-The Raspberry Pi is a small computer that can do lots of things. It plugs into a monitor and you attach a keyboard and mouse.
+The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
 
 ![screenshot](images/pi-plug-in.gif)
 
