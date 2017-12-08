@@ -1,5 +1,5 @@
 --- challenge ---
-## Challenge: Explain the Pi
+## Challenge: Explain the Raspberry Pi
 
 Explain what each of the parts of the Raspberry Pi does to someone else.
 

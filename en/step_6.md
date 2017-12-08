@@ -1,4 +1,4 @@
-## A Tour of the Pi
+## A tour of the Raspberry Pi
 
 Now it's time to take a tour of the Raspberry Pi.
 

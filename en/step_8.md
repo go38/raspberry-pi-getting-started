@@ -1,5 +1,5 @@
 --- challenge ---
-## Challenge: Explore the Pi
+## Challenge: explore the Raspberry Pi
 
 Can you find:
 

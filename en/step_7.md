@@ -1,4 +1,4 @@
-## Browsing the Web
+## Browsing the web
 
 You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable then you will need to connect to a wireless network.
 

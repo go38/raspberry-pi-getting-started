@@ -1,4 +1,4 @@
-## Connect Your Pi
+## Connect your Raspberry Pi
 
 Let's connect up your Raspberry Pi and get it running.
 
