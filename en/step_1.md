@@ -1,28 +1,23 @@
-## Introduction: 
+## Introduction
 
 In this project you will connect up a Raspberry Pi computer and find out what it can do.
 
+
+### What you will make
+
+The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+
 ![screenshot](images/pi-plug-in.gif)
 
-The Raspberry Pi is a small computer that can do lots of things. It plugs into a monitor and you attach a keyboard and mouse.
 
-For this project you will need:
+### What you will learn
 
-+ A Raspberry Pi computer with an SD card
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ A monitor with a cable and, if needed, an adaptor
++ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
 
-+ A USB keyboard and mouse
+### Additional information for educators
 
-+ A power supply
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-+ Optionally, headphones or speakers
-
-+ Optionally, an ethernet cable
-
-
-### Additional information for club leaders
-
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print).
-
-
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
