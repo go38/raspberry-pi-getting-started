@@ -2,9 +2,9 @@
 
 ![Getting started with the Raspberry Pi](/en/images/banner.png)
 
-Set up the Raspberry Pi and explore what it can do
+Set up your Raspberry Pi and explore what it can do.
 
-Find the project online at [projects.raspberrypi.org/en/projects/raspberry-pi-getting-started](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started)
+Find the project online at [projects.raspberrypi.org/en/projects/raspberry-pi-getting-started](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
