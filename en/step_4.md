@@ -1,7 +1,7 @@
 --- challenge ---
-## Challenge: Explain the Raspberry Pi
+## Challenge: explain the Raspberry Pi
 
-Explain what each of the parts of the Raspberry Pi does to someone else.
+Find someone else and explain to them what each of the parts of the Raspberry Pi does.
 
 ![screenshot](images/pi-labelled-names.png)
 
