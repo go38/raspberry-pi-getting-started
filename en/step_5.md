@@ -2,11 +2,11 @@
 
 Let's connect up your Raspberry Pi and get it running.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot underneath the Pi, and if not, insert a SD card with Raspbian installed (via NOOBS).
++ Check whether your Raspberry Pi already has an SD card in the slot underneath the Pi, and if not, insert a SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, you can slide the card out using the lip at the bottom.
 
 	![screenshot](images/pi-sd.png)
 
-Instructions for installing Raspbian on your SD card can be found in the "What you will need" step. Lots of SD cards will come inside a larger adapter, you can slide the card out using the lip at the bottom.
+[[[noobs-install]]]
 
 + Find the USB connector for your mouse and connect the mouse to a USB port on the Raspberry Pi. It doesn't matter which one.
 
