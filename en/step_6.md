@@ -2,9 +2,9 @@
 
 Now it's time to take a tour of the Raspberry Pi.
 
-+ See that Raspberry up in the top-left corner? That's the menu, click on it and you will find lots of applications.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-+ Click 'Accessories' and choose 'Text Editor'
++ Click **Accessories** and choose **Text Editor**.
 
 ![screenshot](images/pi-accessories.png)  
 
@@ -12,27 +12,27 @@ Now it's time to take a tour of the Raspberry Pi.
 
 ![screenshot](images/pi-text-editor.png)  
 
-+ Choose 'File' then 'Save' and then click 'Desktop' and save the file as 'rp.txt'
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
 ![screenshot](images/pi-save.png)  
 
-+ You should see 'rp.txt' appear on the desktop.
++ You should see an icon named `rp.txt` appear on the desktop.
 
 ![screenshot](images/pi-saved.png)  
 
-+ Your file has been saved to the Raspberry Pi's SD card.
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Close the text editor by clicking the 'X'
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-+ Return to the Raspberry menu and choose 'Shutdown' and then choose 'Reboot'.
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ When the Pi reloads your file should still be there.
++ When the Pi has rebooted, your file should still be there.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and OS X are other operating systems.) You can type commands to do things. Click on the terminal at the top of the screen:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
 ![screenshot](images/pi-command-prompt.png)  
 
-+ Now type:
++ In the window that appears, type:
 
 ```
 ls
@@ -40,9 +40,9 @@ ls
 
 and then press <kbd>Enter</kbd> on the keyboard.
 
-This will list the files in your 'home' directory.
+This will list the files in your `home` directory.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
 ```
 cd Desktop
@@ -58,8 +58,8 @@ ls
 
 Can you see the file you created?
 
-+ Close the terminal by clicking on the 'X'.
++ Close the terminal window by clicking on the **X**.
 
-+ Now drag `rp.txt` to the Wastebasket in the desktop so the Pi will be ready for the next person.  
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.  
 
 	![screenshot](images/pi-waste.png)
