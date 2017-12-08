@@ -2,7 +2,7 @@
 
 Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
 
-Look at your Raspberry Pi. Can you find all the things labelled on the diagram.
++ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
 
 ![screenshot](images/pi-labelled-names.png)
 
