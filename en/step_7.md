@@ -2,7 +2,7 @@
 
 You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
 
-To enable a wireless network you will need to set a Wi-Fi country.
+To enable a Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
 
 ![set wifi country](images/pi-set-wifi-country.png)
 
