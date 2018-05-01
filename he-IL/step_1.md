@@ -1,21 +1,21 @@
-## Introduction
+## מבוא
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+בפרויקט זה תוכלו לחבר את המחשב פי פטל ולברר מה הוא יכול לעשות.
 
-### What you will make
+### מה תעשה
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Parspberry Pi הוא מחשב קטן שיכול לעשות הרבה דברים. אתה תקע אותו לפקח ולצרף מקלדת ועכבר.
 
-![screenshot](images/pi-plug-in.gif)
+![צילום מסך](images/pi-plug-in.gif)
 
-### What you will learn
+### מה תלמד
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+פרויקט זה מכסה אלמנטים מן החוטים הבאים של [תוכנית הפלט הדיגיטלית של פיסבי](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [השתמש במרכיבים דיגיטליים, אנלוגיים ואלקטרו-מכאניים בסיסיים](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### מידע נוסף עבור מחנכים
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+השתמש בקישור בכותרת התחתונה כדי לגשת למאגר של GitHub לפרויקט זה, המכיל את כל המשאבים (כולל פרויקט גמור לדוגמה) בתיקייה 'en / resources'.
