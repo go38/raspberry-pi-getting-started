@@ -1,35 +1,35 @@
-## Browsing the web
+## 浏览网页
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+您可能想要将您的Raspberry Pi连接到互联网。 如果您没有插入以太网电缆，则需要连接到无线网络。
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+要在Raspberry Pi上启用Wi-Fi，您需要设置Wi-Fi国家/地区。
 
-![set wifi country](images/pi-set-wifi-country.png)
+![设置wifi国家](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ 从菜单中选择 **首选项**， **Raspberry Pi配置**。
 
-+ Click the **Localisation** tab.
++ 点击 **本地化** 标签。
 
-+ Click **Set WiFi Country** button.
++ 点击 **设置WiFi国家** 按钮。
 
-![select wifi country](images/pi-select-wifi-country.png)
+![选择wifi国家](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ 从列表中选择您的国家，然后点击 **确定**。
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+一旦你设置了Wi-Fi国家，你就可以连接到无线网络。
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ 点击屏幕右上角红色十字的图标，然后从下拉菜单中选择您的网络。 您可能需要向成人咨询您应该选择哪个网络。
 
-![No wifi](images/no-wifi.png)
+![没有wifi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ 输入您的无线网络密码，或要求成人为您输入密码，然后点击 **确定**。
 
-![Type in password](images/type-password.png)
+![输入密码](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ 当您的Pi连接到互联网时，您将看到无线LAN符号，而不是红色十字。
 
-![screenshot](images/pi-wifi.png)
+![截图](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ 点击网页浏览器图标并搜索 `树莓派`。
 
-![screenshot](images/pi-browser.png)
+![截图](images/pi-browser.png)
