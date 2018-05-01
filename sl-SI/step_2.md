@@ -1,21 +1,21 @@
-## What you will need
+## Kaj boste potrebovali
 
-### Hardware
+### Strojna oprema
 
-+ A Raspberry Pi computer with an SD card
++ Računalnik Raspberry Pi s kartico SD
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ Monitor s kablom (in po potrebi tudi z HDMI adapterjem)
 
-+ A USB keyboard and mouse
++ USB-tipkovnica in miška
 
-+ A power supply
++ Napajanje
 
-+ Headphones or speakers (optional)
++ Slušalke ali zvočniki (neobvezno)
 
-+ An ethernet cable (optional)
++ Eternet kabel (neobvezno)
 
-### Software
+### Programska oprema
 
-+ Raspbian, installed via NOOBS
++ Raspbian, nameščen prek NOOBS
 
 [[[noobs-install]]]
