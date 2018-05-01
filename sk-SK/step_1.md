@@ -1,21 +1,21 @@
-## Introduction
+## úvod
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+V tomto projekte sa spojíte s počítačom Raspberry Pi a zistíte, čo môže robiť.
 
-### What you will make
+### Čo urobíte
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Raspberry Pi je malý počítač, ktorý dokáže veľa vecí. Pripojte ho na monitor a pripojte klávesnicu a myš.
 
 ![screenshot](images/pi-plug-in.gif)
 
-### What you will learn
+### Čo sa naučíte
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Používanie základných digitálnych, analógových a elektromechanických komponentov](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Ďalšie informácie pre pedagógov
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Ak potrebujete tento projekt vytlačiť, použite [verziu](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Pomocou odkazu v zápätí získate prístup k úložisku GitHub pre tento projekt, ktorý obsahuje všetky zdroje (vrátane ukončeného projektu) v priečinku "en / resources".
