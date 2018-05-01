@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- výzva \---
 
-## Challenge: explain the Raspberry Pi
+## Výzva: vysvetliť Raspberry Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Nájdite niekoho iného a vysvetlite mu, čo robí každá časť Raspberry Pi.
 
 ![screenshot](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /výzva \---
