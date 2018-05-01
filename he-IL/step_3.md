@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## פגוש את פטל פטל
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+בואו נסתכל על פי פטל. אתה צריך מחשב פטל פאי לפניך בשביל זה. זה עדיין לא קשור למשהו.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ תסתכל על פאי שלך. אתה יכול למצוא את כל הדברים שכותרתו בתרשים?
 
-![screenshot](images/pi-labelled-names.png)
+![צילום מסך](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **יציאות USB** - אלה משמשות לחיבור עכבר ומקלדת. ניתן גם לחבר רכיבים אחרים, כגון כונן USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **חריץ לכרטיס SD** - תוכל להחריץ את כרטיס ה- SD כאן. כאן מאוחסנות תוכנת מערכת ההפעלה והקבצים שלך.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **יציאת Ethernet** - פעולה זו משמשת לחיבור ה- Pipberry Fi לרשת עם כבל. פספל פאי יכול גם להתחבר לרשת באמצעות LAN אלחוטי.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **שקע אודיו** - באפשרותך לחבר אוזניות או רמקולים כאן.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **יציאת HDMI** - זה המקום שבו אתה מחבר את הצג (או המקרן) שבו אתה משתמש כדי להציג את הפלט מה- Raspberry Pi. אם הצג שברשותך כולל רמקולים, באפשרותך גם להשתמש בהם כדי לשמוע צליל.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **מחבר מתח USB מיקרו** - כאן אתה מחבר ספק כוח. אתה תמיד צריך לעשות את זה לאחרונה, לאחר שחיברת את כל הרכיבים האחרים שלך.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **יציאות GPIO** - אלה מאפשרות לך לחבר רכיבים אלקטרוניים כגון נוריות ולחצנים ל - Raspberry Pi.
