@@ -1,21 +1,21 @@
-## What you will need
+## Co będzie potrzebne
 
-### Hardware
+### Sprzęt komputerowy
 
-+ A Raspberry Pi computer with an SD card
++ Komputer Raspberry Pi z kartą SD
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ Monitor z kablem (i, jeśli to konieczne, z adapterem HDMI)
 
-+ A USB keyboard and mouse
++ Klawiatura i mysz USB
 
-+ A power supply
++ Zasilanie
 
-+ Headphones or speakers (optional)
++ Słuchawki lub głośniki (opcjonalnie)
 
-+ An ethernet cable (optional)
++ Kabel ethernetowy (opcjonalnie)
 
-### Software
+### Oprogramowanie
 
-+ Raspbian, installed via NOOBS
++ Raspbian, zainstalowany przez NOOBS
 
 [[[noobs-install]]]
