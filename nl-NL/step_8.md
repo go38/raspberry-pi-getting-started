@@ -1,13 +1,13 @@
-\--- uitdaging \---
+\--- challenge \---
 
-## Uitdaging: verken de Raspberry Pi
+## Uitdaging: ontdek de Raspberry Pi
 
-Volg een rondleiding door het menu - vindt u:
+Loop eens door het menu - kun je het volgende vinden:
 
 + Een versie van Scratch?
 
 + Een Python-spel om te spelen?
 
-+ Een versie van Minecraft die u kunt programmeren?
++ Een versie van Minecraft die je kunt programmeren?
 
-\--- / uitdaging \---
+\--- /challenge \---
