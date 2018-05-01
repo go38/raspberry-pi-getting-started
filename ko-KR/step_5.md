@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## 라즈베리 파이 연결
 
-Let's connect up your Raspberry Pi and get it running.
+라즈베리 파이를 연결하고 실행 해 봅시다.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Raspberry Pi에 이미 밑면의 슬롯에 SD 카드가 있는지 확인하고 그렇지 않은 경우 Raspbian이 설치된 SD 카드를 삽입하십시오 (NOOBS를 통해). 더 큰 어댑터 안에는 많은 SD 카드가 들어가고 하단의 립을 사용하여 카드를 밀어 낼 수 있습니다.
     
-    ![screenshot](images/pi-sd.png)
+    ![스크린 샷](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ 마우스의 USB 커넥터를 찾고 마우스를 Raspberry Pi의 USB 포트 중 하나에 연결하십시오 (어느 것이 든 상관 없습니다).
     
-    ![screenshot](images/pi-mouse.png)
+    ![스크린 샷](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ 동일한 방법으로 키보드를 연결하십시오.
     
-    ![screenshot](images/pi-keyboard.png)
+    ![스크린 샷](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Raspberry Pi의 HDMI 포트를 살펴보십시오. 상단에 대형 평평한면이 있습니다.
     
-    ![screenshot](images/pi-hdmi.png)
+    ![스크린 샷](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+모니터가 콘센트에 꽂혀 있고 전원이 켜져 있는지 확인하십시오.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ 모니터 케이블을 Pi의 HDMI 포트에 연결하십시오 - 필요한 경우 어댑터를 사용하십시오.
 
-Nothing will display yet.
+아무것도 표시되지 않습니다.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ 헤드폰이나 스피커를 오디오 잭에 연결하십시오.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ 가지고있는 경우, 이더넷 케이블을 사용하여 라즈베리 파이의 이더넷 포트를 벽이나 라우터의 이더넷 소켓에 연결하십시오. 무선 LAN을 사용하거나 인터넷에 연결하지 않으려는 경우에는이 작업을 수행 할 필요가 없습니다.
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ 마이크로 USB 전원 포트는 평평한 쪽이 길게되어 있습니다.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+전원 공급 장치를 소켓에 꽂고 마이크로 USB 전원 포트에 연결하십시오.
 
-![screenshot](images/pi-power.png)
+![스크린 샷](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+모니터의 라스베리 파이와 라스베리에 빨간색 표시등이 켜져 있어야합니다.
 
-The Pi will boot up into a graphical desktop.
+Pi는 그래픽 데스크탑으로 부팅됩니다.
 
-![screenshot](images/pi-desktop.png)
+![스크린 샷](images/pi-desktop.png)
