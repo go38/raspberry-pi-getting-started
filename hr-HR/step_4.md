@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- izazov \---
 
-## Challenge: explain the Raspberry Pi
+## Izazov: objasnite Malu Malu
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Pronađite nekoga i objasnite im što svaki od dijelova Maline Pi čini.
 
-![screenshot](images/pi-labelled-names.png)
+![zaslona](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- / izazov \---
