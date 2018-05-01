@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- thử thách \---
 
-## Challenge: explore the Raspberry Pi
+## Thách thức: khám phá Raspberry Pi
 
-Take a tour of the menu — can you find:
+Tham quan thực đơn - bạn có thể tìm thấy:
 
-+ A version of Scratch?
++ Một phiên bản của Scratch?
 
-+ A Python game to play?
++ Một trò chơi Python để chơi?
 
-+ A version of Minecraft that you can program?
++ Một phiên bản Minecraft mà bạn có thể lập trình?
 
-\--- /challenge \---
+\--- /thử thách \---
