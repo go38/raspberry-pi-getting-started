@@ -2,7 +2,7 @@
 
 Nu is het tijd voor een rondleiding door de Raspberry Pi.
 
-+ Zie je die framboos in de linkerbovenhoek? Dat is waar u het menu opent: klik erop en u zult veel toepassingen vinden.
++ Zie je die framboos in de linkerbovenhoek? Dat is waar je het menu opent: klik erop voor de vele toepassingen.
 
 + Klik op **Accessoires** en kies **Teksteditor**.
 
