@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Une visite du Raspberry Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+Il est maintenant temps de faire un tour du Raspberry Pi.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Voyez-vous que Raspberry est dans le coin supérieur gauche? C'est là que vous accédez au menu: cliquez dessus, et vous trouverez beaucoup d'applications.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Cliquez sur **Accessoires** et choisissez **Éditeur de texte**.
 
-![screenshot](images/pi-accessories.png)
+![capture d'écran](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Type `Je viens de construire un Raspberry Pi` dans la fenêtre qui apparaît.
 
-![screenshot](images/pi-text-editor.png)
+![capture d'écran](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Cliquez sur **Fichier**, puis choisissez **Enregistrer**, puis cliquez sur **Bureau** et enregistrez le fichier sous le nom `rp.txt`.
 
-![screenshot](images/pi-save.png)
+![capture d'écran](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ Vous devriez voir une icône nommée `rp.txt` apparaître sur le bureau.
 
-![screenshot](images/pi-saved.png)
+![capture d'écran](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+Votre fichier a été enregistré sur la carte SD du Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Fermez l'éditeur de texte en cliquant sur le **X** dans le coin supérieur droit de la fenêtre.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Revenez au menu Raspberry, choisissez **Shutdown**, puis choisissez **Reboot**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Lorsque le Pi a redémarré, votre fichier devrait toujours être là.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Le Raspberry Pi exécute une version d'un système d'exploitation appelé Linux (Windows et macOS sont d'autres systèmes d'exploitation). Cela vous permet de le faire en tapant des commandes au lieu de cliquer sur les options du menu. Cliquez sur le **Terminal** en haut de l'écran:
 
-![screenshot](images/pi-command-prompt.png)
+![capture d'écran](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ Dans la fenêtre qui apparaît, tapez:
 
     ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+puis appuyez sur <kbd>Entrez</kbd> sur le clavier.
 
-This will list the files in your `home` directory.
+Cela affichera les fichiers dans votre répertoire `home`.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Tapez maintenant cette commande sur **c**hange **d**sur le bureau:
 
     cd Desktop
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+Vous devez appuyer sur la touche <kbd>Enter</kbd> après chaque commande.
 
 Type:
 
     ls
     
 
-Can you see the file you created?
+Pouvez-vous voir le fichier que vous avez créé?
 
-+ Close the terminal window by clicking on the **X**.
++ Fermez la fenêtre du terminal en cliquant sur le **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Faites maintenant glisser `rp.txt` dans la Corbeille sur le bureau pour que le Pi soit prêt pour la prochaine personne.
     
-    ![screenshot](images/pi-waste.png)
+    ![capture d'écran](images/pi-waste.png)
