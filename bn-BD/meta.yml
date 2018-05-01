@@ -1,35 +1,35 @@
 ---
-hero_image: images/getting-started-with-raspberry-pi.png
-theme: red
+hero_image: ইমেজ / পেয়ে-শুরু-সঙ্গে-ফলবিশেষ-pi.png
+theme: লাল
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
-title: Getting started with the Raspberry Pi
-description: Set up your Raspberry Pi and explore what it can do
+curriculum: 1, ডিজাইন -0, প্রোগ্রামিং -0, পদার্থ-কম্প-1, উৎপাদন -0, কমিউনিটি -২0
+title: রাস্পবেরি পাই দিয়ে শুরু করা
+description: আপনার রাস্পবেরি পিআই সেট আপ করুন এবং এটি করতে পারেন কি এক্সপ্লোর
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: raspberry-pi
-site_areas: projects
-hardware: raspberry-pi
+technologies: ফলবিশেষ-Pi
+site_areas: প্রকল্প
+hardware: ফলবিশেষ-Pi
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: ভূমিকা
   - 
-    title: What you will need
+    title: আপনার যা দরকার
   - 
-    title: Meet the Raspberry Pi
+    title: রাস্পবেরি পাই পূরণ করুন
   - 
-    title: 'Challenge: explain the Raspberry Pi'
+    title: 'চ্যালেঞ্জ: রাস্পবেরি পাই ব্যাখ্যা করুন'
   - 
-    title: Connect your Raspberry Pi
+    title: আপনার রাস্পবেরি পাই সংযুক্ত করুন
   - 
-    title: A tour of the Raspberry Pi
+    title: রাস্পবেরী পাই এর একটি সফর
   - 
-    title: Browsing the web
+    title: ওয়েব ব্রাউজিং
   - 
-    title: 'Challenge: explore the Raspberry Pi'
+    title: 'চ্যালেঞ্জ: রাস্পবেরি পাই অনুসন্ধান করুন'
