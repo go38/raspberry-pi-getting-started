@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Taith o amgylch y Mws Mws
 
-Now it's time to take a tour of the Raspberry Pi.
+Nawr mae'n amser mynd ar daith o amgylch y Mws Môr.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Gweler bod Mafon i fyny yn y gornel chwith uchaf? Dyna lle rydych chi'n cyrraedd y ddewislen: cliciwch arno, a chewch lawer o geisiadau.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Cliciwch **Affeithwyr** a dewiswch **Golygydd Testun**.
 
 ![screenshot](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Math `Rydw i wedi adeiladu Mwg` yn y ffenestr sy'n ymddangos.
 
 ![screenshot](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Cliciwch ar **Ffeil**, yna dewiswch **Cadw**, ac wedyn cliciwch ar **Bwrdd Gwaith** a chadw'r ffeil fel `rp.txt`.
 
 ![screenshot](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ Dylech weld eicon a enwir `rp.txt` yn ymddangos ar y bwrdd gwaith.
 
 ![screenshot](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+Mae'ch ffeil wedi'i chadw i gerdyn SD Mwg y Mws.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Cau'r golygydd testun trwy glicio ar **X** yng nghornel dde uchaf y ffenestr.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Dychwelwch i'r ddewislen Mafon, dewiswch **Symud**, ac yna dewis **Ailgychwyn**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Pan fydd y Pi wedi ailgychwyn, dy ffeil dal i fod yno.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Mae'r Mws Mafon yn rhedeg fersiwn o system weithredu o'r enw Linux (Windows a MacOS yn systemau gweithredu eraill). Mae'n eich galluogi i ddigwydd trwy deipio gorchmynion yn hytrach na chlicio ar ddewisiadau dewislen. Cliciwch ar y **Terfynfa** ar frig y sgrin:
 
 ![screenshot](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ Yn y ffenestr sy'n ymddangos, teipiwch:
 
     ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+ac yna pwyswch <kbd>Rhowch</kbd> ar y bysellfwrdd.
 
-This will list the files in your `home` directory.
+Bydd hyn yn rhestru'r ffeiliau yn eich cyfeiriadur `cartref`.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Nawr teipiwch y gorchymyn hwn at **c**hange **d**irectory i'r Bwrdd Gwaith:
 
-    cd Desktop
+    cd pen desg
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+Rhaid ichi bwyso'r <kbd>Enter Enter</kbd> ar ôl pob gorchymyn.
 
-Type:
+Math:
 
     ls
     
 
-Can you see the file you created?
+Allwch chi weld y ffeil a grewsoch chi?
 
-+ Close the terminal window by clicking on the **X**.
++ Caewch y ffenestr derfynell trwy glicio ar **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Nawr llusgo `rp.txt` i'r Basged Gwastraff ar y bwrdd gwaith felly bydd y Pi yn barod ar gyfer y person nesaf.
     
     ![screenshot](images/pi-waste.png)
