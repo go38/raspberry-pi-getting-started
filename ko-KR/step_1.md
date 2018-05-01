@@ -1,21 +1,21 @@
-## Introduction
+## 소개
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+이 프로젝트에서 당신은 Raspberry Pi 컴퓨터를 연결하고 그것이 무엇을 할 수 있는지 알아낼 것입니다.
 
-### What you will make
+### 너는 무엇을 만들지
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Raspberry Pi는 많은 일을 할 수있는 소형 컴퓨터입니다. 모니터에 꽂고 키보드와 마우스를 연결합니다.
 
-![screenshot](images/pi-plug-in.gif)
+![스크린 샷](images/pi-plug-in.gif)
 
-### What you will learn
+### 배우게 될 것
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+이 프로젝트는 [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}의 다음 요소의 요소를 다룹니다.
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [기본 디지털, 아날로그 및 전기 기계 구성 요소 사용](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### 교육자를위한 추가 정보
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+이 프로젝트를 인쇄하려면</a>{: target = "_ blank"} 프린터 친화적 인 버전을 사용하십시오.</p> 
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+바닥 글의 링크를 사용하여 'en / resources'폴더에있는 모든 리소스 (예 : 완료된 프로젝트 포함)가 들어있는이 프로젝트의 GitHub 저장소에 액세스합니다.
