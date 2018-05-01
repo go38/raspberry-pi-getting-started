@@ -1,21 +1,21 @@
-## Introduction
+## المقدمة
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+في هذا المشروع سوف تقوم بتوصيل جهاز كمبيوتر Raspberry Pi ومعرفة ما يمكن القيام به.
 
-### What you will make
+### ماذا ستفعل
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+و Raspberry بي هو جهاز كمبيوتر صغير يمكنه القيام بالكثير من الأشياء. قمت بتوصيله إلى جهاز العرض وإرفاق لوحة المفاتيح والماوس.
 
-![screenshot](images/pi-plug-in.gif)
+![لقطة شاشة](images/pi-plug-in.gif)
 
-### What you will learn
+### ما سوف تتعلم
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+يغطي هذا المشروع عناصر من السلاسل التالية من [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [استخدام المكونات الرقمية والتناظرية والكهروميكانيكية الأساسية](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### معلومات إضافية للمعلمين
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+استخدم الارتباط الموجود في التذييل للوصول إلى مستودع GitHub لهذا المشروع ، والذي يحتوي على جميع الموارد (بما في ذلك مشروع انتهى) في مجلد 'en / resources'.
