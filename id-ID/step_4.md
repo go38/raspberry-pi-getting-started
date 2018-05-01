@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: explain the Raspberry Pi
+## Tantangan: jelaskan Raspberry Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Temukan orang lain dan jelaskan kepada mereka apa yang dilakukan oleh masing-masing bagian dari Raspberry Pi.
 
-![screenshot](images/pi-labelled-names.png)
+![tangkapan layar](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- / tantangan \---
