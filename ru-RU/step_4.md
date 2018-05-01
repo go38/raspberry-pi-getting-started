@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- вызов \---
 
-## Challenge: explain the Raspberry Pi
+## Задача: объяснить Малину Пи
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Найдите кого-то еще и объясните им, что делает каждая из частей малины.
 
-![screenshot](images/pi-labelled-names.png)
+![Скриншот](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /вызов \---
