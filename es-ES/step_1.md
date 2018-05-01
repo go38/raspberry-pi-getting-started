@@ -1,21 +1,21 @@
-## Introduction
+## Introducción
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+En este proyecto, conectará una computadora Raspberry Pi y descubrirá qué puede hacer.
 
-### What you will make
+### Lo que harás
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+La Raspberry Pi es una computadora pequeña que puede hacer muchas cosas. Lo conecta a un monitor y conecta un teclado y mouse.
 
-![screenshot](images/pi-plug-in.gif)
+![captura de pantalla](images/pi-plug-in.gif)
 
-### What you will learn
+### Lo que vas a aprender
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Usar componentes digitales, analógicos y electromecánicos básicos](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Información adicional para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Si necesita imprimir este proyecto, utilice la [versión para impresión](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Use el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluido un proyecto terminado de ejemplo) en la carpeta 'en / resources'.
