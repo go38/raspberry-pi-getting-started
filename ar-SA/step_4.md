@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- التحدي \---
 
-## Challenge: explain the Raspberry Pi
+## التحدي: شرح Raspberry Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+ابحث عن شخص آخر واشرح لهم ما يفعله كل جزء من أجزاء Raspberry Pi.
 
-![screenshot](images/pi-labelled-names.png)
+![لقطة شاشة](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /التحدي \---
