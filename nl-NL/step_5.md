@@ -26,18 +26,18 @@ Zorg ervoor dat de monitor is aangesloten op het stopcontact en is ingeschakeld.
 
 Je ziet nog niks.
 
-+ Sluit een koptelefoon of luidsprekers op de audio-aansluiting aan als u er wat hebt.
++ Sluit, als je die hebt, een koptelefoon of luidsprekers aan op de audio-aansluiting.
 
-+ Als je die hebt, gebruik dan een ethernetkabel om de ethernetpoort van de Raspberry Pi aan te sluiten op een ethernetaansluiting aan de muur of op je router. (U hoeft dit niet te doen als u een draadloos LAN gebruikt of als u geen verbinding met internet wilt maken.)
++ Als het nodig is kun je een ethernetkabel aansluiten op de ethernetpoort van de Raspberry Pi en de ethernetaansluiting aan de muur of op je router. (Dat is niet nodig als je een draadloos LAN gebruikt of als je geen verbinding met internet wilt hebben.)
 
-+ Merk op dat de micro USB-voedingspoort een langere platte kant aan de bovenkant heeft.
++ De micro USB-voedingspoort heeft een langere platte kant aan de bovenkant.
 
-Sluit de voeding aan op een stopcontact en sluit deze aan op de micro USB-voedingspoort.
+Sluit de stroomvoorziening aan op een stopcontact en sluit die aan op de micro USB-stroompoort.
 
 ![screenshot](images/pi-power.png)
 
-Je zou een rood licht op de Raspberry Pi en frambozen op de monitor moeten zien.
+Op de Raspberry Pi zou je een rood lichtje moeten zien en op de monitor frambozen (Engels: raspberry).
 
-De Pi start op in een grafisch bureaublad.
+De Pi start op met een grafisch bureaublad.
 
 ![screenshot](images/pi-desktop.png)
