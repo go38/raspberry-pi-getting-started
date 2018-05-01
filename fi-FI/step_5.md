@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## Yhdistä Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Liitämme vadelmasi Pi ja saat sen käynnissä.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Tarkista, että Raspberry Pi -laitteessa on jo SD-kortti alapuolella olevassa korttipaikassa, ja jos ei, aseta SD-kortti Raspbian asennettuna (NOOBS). Paljon SD-kortteja tulee suuremman sovittimen sisään, ja voit vetää kortin pois tästä käyttämällä huuli alhaalta.
     
-    ![screenshot](images/pi-sd.png)
+    ![kuvakaappaus](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Etsi hiiren USB-liitin ja liitä hiiri yhteen Vadelma Pi -sovittimen USB-porttiin (ei ole väliä, mikä).
     
-    ![screenshot](images/pi-mouse.png)
+    ![kuvakaappaus](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Liitä näppäimistö samalla tavalla.
     
-    ![screenshot](images/pi-keyboard.png)
+    ![kuvakaappaus](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Katso Raspberry Pi: n HDMI-portti - huomaa, että siinä on suuri litteä puoli ylhäällä.
     
-    ![screenshot](images/pi-hdmi.png)
+    ![kuvakaappaus](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Varmista, että näyttösi on kytketty pistorasiaan ja kytketty päälle.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Liitä näyttökaapeli Pi: n HDMI-porttiin - käytä tarvittaessa sovitinta.
 
-Nothing will display yet.
+Mikään ei vielä näy.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ Liitä kuulokkeet tai kaiuttimet ääniliitäntään, jos sinulla on joitain.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ Jos sinulla on yksi, käytä ethernet-kaapelia Raspberry Pi: n ethernet-portin kytkemiseen seinässä tai reitittimessä olevaan Ethernet-liitäntään. (Sinun ei tarvitse tehdä tätä, jos käytät langatonta lähiverkkoa tai jos et halua muodostaa yhteyden Internetiin.)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Huomaa, että mikro-USB-virtalähteessä on pidempi tasainen puoli ylhäällä.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Kytke virtalähde pistorasiaan ja liitä se mikro-USB-virtalähteeseen.
 
-![screenshot](images/pi-power.png)
+![kuvakaappaus](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Sinun pitäisi nähdä punainen valo Vadelma Pi ja vadelmia näytöllä.
 
-The Pi will boot up into a graphical desktop.
+Pi käynnistyy graafiseen työpöytään.
 
-![screenshot](images/pi-desktop.png)
+![kuvakaappaus](images/pi-desktop.png)
