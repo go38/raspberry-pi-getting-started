@@ -1,35 +1,35 @@
-## Browsing the web
+## تصفح الإنترنت
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+قد ترغب في توصيل جهاز Raspberry Pi بالإنترنت. إذا لم تقم بتوصيل كابل Ethernet ، فستحتاج إلى الاتصال بشبكة لاسلكية.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+لتمكين Wi-Fi على جهاز Raspberry Pi ، ستحتاج إلى تعيين بلد Wi-Fi.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![مجموعة واي فاي بلد](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ حدد **Preferences**، **Raspberry Pi Configuration** من القائمة.
 
-+ Click the **Localisation** tab.
++ انقر فوق علامة التبويب **الترجمة**.
 
-+ Click **Set WiFi Country** button.
++ انقر فوق الزر **Set WiFi Country**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![حدد دولة واي فاي](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ حدد بلدك من القائمة وانقر فوق **موافق**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+بمجرد تعيين بلد Wi-Fi ، يمكنك الاتصال بشبكة لاسلكية.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ انقر على الرمز الذي يحتوي على علامات حمراء في الجانب العلوي الأيسر من الشاشة ، وحدد شبكتك من القائمة المنسدلة. قد تحتاج أن تطلب من شخص بالغ أي شبكة يجب أن تختارها.
 
-![No wifi](images/no-wifi.png)
+![لا واي فاي](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ اكتب كلمة المرور الخاصة بشبكتك اللاسلكية ، أو اطلب من شخص بالغ أن يكتبها لك ، ثم انقر فوق **موافق**.
 
-![Type in password](images/type-password.png)
+![اكتب كلمة المرور](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ عندما يتم توصيل جهاز Pi الخاص بك بالإنترنت ، سترى رمز الشبكة المحلية اللاسلكية بدلاً من علامات الصليب الأحمر.
 
-![screenshot](images/pi-wifi.png)
+![لقطة شاشة](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ انقر فوق رمز متصفح الويب وابحث عن `raspberry pi`.
 
-![screenshot](images/pi-browser.png)
+![لقطة شاشة](images/pi-browser.png)
