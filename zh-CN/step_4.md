@@ -1,9 +1,9 @@
-\--- challenge \---
+\---挑战\---
 
-## Challenge: explain the Raspberry Pi
+## 挑战：解释树莓派
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+找到其他人并向他们解释Raspberry Pi的每个部分是干什么的。
 
-![screenshot](images/pi-labelled-names.png)
+![截图](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /挑战\---
