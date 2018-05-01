@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- চ্যালেঞ্জ \---
 
-## Challenge: explore the Raspberry Pi
+## চ্যালেঞ্জ: রাস্পবেরি পাই অনুসন্ধান করুন
 
-Take a tour of the menu — can you find:
+মেনু একটি সফর নিন - আপনি খুঁজে পেতে পারেন:
 
-+ A version of Scratch?
++ স্ক্র্যাচ একটি সংস্করণ?
 
-+ A Python game to play?
++ একটি পাইথন খেলা খেলতে?
 
-+ A version of Minecraft that you can program?
++ আপনি প্রোগ্রাম করতে পারেন যে Minecraft একটি সংস্করণ?
 
-\--- /challenge \---
+\--- / চ্যালেঞ্জ \---
