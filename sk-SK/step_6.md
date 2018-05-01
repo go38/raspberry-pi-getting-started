@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Prehliadka Raspberry Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+Teraz je čas vziať si prehliadku Raspberry Pi.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Pozrite sa na Raspberry hore v ľavom hornom rohu? To je miesto, kde vstúpite do ponuky: kliknite na ňu a nájdete veľa aplikácií.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Kliknite na **Príslušenstvo** a vyberte **Text Editor**.
 
 ![screenshot](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Typ `V okne, ktoré sa zobrazí, som postavil Raspberry Pi`.
 
 ![screenshot](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Kliknite na **Súbor**, potom vyberte **Uložiť**a potom kliknite na **Plochu** a uložte súbor ako `rp.txt`.
 
 ![screenshot](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ Na pracovnej ploche by sa mala zobraziť ikona s názvom `rp.txt`.
 
 ![screenshot](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+Váš súbor bol uložený na SD kartu Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Zatvorte textový editor kliknutím na **X** v pravom hornom rohu okna.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Vráťte sa do ponuky Raspberry, zvoľte **Vypnutie**a potom zvoľte **Reboot**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Po reštartovaní súboru Pi by mal byť váš súbor stále tam.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Raspberry Pi prevádzkuje verziu operačného systému nazvaného Linux (Windows a MacOS sú iné operačné systémy). Umožňuje to, aby ste sa stali písaním príkazov namiesto kliknutia na možnosti menu. Kliknite na **Terminal** v hornej časti obrazovky:
 
 ![screenshot](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ V okne, ktoré sa zobrazí, zadajte:
 
     ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+a potom stlačte <kbd>Zadajte</kbd> na klávesnici.
 
-This will list the files in your `home` directory.
+Zobrazia sa súbory vo vašom `domovskom adresári`.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Teraz napíšte tento príkaz do **c**hange **d**na ploche:
 
     cd Desktop
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+Po každom príkaze musíte stlačiť kláves <kbd>Zadajte</kbd>.
 
-Type:
+typ:
 
     ls
     
 
-Can you see the file you created?
+Môžete vidieť súbor, ktorý ste vytvorili?
 
-+ Close the terminal window by clicking on the **X**.
++ Zatvorte okno terminálu kliknutím na **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Teraz presuňte `rp.txt` do Wastebasket na pracovnej ploche, aby bol Pi pripravený na ďalšiu osobu.
     
     ![screenshot](images/pi-waste.png)
