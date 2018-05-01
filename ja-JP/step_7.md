@@ -1,35 +1,35 @@
-## Browsing the web
+## ウェブの閲覧
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+ラズベリーパイをインターネットに接続したいかもしれません。 イーサネットケーブルを接続していない場合は、ワイヤレスネットワークに接続する必要があります。
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+あなたのラズベリーパイでWi-Fiを有効にするには、Wi-Fiの国を設定する必要があります。
 
-![set wifi country](images/pi-set-wifi-country.png)
+![wifi countryを設定する](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ メニューから **Preferences**、 **Raspberry Pi Configuration** を選択します。
 
-+ Click the **Localisation** tab.
++ [ **ローカリゼーション** ]タブをクリックします。
 
-+ Click **Set WiFi Country** button.
++ **[WiFi Country** ]ボタンをクリックします。
 
-![select wifi country](images/pi-select-wifi-country.png)
+![wifi国を選択](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ リストから国を選択し、 **OK**をクリックします。
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Wi-Fiの国が設定されると、ワイヤレスネットワークに接続できます。
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ 画面の右上隅にある赤い十字のアイコンをクリックし、ドロップダウンメニューからネットワークを選択します。 どのネットワークを選ぶべきか大人に質問する必要があるかもしれません。
 
-![No wifi](images/no-wifi.png)
+![無線LANはありません](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ ワイヤレスネットワークのパスワードを入力するか、大人に入力して **OK**をクリックしてください。
 
-![Type in password](images/type-password.png)
+![パスワードを入力してください](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Piがインターネットに接続されると、赤い十字の代わりに無線LANの記号が表示されます。
 
-![screenshot](images/pi-wifi.png)
+![スクリーンショット](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ Webブラウザのアイコンをクリックして、 `raspberry pi`を検索します。
 
-![screenshot](images/pi-browser.png)
+![スクリーンショット](images/pi-browser.png)
