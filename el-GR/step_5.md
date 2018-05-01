@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## Συνδέστε το Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Ας συνδέσουμε το Raspberry Pi σας και να το τρέξουμε.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Ελέγξτε αν το Raspberry Pi έχει ήδη μια κάρτα SD στην υποδοχή στην κάτω πλευρά και εάν όχι, τοποθετήστε μια κάρτα SD με εγκατεστημένο το Raspbian (μέσω NOOBS). Πολλές κάρτες SD θα έρθουν μέσα σε ένα μεγαλύτερο προσαρμογέα και μπορείτε να μετακινήσετε την κάρτα έξω από αυτό χρησιμοποιώντας το χείλος στο κάτω μέρος.
     
     ![screenshot](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Βρείτε τη θύρα USB για το ποντίκι σας και συνδέστε το ποντίκι σε μια από τις θύρες USB του Raspberry Pi (δεν έχει σημασία ποια).
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Συνδέστε το πληκτρολόγιο με τον ίδιο τρόπο.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Κοιτάξτε τη θύρα HDMI στο Raspberry Pi - παρατηρήστε ότι έχει μια μεγάλη επίπεδη πλευρά στην κορυφή.
     
     ![screenshot](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Βεβαιωθείτε ότι η οθόνη σας είναι συνδεδεμένη σε πρίζα και είναι ενεργοποιημένη.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Συνδέστε το καλώδιο οθόνης στη θύρα HDMI του Pi - χρησιμοποιήστε έναν προσαρμογέα, εάν είναι απαραίτητο.
 
-Nothing will display yet.
+Τίποτα δεν θα εμφανιστεί ακόμα.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ Συνδέστε τα ακουστικά ή τα ηχεία με την υποδοχή ήχου, εάν έχετε κάποια.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ Εάν έχετε ένα, χρησιμοποιήστε ένα καλώδιο ethernet για να συνδέσετε τη θύρα Ethernet στο Raspberry Pi σε μια πρίζα Ethernet στον τοίχο ή στον δρομολογητή. (Δεν χρειάζεται να το κάνετε αυτό εάν χρησιμοποιείτε ασύρματο LAN ή εάν δεν θέλετε να συνδεθείτε στο Internet.)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Παρατηρήστε ότι η θύρα τροφοδοσίας μικροϋπολογιστή USB έχει μεγαλύτερη επίπεδη πλευρά στην κορυφή.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Συνδέστε την παροχή ρεύματος σε μια πρίζα και συνδέστε την στη θύρα τροφοδοσίας micro USB.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Θα πρέπει να δείτε ένα κόκκινο φως στο Raspberry Pi και σμέουρα στην οθόνη.
 
-The Pi will boot up into a graphical desktop.
+Το Pi θα εκκινήσει σε γραφική επιφάνεια εργασίας.
 
 ![screenshot](images/pi-desktop.png)
