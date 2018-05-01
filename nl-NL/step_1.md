@@ -1,21 +1,21 @@
-## Introduction
+## Invoering
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+In dit project verbind je een Raspberry Pi-computer en ontdek je wat het kan doen.
 
-### What you will make
+### Wat ga je maken?
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+De Raspberry Pi is een kleine computer die veel dingen kan doen. Je steekt hem in een monitor en bevestigt een toetsenbord en muis.
 
 ![screenshot](images/pi-plug-in.gif)
 
-### What you will learn
+### Wat je zult leren
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Gebruik standaard digitale, analoge en elektromechanische componenten](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Aanvullende informatie voor opvoeders
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Als u dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Gebruik de link in de footer om toegang te krijgen tot de GitHub-repository voor dit project, dat alle bronnen (inclusief een voorbeeld voltooid project) bevat in de map 'en / resources'.
