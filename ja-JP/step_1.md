@@ -1,21 +1,21 @@
-## Introduction
+## 前書き
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+このプロジェクトでは、ラズベリーパイコンピュータを接続し、それができることを見つけます。
 
-### What you will make
+### あなたが作るもの
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+ラズベリーパイは、多くのことをすることができる小さなコンピュータです。 モニターに接続し、キーボードとマウスを接続します。
 
-![screenshot](images/pi-plug-in.gif)
+![スクリーンショット](images/pi-plug-in.gif)
 
-### What you will learn
+### あなたが学ぶもの
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトは、 [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){：target = "_ blank"}の以下の要素から構成されています。
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [基本的なデジタル、アナログ、および電気機械コンポーネントを使用する](https://curriculum.raspberrypi.org/physical-computing/creator/){：target = "_ blank"}
 
-### Additional information for educators
+### 教育者のための追加情報
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、</a>{：target = "_ blank"}という の印刷用バージョンを使用してください。</p> 
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
