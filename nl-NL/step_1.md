@@ -1,10 +1,10 @@
-## Invoering
+## Inleiding
 
 In dit project verbind je een Raspberry Pi-computer en ontdek je wat het kan doen.
 
-### Wat ga je maken?
+### Wat je gaat maken
 
-De Raspberry Pi is een kleine computer die veel dingen kan doen. Je steekt hem in een monitor en bevestigt een toetsenbord en muis.
+De Raspberry Pi is een kleine computer die veel dingen kan doen. Je sluit een monitor, een toetsenbord en een muis aan.
 
 ![screenshot](images/pi-plug-in.gif)
 
