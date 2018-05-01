@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- haaste \---
 
-## Challenge: explain the Raspberry Pi
+## Haaste: selitä Raspberry Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Etsi joku muu ja selitä heille, mitä kukin Raspberry Pi: n osa tekee.
 
-![screenshot](images/pi-labelled-names.png)
+![kuvakaappaus](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /haaste \---
