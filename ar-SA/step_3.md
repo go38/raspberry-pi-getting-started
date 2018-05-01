@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## تلبية Raspberry بي
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+دعونا نلقي نظرة على Raspberry Pi. يجب أن يكون لديك جهاز كمبيوتر Raspberry Pi أمامك لهذا الغرض. لا يجب أن تكون مرتبطة بأي شيء حتى الآن.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ انظر إلى Raspberry Pi. يمكنك العثور على جميع الأشياء المسمى على الرسم البياني؟
 
-![screenshot](images/pi-labelled-names.png)
+![لقطة شاشة](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **منافذ USB** - يتم استخدامها لتوصيل الماوس ولوحة المفاتيح. يمكنك أيضًا توصيل المكونات الأخرى ، مثل محرك أقراص USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **فتحة بطاقة SD** - يمكنك فتح بطاقة SD هنا. هذا هو المكان الذي يتم فيه تخزين برنامج نظام التشغيل والملفات الخاصة بك.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **منفذ Ethernet** - يتم استخدام هذا لتوصيل Raspberry Pi بشبكة بها كابل. يمكن لـ Raspberry Pi أيضًا الاتصال بشبكة عبر الشبكة المحلية اللاسلكية.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **مقبس الصوت** - يمكنك توصيل سماعات الرأس أو السماعات هنا.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **منفذ HDMI** - هذا هو المكان الذي تقوم فيه بتوصيل جهاز العرض (أو جهاز الإسقاط) الذي تستخدمه لعرض الإخراج من Raspberry Pi. إذا كانت شاشتك تحتوي على مكبرات صوت ، فيمكنك أيضًا استخدامها لسماع الصوت.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **موصل طاقة Micro USB** - هذا هو المكان الذي تقوم بتوصيل مصدر طاقة. يجب عليك القيام بذلك دائمًا ، بعد أن تقوم بتوصيل جميع المكونات الأخرى الخاصة بك.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **منافذ GPIO** - تتيح لك هذه التوصيلات المكونات الإلكترونية مثل مصابيح LED والأزرار إلى Raspberry Pi.
