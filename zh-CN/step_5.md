@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## 连接你的树莓派
 
-Let's connect up your Raspberry Pi and get it running.
+让我们连接你的Raspberry Pi并让它运行。
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ 检查您的Raspberry Pi是否已在底部的插槽中安装了SD卡，如果没有，请插入安装了Raspbian（通过NOOBS）的SD卡。 很多SD卡都会插入一个较大的适配器内，您可以使用底部的唇部将卡滑出。
     
-    ![screenshot](images/pi-sd.png)
+    ![截图](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ 找到鼠标的USB连接器，并将鼠标连接到Raspberry Pi上的其中一个USB端口（无论哪一个都没关系）。
     
-    ![screenshot](images/pi-mouse.png)
+    ![截图](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ 以相同的方式连接键盘。
     
-    ![screenshot](images/pi-keyboard.png)
+    ![截图](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ 看看Raspberry Pi上的HDMI端口 - 注意它的顶部有一个大的平面。
     
-    ![screenshot](images/pi-hdmi.png)
+    ![截图](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+确保您的显示器已插入墙上插座并打开。
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ 将显示器电缆连接到Pi的HDMI端口 - 必要时使用适配器。
 
-Nothing will display yet.
+什么都不会显示。
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ 如果您有耳机或扬声器，请将其连接至音频插孔。
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ 如果有，请使用以太网电缆将Raspberry Pi上的以太网端口连接到墙上或路由器上的以太网接口。 （如果您使用无线局域网，或者您不想连接到互联网，则无需这样做。）
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ 请注意，微型USB电源端口顶部有较长的平面。
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+将电源插入插座并将其连接到micro USB电源端口。
 
-![screenshot](images/pi-power.png)
+![截图](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+你应该看到树莓派上的红灯和监视器上的覆盆子。
 
-The Pi will boot up into a graphical desktop.
+Pi将启动到图形桌面。
 
-![screenshot](images/pi-desktop.png)
+![截图](images/pi-desktop.png)
