@@ -1,21 +1,21 @@
-## Introduction
+## pengantar
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+Dalam proyek ini Anda akan menghubungkan komputer Raspberry Pi dan mencari tahu apa yang bisa dilakukan.
 
-### What you will make
+### Apa yang akan Anda buat
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Raspberry Pi adalah komputer kecil yang dapat melakukan banyak hal. Anda hubungkan ke monitor dan pasang keyboard dan mouse.
 
-![screenshot](images/pi-plug-in.gif)
+![tangkapan layar](images/pi-plug-in.gif)
 
-### What you will learn
+### Apa yang akan Anda pelajari
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Proyek ini mencakup unsur-unsur dari rangkaian berikut [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Gunakan komponen dasar digital, analog, dan elektromekanis](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Informasi tambahan untuk pendidik
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Jika Anda perlu mencetak proyek ini, silakan gunakan [versi ramah-printer](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Gunakan tautan di footer untuk mengakses repositori GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek selesai) di folder 'en / resources'.
