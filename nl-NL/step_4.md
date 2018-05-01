@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- uitdaging \---
 
-## Challenge: explain the Raspberry Pi
+## Uitdaging: leg de Raspberry Pi uit
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Zoek iemand anders en leg uit wat elk deel van de Raspberry Pi doet.
 
 ![screenshot](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- / uitdaging \---
