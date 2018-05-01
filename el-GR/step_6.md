@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Μια περιήγηση στο Raspberry Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+Τώρα ήρθε η ώρα να κάνετε μια ξενάγηση στο Raspberry Pi.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Δείτε το Raspberry στην επάνω αριστερή γωνία; Εκεί θα έχετε πρόσβαση στο μενού: κάντε κλικ σε αυτό και θα βρείτε πολλές εφαρμογές.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Κάντε κλικ στο **Αξεσουάρ** και επιλέξτε **Text Editor**.
 
 ![screenshot](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Πληκτρολογήστε `Δημιούργησα ένα Raspberry Pi` στο παράθυρο που εμφανίζεται.
 
 ![screenshot](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Κάντε κλικ στο **Αρχείο**, στη συνέχεια επιλέξτε **Αποθήκευση**και, στη συνέχεια, κάντε κλικ στο **Desktop** και αποθηκεύστε το αρχείο ως `rp.txt`.
 
 ![screenshot](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ Θα εμφανιστεί ένα εικονίδιο με το όνομα `rp.txt` στην επιφάνεια εργασίας.
 
 ![screenshot](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+Το αρχείο σας έχει αποθηκευτεί στην κάρτα SD του Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Κλείστε τον επεξεργαστή κειμένου κάνοντας κλικ στο **X** στην επάνω δεξιά γωνία του παραθύρου.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Επιστρέψτε στο μενού Raspberry, επιλέξτε **Shutdown**και στη συνέχεια επιλέξτε **Επανεκκίνηση**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Όταν το Pi έχει επανεκκινήσει, το αρχείο σας θα πρέπει να είναι ακόμα εκεί.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Το Raspberry Pi εκτελεί μια έκδοση ενός λειτουργικού συστήματος που ονομάζεται Linux (τα Windows και τα macOS είναι άλλα λειτουργικά συστήματα). Σας επιτρέπει να κάνετε συμβάν πληκτρολογώντας εντολές αντί να κάνετε κλικ στις επιλογές του μενού. Κάντε κλικ στο **Terminal** στο επάνω μέρος της οθόνης:
 
 ![screenshot](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ Στο παράθυρο που εμφανίζεται, πληκτρολογήστε:
 
     ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+και στη συνέχεια πατήστε <kbd>Εισαγάγετε</kbd> στο πληκτρολόγιο.
 
-This will list the files in your `home` directory.
+Θα εμφανιστούν τα αρχεία στον `κατάλογο` της χώρας σας.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Τώρα πληκτρολογήστε αυτήν την εντολή στο **c**hange **d**irectory στην επιφάνεια εργασίας:
 
     cd Desktop
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+Πρέπει να πατήσετε το πλήκτρο <kbd>Εισάγετε</kbd> μετά από κάθε εντολή.
 
-Type:
+Τύπος:
 
     ls
     
 
-Can you see the file you created?
+Μπορείτε να δείτε το αρχείο που δημιουργήσατε;
 
-+ Close the terminal window by clicking on the **X**.
++ Κλείστε το παράθυρο του τερματικού κάνοντας κλικ στο **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Τώρα σύρετε `rp.txt` στο Wastebasket στην επιφάνεια εργασίας, ώστε το Pi να είναι έτοιμο για το επόμενο άτομο.
     
     ![screenshot](images/pi-waste.png)
