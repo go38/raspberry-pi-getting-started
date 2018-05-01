@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Een rondleiding door de Raspberry Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+Nu is het tijd voor een rondleiding door de Raspberry Pi.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Zie je die framboos in de linkerbovenhoek? Dat is waar u het menu opent: klik erop en u zult veel toepassingen vinden.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Klik op **Accessoires** en kies **Teksteditor**.
 
 ![screenshot](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Type `Ik heb net een Raspberry Pi` gebouwd in het venster dat verschijnt.
 
 ![screenshot](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Klik op **Bestand**, kies vervolgens **Opslaan**en klik vervolgens op **Desktop** en sla het bestand op als `rp.txt`.
 
 ![screenshot](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ Er zou een pictogram met de naam `rp.txt` op het bureaublad moeten verschijnen.
 
 ![screenshot](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+Uw bestand is opgeslagen op de SD-kaart van de Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Sluit de teksteditor door te klikken op **X** in de rechterbovenhoek van het venster.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Keer terug naar het Raspberry-menu, kies **Shutdown**en kies **Reboot**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Wanneer de Pi opnieuw is opgestart, moet uw bestand er nog steeds zijn.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ De Raspberry Pi voert een versie uit van een besturingssysteem genaamd Linux (Windows en macOS zijn andere besturingssystemen). Je kunt het laten gebeuren door opdrachten te typen in plaats van op menu-opties te klikken. Klik op de **Terminal** boven aan het scherm:
 
 ![screenshot](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ Typ in het venster dat verschijnt:
 
     ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+en druk dan op <kbd>Voer</kbd> in op het toetsenbord.
 
-This will list the files in your `home` directory.
+Hiermee worden de bestanden in uw `-startpagina` vermeld.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Typ nu deze opdracht naar **c**hange **d**adresregel naar het bureaublad:
 
     cd Desktop
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+U moet na elke opdracht op de <kbd></kbd> -toets drukken.
 
 Type:
 
     ls
     
 
-Can you see the file you created?
+Kun je het bestand zien dat je hebt gemaakt?
 
-+ Close the terminal window by clicking on the **X**.
++ Sluit het terminalvenster door op **X** te klikken.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Versleep nu `rp.txt` naar de Wastebasket op het bureaublad zodat de Pi klaar is voor de volgende persoon.
     
     ![screenshot](images/pi-waste.png)
