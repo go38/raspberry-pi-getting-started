@@ -1,35 +1,35 @@
-## Browsing the web
+## ওয়েব ব্রাউজিং
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+আপনি ইন্টারনেটে আপনার রাস্পবেরি পাই সংযোগ করতে চান। আপনি যদি একটি ইথারনেট তারের প্লাগ না করেন, তাহলে আপনাকে একটি বেতার নেটওয়ার্কের সাথে সংযোগ করতে হবে।
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+আপনার রাস্পবেরি পাইতে Wi-Fi সক্ষম করতে আপনাকে একটি Wi-Fi দেশ সেট করতে হবে।
 
-![set wifi country](images/pi-set-wifi-country.png)
+![ওয়াইফাই দেশ সেট](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ মেনু থেকে **অভিরুচি**, **রস্পবেরি পাই কনফিগারেশন** নির্বাচন করুন
 
-+ Click the **Localisation** tab.
++ **স্থানীয়করণ** ট্যাবে ক্লিক করুন
 
-+ Click **Set WiFi Country** button.
++ **ক্লিক করুন ওয়াইফাই দেশ সেট** বাটন।
 
-![select wifi country](images/pi-select-wifi-country.png)
+![ওয়াইফাই দেশ নির্বাচন করুন](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ তালিকা থেকে আপনার দেশ নির্বাচন করুন এবং **ওকে** ক্লিক করুন।
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+আপনি একবার Wi-Fi দেশটি সেট করলে আপনি একটি বেতার নেটওয়ার্কের সাথে সংযুক্ত হতে পারবেন।
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ পর্দার উপরের ডানদিকে কোণায় লাল ক্রস সহ আইকনে ক্লিক করুন, এবং ড্রপ ডাউন মেনু থেকে আপনার নেটওয়ার্ক নির্বাচন করুন। আপনি কোনও প্রাপ্তবয়স্ককে জিজ্ঞাসা করতে পারেন যে আপনার নেটওয়ার্কটি কি নির্বাচন করা উচিত।
 
-![No wifi](images/no-wifi.png)
+![কোন ওয়াইফাই](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ আপনার ওয়্যারলেস নেটওয়ার্কের জন্য পাসওয়ার্ড টাইপ করুন, বা আপনার জন্য এটি টাইপ করতে প্রাপ্তবয়স্ককে জিজ্ঞাসা করুন, তারপর **ওকে** এ ক্লিক করুন।
 
-![Type in password](images/type-password.png)
+![পাসওয়ার্ড টাইপ করুন](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ যখন আপনার Pi ইন্টারনেটে সংযুক্ত হয় তখন আপনি লাল ক্রসের পরিবর্তে একটি বেতার LAN প্রতীক দেখতে পাবেন।
 
-![screenshot](images/pi-wifi.png)
+![স্ক্রিনশট](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ ওয়েব ব্রাউজার আইকনে ক্লিক করুন এবং `রাস্পবেরী পিই` অনুসন্ধান করুন।
 
-![screenshot](images/pi-browser.png)
+![স্ক্রিনশট](images/pi-browser.png)
