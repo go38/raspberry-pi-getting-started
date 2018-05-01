@@ -4,15 +4,15 @@ Nu is het tijd voor een rondleiding door de Raspberry Pi.
 
 + Zie je die framboos in de linkerbovenhoek? Dat is waar je het menu opent: klik erop voor de vele toepassingen.
 
-+ Klik op **Accessoires** en kies **Teksteditor**.
++ Klik op **Accessories** en kies **Text Editor**.
 
 ![screenshot](images/pi-accessories.png)
 
-+ Type `Ik heb net een Raspberry Pi` gebouwd in het venster dat verschijnt.
++ Typ `Ik heb net een Raspberry Pi in elkaar gezet` in het venster dat verschijnt.
 
 ![screenshot](images/pi-text-editor.png)
 
-+ Klik op **Bestand**, kies vervolgens **Opslaan**en klik vervolgens op **Desktop** en sla het bestand op als `rp.txt`.
++ Klik op **File**, kies **Save** en klik dan vervolgens op **Desktop** en sla het bestand op als `rp.txt`.
 
 ![screenshot](images/pi-save.png)
 
@@ -20,7 +20,7 @@ Nu is het tijd voor een rondleiding door de Raspberry Pi.
 
 ![screenshot](images/pi-saved.png)
 
-Uw bestand is opgeslagen op de SD-kaart van de Raspberry Pi.
+Het bestand is opgeslagen op de SD-kaart van de Raspberry Pi.
 
 + Sluit de teksteditor door te klikken op **X** in de rechterbovenhoek van het venster.
 
