@@ -1,35 +1,35 @@
-## Browsing the web
+## Просмотр веб-страниц
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+Возможно, вы захотите подключить свой малиновый Pi к Интернету. Если вы не подключили кабель Ethernet, вам необходимо подключиться к беспроводной сети.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+Чтобы включить Wi-Fi на вашем малиновом Pi, вам необходимо установить страну Wi-Fi.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![установить wifi страну](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ В меню выберите **Настройки**, **Конфигурация малины Pi**.
 
-+ Click the **Localisation** tab.
++ Перейдите на вкладку **«Локализация**».
 
-+ Click **Set WiFi Country** button.
++ Нажмите кнопку **. Установите WiFi Country**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![выберите страну wifi](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Выберите свою страну из списка и нажмите **OK**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Как только вы установили Wi-Fi страну, вы можете подключиться к беспроводной сети.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Нажмите значок с красными крестиками в правом верхнем углу экрана и выберите свою сеть в раскрывающемся меню. Вам может потребоваться спросить взрослого, какую сеть вы должны выбрать.
 
-![No wifi](images/no-wifi.png)
+![Нет Wi-Fi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ Введите пароль для своей беспроводной сети или попросите взрослого ввести его для вас, затем нажмите **OK**.
 
-![Type in password](images/type-password.png)
+![Введите пароль](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Когда ваш Pi подключен к Интернету, вы увидите символ беспроводной локальной сети вместо красных крестов.
 
-![screenshot](images/pi-wifi.png)
+![Скриншот](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ Щелкните значок веб-браузера и выполните поиск `малины pi`.
 
-![screenshot](images/pi-browser.png)
+![Скриншот](images/pi-browser.png)
