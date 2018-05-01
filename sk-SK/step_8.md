@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- výzva \---
 
-## Challenge: explore the Raspberry Pi
+## Výzva: preskúmajte Raspberry Pi
 
-Take a tour of the menu — can you find:
+Prehliadnite si ponuku - môžete nájsť:
 
-+ A version of Scratch?
++ Verzia Scratch?
 
-+ A Python game to play?
++ Python hra hrať?
 
-+ A version of Minecraft that you can program?
++ Verziu programu Minecraft, ktorú môžete naprogramovať?
 
-\--- /challenge \---
+\--- /výzva \---
