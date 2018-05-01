@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Temui Raspberry Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Mari kita lihat Raspberry Pi. Anda harus memiliki komputer Raspberry Pi di depan Anda untuk ini. Seharusnya tidak terhubung dengan apa pun.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Lihatlah Raspberry Pi Anda. Dapatkah Anda menemukan semua hal yang berlabel pada diagram?
 
-![screenshot](images/pi-labelled-names.png)
+![tangkapan layar](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **Port USB** - ini digunakan untuk menghubungkan mouse dan keyboard. Anda juga dapat menghubungkan komponen lain, seperti drive USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **Slot kartu SD** - Anda dapat memasang kartu SD di sini. Di sinilah perangkat lunak sistem operasi dan file Anda disimpan.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Port Ethernet** - ini digunakan untuk menghubungkan Raspberry Pi ke jaringan dengan kabel. Raspberry Pi juga dapat terhubung ke jaringan melalui LAN nirkabel.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Soket audio** - Anda dapat menyambungkan headphone atau speaker di sini.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **Port HDMI** - ini adalah tempat Anda menyambungkan monitor (atau proyektor) yang Anda gunakan untuk menampilkan output dari Raspberry Pi. Jika monitor Anda memiliki speaker, Anda juga dapat menggunakannya untuk mendengar suara.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Konektor daya USB mikro** - ini adalah tempat Anda menghubungkan catu daya. Anda harus selalu melakukan ini terakhir, setelah Anda menghubungkan semua komponen Anda yang lain.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **port GPIO** - ini memungkinkan Anda untuk menghubungkan komponen elektronik seperti LED dan tombol ke Raspberry Pi.
