@@ -1,21 +1,21 @@
-## What you will need
+## 필요한 것
 
-### Hardware
+### 하드웨어
 
-+ A Raspberry Pi computer with an SD card
++ SD 카드가있는 라즈베리 파이 컴퓨터
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ 케이블이있는 모니터 (필요한 경우 HDMI 어댑터)
 
-+ A USB keyboard and mouse
++ USB 키보드 및 마우스
 
-+ A power supply
++ 전원 공급 장치
 
-+ Headphones or speakers (optional)
++ 헤드폰 또는 스피커 (선택 사양)
 
-+ An ethernet cable (optional)
++ 이더넷 케이블 (선택 사양)
 
-### Software
+### 소프트웨어
 
-+ Raspbian, installed via NOOBS
++ Raspbian, NOOBS를 통해 설치됨
 
 [[[noobs-install]]]
