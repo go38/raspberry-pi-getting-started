@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- אתגר \---
 
-## Challenge: explain the Raspberry Pi
+## האתגר: להסביר את פי פטל
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+מצא מישהו אחר ולהסביר להם מה כל החלקים של פטל פטל עושה.
 
-![screenshot](images/pi-labelled-names.png)
+![צילום מסך](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /אתגר \---
