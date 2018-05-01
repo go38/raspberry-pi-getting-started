@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Faceți cunoștință cu Zmeura Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Să aruncăm o privire la Zmeura Pi. Ar trebui să aveți un calculator de Raspberry Pi în fața dvs. pentru asta. Nu ar trebui să fie conectat la nimic încă.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Uită-te la Zmeura ta Pi. Puteți găsi toate lucrurile etichetate pe diagramă?
 
-![screenshot](images/pi-labelled-names.png)
+![captură de ecran](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **Porturi USB** - acestea sunt utilizate pentru conectarea unui mouse și a unei tastaturi. De asemenea, puteți conecta alte componente, cum ar fi o unitate USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **Slot pentru card SD** - puteți introduce cardul SD aici. Aici este stocat software-ul sistemului de operare și fișierele dvs.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Portul Ethernet** - acesta se utilizează pentru a conecta Raspberry Pi la o rețea cu un cablu. Raspberry Pi se poate conecta, de asemenea, la o rețea prin LAN fără fir.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Mufă audio** - puteți conecta aici căști sau difuzoare.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **Portul HDMI** - aici vă conectați monitorul (sau proiectorul) pe care îl utilizați pentru a afișa ieșirea de la Raspberry Pi. Dacă monitorul are difuzoare, le puteți utiliza și pentru a auzi sunetul.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Conector de alimentare micro USB** - aici conectați o sursă de alimentare. Ar trebui să faceți întotdeauna acest lucru în cele din urmă, după ce ați conectat toate celelalte componente.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **Porturi GPIO** - acestea vă permit să conectați componente electronice, cum ar fi LED-uri și butoane, la Raspberry Pi.
