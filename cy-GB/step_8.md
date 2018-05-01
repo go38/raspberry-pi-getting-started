@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- her \---
 
-## Challenge: explore the Raspberry Pi
+## Her: archwiliwch y Mws Mws
 
-Take a tour of the menu — can you find:
+Ewch ar daith o gwmpas y fwydlen - a allwch chi ddod o hyd i:
 
-+ A version of Scratch?
++ Fersiwn o Scratch?
 
-+ A Python game to play?
++ Gêm Python i chwarae?
 
-+ A version of Minecraft that you can program?
++ Fersiwn o Minecraft y gallwch chi ei raglennu?
 
-\--- /challenge \---
+\--- / her \---
