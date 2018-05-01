@@ -1,21 +1,21 @@
-## Introduction
+## Εισαγωγή
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+Σε αυτό το έργο θα συνδέσετε έναν υπολογιστή Raspberry Pi και θα μάθετε τι μπορεί να κάνει.
 
-### What you will make
+### Τι θα κάνετε
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Το Raspberry Pi είναι ένας μικρός υπολογιστής που μπορεί να κάνει πολλά πράγματα. Μπορείτε να συνδέσετε σε μια οθόνη και να επισυνάψετε ένα πληκτρολόγιο και το ποντίκι.
 
 ![screenshot](images/pi-plug-in.gif)
 
-### What you will learn
+### Τι θα μάθετε
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Αυτό το πρόγραμμα καλύπτει στοιχεία από τις ακόλουθες πτυχές του Curriculum [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Χρήση βασικών ψηφιακών, αναλογικών και ηλεκτρομηχανικών εξαρτημάτων](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Εάν πρέπει να εκτυπώσετε αυτό το έργο, χρησιμοποιήστε τη [εκδοχή](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"} για εκτύπωση.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Χρησιμοποιήστε τη σύνδεση στο υποσέλιδο για να αποκτήσετε πρόσβαση στο χώρο αποθήκευσης GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που ολοκληρώθηκε στο παράδειγμα) στο φάκελο 'en / resources'.
