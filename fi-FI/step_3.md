@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Tapaa Raspberry Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Katsotaanpa Vadelma Pi. Sinun pitäisi olla Raspberry Pi-tietokone edessäsi. Se ei saa olla kytkettynä mihinkään vielä.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Katso vadelmasi Pi. Löydätkö kaikki kaavion merkinnät?
 
-![screenshot](images/pi-labelled-names.png)
+![kuvakaappaus](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **USB-portit** - näitä käytetään liittämään hiiri ja näppäimistö. Voit myös liittää muita komponentteja, kuten USB-asemaa.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **SD-korttipaikka** - voit sijoittaa SD-kortin tähän. Tällöin käyttöjärjestelmäohjelmisto ja tiedostot tallennetaan.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Ethernet-portti** - tätä käytetään yhdistämään Vadelma Pi verkkoon kaapelilla. Raspberry Pi voi myös muodostaa yhteyden verkkoon langattoman lähiverkon kautta.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Ääniliitäntä** - voit kytkeä kuulokkeet tai kaiuttimet tähän.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **HDMI-portti** - tässä voit liittää näyttöön (tai projektoriin), jota käytetään näyttämään Raspberry Pi -laitteen lähtö. Jos näytölläsi on kaiuttimia, voit myös käyttää niitä kuullaksesi äänen.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Mikro-USB-virtalähde** - tässä voit liittää virtalähteen. Tee aina tämä viimeinen, kun olet liittänyt kaikki muut komponentit.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **GPIO-portit** - näistä voit liittää sähköisiä komponentteja, kuten LEDejä ja painikkeita Raspberry Pi.
