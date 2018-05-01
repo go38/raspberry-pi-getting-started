@@ -1,21 +1,21 @@
-## What you will need
+## 你需要什么
 
-### Hardware
+### 硬件
 
-+ A Raspberry Pi computer with an SD card
++ 带有SD卡的Raspberry Pi电脑
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ 带有电缆的显示器（如果需要，还可以使用HDMI适配器）
 
-+ A USB keyboard and mouse
++ USB键盘和鼠标
 
-+ A power supply
++ 一个电源
 
-+ Headphones or speakers (optional)
++ 耳机或扬声器（可选）
 
-+ An ethernet cable (optional)
++ 以太网电缆（可选）
 
-### Software
+### 软件
 
-+ Raspbian, installed via NOOBS
++ Raspbian，通过NOOBS安装
 
 [[[noobs-install]]]
