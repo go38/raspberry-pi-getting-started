@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## 라스베리 파이 만나기
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Raspberry Pi를 살펴 보겠습니다. 당신은 이것을 위해 당신 앞에 라즈베리 파이 컴퓨터가 있어야합니다. 아직 연결되지 않아야합니다.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ 너의 라스베리 파이 좀 봐. 다이어그램에 표시된 모든 것을 찾을 수 있습니까?
 
-![screenshot](images/pi-labelled-names.png)
+![스크린 샷](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **USB 포트** - 마우스와 키보드를 연결하는 데 사용됩니다. USB 드라이브와 같은 다른 구성 요소를 연결할 수도 있습니다.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **SD 카드 슬롯** - 여기에 SD 카드를 삽입 할 수 있습니다. 운영 체제 소프트웨어와 파일이 저장되는 곳입니다.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **이더넷 포트** - 이것은 케이블로 네트워크에 라즈베리 파이를 연결하는 데 사용됩니다. Raspberry Pi는 무선 LAN을 통해 네트워크에 연결할 수도 있습니다.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **오디오 잭** - 여기에서 헤드폰이나 스피커를 연결할 수 있습니다.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **HDMI 포트** - 이것은 라스베리 파이의 출력을 표시하는 데 사용하는 모니터 (또는 프로젝터)를 연결하는 곳입니다. 모니터에 스피커가 있으면 소리를들을 때도 사용할 수 있습니다.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **마이크로 USB 전원 커넥터** - 전원 공급 장치를 연결하는 곳입니다. 다른 구성 요소를 모두 연결 한 후에는 항상이 작업을 수행해야합니다.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **GPIO 포트** - LED 및 버튼과 같은 전자 부품을 Raspberry Pi에 연결할 수 있습니다.
