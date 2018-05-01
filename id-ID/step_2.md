@@ -1,21 +1,21 @@
-## What you will need
+## Apa yang Anda butuhkan
 
-### Hardware
+### Perangkat keras
 
-+ A Raspberry Pi computer with an SD card
++ Komputer Raspberry Pi dengan kartu SD
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ Monitor dengan kabel (dan, jika diperlukan, adaptor HDMI)
 
-+ A USB keyboard and mouse
++ Keyboard dan mouse USB
 
-+ A power supply
++ Catu daya
 
-+ Headphones or speakers (optional)
++ Headphone atau speaker (opsional)
 
-+ An ethernet cable (optional)
++ Kabel ethernet (opsional)
 
-### Software
+### Perangkat lunak
 
-+ Raspbian, installed via NOOBS
++ Raspbian, dipasang melalui NOOBS
 
 [[[noobs-install]]]
