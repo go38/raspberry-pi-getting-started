@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## अपने रास्पबेरी पीआई कनेक्ट करें
 
-Let's connect up your Raspberry Pi and get it running.
+आइए अपने रास्पबेरी पीआई को कनेक्ट करें और इसे चलें।
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ जांचें कि क्या आपके रास्पबेरी पीआई के पास पहले से ही स्लॉट में एक एसडी कार्ड है, और यदि नहीं, तो रास्पियन स्थापित (एनओबीबीएस के माध्यम से) के साथ एक एसडी कार्ड डालें। बहुत से एसडी कार्ड एक बड़े एडाप्टर के अंदर आ जाएंगे, और आप नीचे से होंठ का उपयोग कर कार्ड को स्लाइड कर सकते हैं।
     
-    ![screenshot](images/pi-sd.png)
+    ![स्क्रीनशॉट](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ अपने माउस के लिए यूएसबी कनेक्टर पाएं, और माउस को रास्पबेरी पीआई पर यूएसबी पोर्ट में से एक से कनेक्ट करें (इससे कोई फर्क नहीं पड़ता)।
     
-    ![screenshot](images/pi-mouse.png)
+    ![स्क्रीनशॉट](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ कीबोर्ड को उसी तरह से कनेक्ट करें।
     
-    ![screenshot](images/pi-keyboard.png)
+    ![स्क्रीनशॉट](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ रास्पबेरी पीआई पर एचडीएमआई पोर्ट देखें - ध्यान दें कि इसकी शीर्ष पर एक बड़ी फ्लैट पक्ष है।
     
-    ![screenshot](images/pi-hdmi.png)
+    ![स्क्रीनशॉट](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+सुनिश्चित करें कि आपका मॉनीटर दीवार सॉकेट में प्लग हो गया है और चालू है।
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ मॉनिटर केबल को पीआई के एचडीएमआई पोर्ट से कनेक्ट करें - यदि आवश्यक हो तो एडाप्टर का उपयोग करें।
 
-Nothing will display yet.
+अभी तक कुछ भी प्रदर्शित नहीं होगा।
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ यदि आपके पास कुछ है तो ऑडियो जैक से हेडफ़ोन या स्पीकर कनेक्ट करें।
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ यदि आपके पास कोई है, तो ईथरनेट केबल का उपयोग रास्पबेरी पीआई पर दीवार पर या अपने राउटर पर ईथरनेट सॉकेट से कनेक्ट करने के लिए करें। (यदि आप वायरलेस लैन का उपयोग करेंगे या आप इंटरनेट से कनेक्ट नहीं करना चाहते हैं तो आपको ऐसा करने की आवश्यकता नहीं है।)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ ध्यान दें कि माइक्रो यूएसबी पावर पोर्ट में शीर्ष पर एक लंबा फ्लैट पक्ष है।
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+बिजली की आपूर्ति को सॉकेट में प्लग करें और इसे माइक्रो यूएसबी पावर पोर्ट से कनेक्ट करें।
 
-![screenshot](images/pi-power.png)
+![स्क्रीनशॉट](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+आपको मॉनिटर पर रास्पबेरी पाई और रास्पबेरी पर लाल रोशनी दिखाई देनी चाहिए।
 
-The Pi will boot up into a graphical desktop.
+पीआई एक ग्राफिकल डेस्कटॉप में बूट हो जाएगा।
 
-![screenshot](images/pi-desktop.png)
+![स्क्रीनशॉट](images/pi-desktop.png)
