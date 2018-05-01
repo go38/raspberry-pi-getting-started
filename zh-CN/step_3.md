@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## 认识树莓派
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+我们来看看Raspberry Pi。 你应该在你面前有一台Raspberry Pi电脑。 它不应该连接到任何东西。
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ 看看你的树莓派。 你能找到图表上标出的所有东西吗？
 
-![screenshot](images/pi-labelled-names.png)
+![截图](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **USB端口** - 这些端口用于连接鼠标和键盘。 您还可以连接其他组件，例如USB驱动器。
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **SD卡插槽** - 您可以将SD卡插入此处。 这是操作系统软件和文件存储的地方。
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **以太网端口** - 用于通过电缆将树莓派连接到网络。 树莓派还可以通过无线局域网连接到网络。
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **音频插孔** - 您可以在此连接耳机或扬声器。
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **HDMI端口** - 您正在连接用于显示Raspberry Pi输出的显示器（或投影仪）。 如果您的显示器有扬声器，您也可以使用它们听到声音。
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Micro USB电源连接器** - 这是连接电源的地方。 连接所有其他组件后，应该始终这样做。
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **GPIO端口** - 这些端口允许您将电子组件（如LED和按钮）连接到Raspberry Pi。
