@@ -24,11 +24,11 @@ Het bestand is opgeslagen op de SD-kaart van de Raspberry Pi.
 
 + Sluit de teksteditor door te klikken op **X** in de rechterbovenhoek van het venster.
 
-+ Keer terug naar het Raspberry-menu, kies **Shutdown**en kies **Reboot**.
++ Keer terug naar het Raspberry-menu, kies **Shutdown** en **Reboot**.
 
-+ Wanneer de Pi opnieuw is opgestart, moet uw bestand er nog steeds zijn.
++ Wanneer de Pi opnieuw is opgestart, moet het bestand er nog steeds zijn.
 
-+ De Raspberry Pi voert een versie uit van een besturingssysteem genaamd Linux (Windows en macOS zijn andere besturingssystemen). Je kunt het laten gebeuren door opdrachten te typen in plaats van op menu-opties te klikken. Klik op de **Terminal** boven aan het scherm:
++ Op de Raspberry Pi loopt een versie van een besturingssysteem met de naam Linux (Windows en macOS zijn andere besturingssystemen). Je kunt opdrachten typen in plaats van op menu-opties te klikken. Klik op de **Terminal** boven aan het scherm:
 
 ![screenshot](images/pi-command-prompt.png)
 
