@@ -1,35 +1,35 @@
 ---
-hero_image: images/getting-started-with-raspberry-pi.png
-theme: red
+hero_image: Kuvien / saada käyntiin-with-vadelma-pi.png
+theme: punainen
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
-title: Getting started with the Raspberry Pi
-description: Set up your Raspberry Pi and explore what it can do
+curriculum: 1, design-0, ohjelmointi-0, phys-comp-1, valmistus-0, yhteisö-0
+title: Aloittaminen Raspberry Piin kanssa
+description: Aseta vadelmasi Pi ja tutki, mitä se voi tehdä
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: raspberry-pi
-site_areas: projects
-hardware: raspberry-pi
+technologies: vadelma-pi
+site_areas: hankkeet
+hardware: vadelma-pi
 software: ''
 version: 3
-last_tested: 2017-01-01
+last_tested: 01.1.2017
 steps:
   - 
-    title: Introduction
+    title: esittely
   - 
-    title: What you will need
+    title: Mitä tarvitset
   - 
-    title: Meet the Raspberry Pi
+    title: Tapaa Raspberry Pi
   - 
-    title: 'Challenge: explain the Raspberry Pi'
+    title: 'Haaste: selitä Raspberry Pi'
   - 
-    title: Connect your Raspberry Pi
+    title: Yhdistä Raspberry Pi
   - 
-    title: A tour of the Raspberry Pi
+    title: Kiertue Raspberry Pi
   - 
-    title: Browsing the web
+    title: Verkon selaaminen
   - 
-    title: 'Challenge: explore the Raspberry Pi'
+    title: 'Haaste: Tutustu Vadelma Pi'
