@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- التحدي \---
 
-## Challenge: explore the Raspberry Pi
+## التحدي: استكشاف Raspberry Pi
 
-Take a tour of the menu — can you find:
+قم بجولة في القائمة - هل يمكنك العثور على:
 
-+ A version of Scratch?
++ نسخة من سكراتش؟
 
-+ A Python game to play?
++ لعبة بايثون للعب؟
 
-+ A version of Minecraft that you can program?
++ نسخة من Minecraft التي يمكنك البرنامج؟
 
-\--- /challenge \---
+\--- /التحدي \---
