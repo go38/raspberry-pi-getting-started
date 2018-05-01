@@ -1,21 +1,21 @@
-## Introduction
+## Einführung
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+In diesem Projekt werden Sie einen Raspberry Pi Computer anschließen und herausfinden, was er kann.
 
-### What you will make
+### Was wirst du machen?
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Der Raspberry Pi ist ein kleiner Computer, der viele Dinge erledigen kann. Sie stecken es in einen Monitor und befestigen eine Tastatur und Maus.
 
-![screenshot](images/pi-plug-in.gif)
+![Bildschirmfoto](images/pi-plug-in.gif)
 
-### What you will learn
+### Was du lernen wirst
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dieses Projekt umfasst Elemente aus den folgenden Strängen des [Raspberry Pi Digital Making Curriculums](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Verwenden Sie grundlegende digitale, analoge und elektromechanische Komponenten](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Zusätzliche Informationen für Pädagogen
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Wenn Sie dieses Projekt drucken möchten, verwenden Sie die druckerfreundliche [-Version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Verwenden Sie den Link in der Fußzeile, um auf das GitHub-Repository für dieses Projekt zuzugreifen, das alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "en / resources" enthält.
