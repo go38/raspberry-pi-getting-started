@@ -37,26 +37,26 @@ Het bestand is opgeslagen op de SD-kaart van de Raspberry Pi.
     ls
     
 
-en druk dan op <kbd>Voer</kbd> in op het toetsenbord.
+en druk dan op <kbd>Enter</kbd> op het toetsenbord.
 
-Hiermee worden de bestanden in uw `-startpagina` vermeld.
+Hiermee worden de bestanden van de map `home` getoond.
 
-+ Typ nu deze opdracht naar **c**hange **d**adresregel naar het bureaublad:
++ Typ nu deze opdracht voor een **c**hange **d**irectory, (Engels voor 'verander van map') om naar het bureaublad te gaan:
 
     cd Desktop
     
 
-U moet na elke opdracht op de <kbd></kbd> -toets drukken.
+Je moet na elke opdracht op de <kbd>Enter</kbd> -toets drukken.
 
-Type:
+Typ:
 
     ls
     
 
-Kun je het bestand zien dat je hebt gemaakt?
+Zie je het bestand dat je hebt gemaakt?
 
 + Sluit het terminalvenster door op **X** te klikken.
 
-+ Versleep nu `rp.txt` naar de Wastebasket op het bureaublad zodat de Pi klaar is voor de volgende persoon.
++ Versleep nu `rp.txt` naar de prullebak op het bureaublad zodat de Pi klaar staat voor de volgende gebruiker.
     
     ![screenshot](images/pi-waste.png)
