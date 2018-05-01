@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- চ্যালেঞ্জ \---
 
-## Challenge: explain the Raspberry Pi
+## চ্যালেঞ্জ: রাস্পবেরি পাই ব্যাখ্যা করুন
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+অন্য কেউ খুঁজুন এবং তাদের ব্যাখ্যা কি রাস্পবেরি Pi অংশ প্রতিটি কি।
 
-![screenshot](images/pi-labelled-names.png)
+![স্ক্রিনশট](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- / চ্যালেঞ্জ \---
