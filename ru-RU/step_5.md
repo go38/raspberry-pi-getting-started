@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## Подключите малину Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Давайте подключим ваш малиновый Pi и убедимся.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Убедитесь, что у вашей малины Pi уже есть SD-карта в слоте на нижней стороне, а если нет, вставьте SD-карту с установленной Raspbian (через NOOBS). Множество SD-карт появится внутри большего адаптера, и вы можете вытащить карту из нее, используя губу внизу.
     
-    ![screenshot](images/pi-sd.png)
+    ![Скриншот](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Найдите USB-разъем для мыши и подключите мышь к одному из USB-портов на малиновом Pi (неважно, какой из них).
     
-    ![screenshot](images/pi-mouse.png)
+    ![Скриншот](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Подключите клавиатуру таким же образом.
     
-    ![screenshot](images/pi-keyboard.png)
+    ![Скриншот](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Посмотрите на порт HDMI на малине Pi - обратите внимание, что он имеет большую плоскую сторону сверху.
     
-    ![screenshot](images/pi-hdmi.png)
+    ![Скриншот](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Убедитесь, что ваш монитор подключен к розетке и включен.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Подключите кабель монитора к порту HDMI Pi - при необходимости используйте адаптер.
 
-Nothing will display yet.
+Пока ничего пока не видно.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ Подключите наушники или динамики к аудиоразъему, если у вас есть.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ Если у вас есть, используйте сетевой кабель, чтобы подключить порт Ethernet к малине Pi к розетке Ethernet на стене или на вашем маршрутизаторе. (Вам не нужно делать это, если вы будете использовать беспроводную локальную сеть или если вы не хотите подключаться к Интернету.)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Обратите внимание, что порт питания micro USB имеет более длинную плоскую сторону сверху.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Подключите блок питания к гнезду и подключите его к порту питания micro USB.
 
-![screenshot](images/pi-power.png)
+![Скриншот](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Вы должны увидеть красный свет на Малиновой Пи и малину на мониторе.
 
-The Pi will boot up into a graphical desktop.
+Pi загрузится в графический рабочий стол.
 
-![screenshot](images/pi-desktop.png)
+![Скриншот](images/pi-desktop.png)
