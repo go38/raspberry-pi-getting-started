@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Incontra il Raspberry Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Diamo un'occhiata al Raspberry Pi. Dovresti avere un computer Raspberry Pi davanti a te per questo. Non dovrebbe essere collegato a nulla ancora.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Guarda il tuo Raspberry Pi. Riesci a trovare tutte le cose etichettate sul diagramma?
 
-![screenshot](images/pi-labelled-names.png)
+![immagine dello schermo](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **Porte USB** : sono utilizzate per collegare un mouse e una tastiera. È anche possibile collegare altri componenti, ad esempio un'unità USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **Slot scheda SD** - puoi inserire la scheda SD qui. Qui è dove sono archiviati il ​​software del sistema operativo e i tuoi file.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Porta Ethernet** : utilizzata per connettere il Raspberry Pi a una rete tramite cavo. Il Raspberry Pi può anche connettersi a una rete tramite LAN wireless.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Jack audio** - qui puoi collegare cuffie o altoparlanti.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **Porta HDMI** - qui è dove si collega il monitor (o il proiettore) che si sta utilizzando per visualizzare l'output dal Raspberry Pi. Se il tuo monitor ha altoparlanti, puoi anche usarli per ascoltare il suono.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Connettore di alimentazione Micro USB** - Qui è dove si collega un alimentatore. Dovresti sempre farlo per ultimo, dopo aver collegato tutti gli altri componenti.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **Porte GPIO** : consentono di collegare componenti elettronici quali LED e pulsanti al Raspberry Pi.
