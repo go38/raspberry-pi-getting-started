@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## রাস্পবেরী পাই এর একটি সফর
 
-Now it's time to take a tour of the Raspberry Pi.
+এখন রাশবাবি পাই এর একটি সফর নিতে সময়
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ উপরের বামদিকের কোণায় রস্পবেরি দেখুন? আপনি মেনু অ্যাক্সেস যেখানে এটি: এটি ক্লিক করুন, এবং আপনি অ্যাপ্লিকেশন প্রচুর পাবেন।
 
-+ Click **Accessories** and choose **Text Editor**.
++ **এএসসিতে** ক্লিক করুন এবং **পাঠ্য সম্পাদক** নির্বাচন করুন।
 
-![screenshot](images/pi-accessories.png)
+![স্ক্রিনশট](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ টাইপ `আমি প্রদর্শিত একটি উইন্ডোতে রোসবেরি পিই` নির্মিত ঠিক আছে
 
-![screenshot](images/pi-text-editor.png)
+![স্ক্রিনশট](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ **ফাইল**এ ক্লিক করুন, **নির্বাচন করুন**সংরক্ষণ করুন এবং তারপর **ডেস্কটপ** এ ক্লিক করুন এবং `rp.txt` হিসাবে ফাইলটি সংরক্ষণ করুন।
 
-![screenshot](images/pi-save.png)
+![স্ক্রিনশট](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ আপনি `নামে একটি আইকন দেখতে পাবেন rp.txt` ডেস্কটপে প্রদর্শিত হবে।
 
-![screenshot](images/pi-saved.png)
+![স্ক্রিনশট](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+আপনার ফাইল রস্পবেই পিআই এর এসডি কার্ড থেকে সংরক্ষিত করা হয়েছে।
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ উইন্ডোর উপরের ডান-দিকের কোণায় **এক্স** ক্লিক করে টেক্সট এডিটরটি বন্ধ করুন।
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ রাস্পবেরী মেনুতে ফিরে যান, **শাটডাউন**চয়ন করুন এবং তারপরে **নির্বাচন করুন** পুনরায় বুট করুন
 
-+ When the Pi has rebooted, your file should still be there.
++ পিআই রিবুট করা হলে, আপনার ফাইল এখনও সেখানে থাকা উচিত।
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ রাস্পবেরি পিআই অপারেটিং সিস্টেমের একটি সংস্করণ চালায় যার নাম লিনাক্স (উইন্ডোজ এবং ম্যাকোস অপারেটিং সিস্টেম)। এটি আপনাকে মেনু বিকল্পগুলি ক্লিক করার পরিবর্তে কমান্ডগুলি টাইপ করে ঘটতে দেয়। স্ক্রীনের উপরের **টার্মিনাল** এ ক্লিক করুন:
 
-![screenshot](images/pi-command-prompt.png)
+![স্ক্রিনশট](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ প্রদর্শিত উইন্ডোতে টাইপ করুন:
 
-    ls
+    ম
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+এবং তারপর <kbd>টিপুন</kbd> কী-বোর্ডে লিখুন।
 
-This will list the files in your `home` directory.
+এটি আপনার `হোম` ডাইরেক্টরিতে ফাইলগুলি তালিকাভুক্ত করবে।
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ এখন এই কমান্ডটি **গ**hange **ডি**ডাইরেক্টরেটটি নির্দেশ করুন:
 
-    cd Desktop
+    সিডি ডেস্কটপ
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+আপনাকে <kbd>টি সর্বধরনের কমান্ডের পরে</kbd> কী টিপতে হবে।
 
-Type:
+ধরন:
 
-    ls
+    ম
     
 
-Can you see the file you created?
+আপনি তৈরি করা ফাইলটি দেখতে পাচ্ছেন?
 
-+ Close the terminal window by clicking on the **X**.
++ **এক্স** ক্লিক করে টার্মিনাল উইন্ডোর বন্ধ করুন
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ এখন `rp.txt` টা ডেস্কটপে ওয়েস্টবাক্টে টেনে আনুন, যাতে Pi পরবর্তী ব্যক্তির জন্য প্রস্তুত হয়।
     
-    ![screenshot](images/pi-waste.png)
+    ![স্ক্রিনশট](images/pi-waste.png)
