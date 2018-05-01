@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- provocare \---
 
-## Challenge: explain the Raspberry Pi
+## Provocare: explicați zmeura Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Găsiți pe altcineva și explicați-i ce înseamnă fiecare parte a Pesmei Pi.
 
-![screenshot](images/pi-labelled-names.png)
+![captură de ecran](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /provocare \---
