@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## סיור של פטל פטל
 
-Now it's time to take a tour of the Raspberry Pi.
+עכשיו הגיע הזמן לקחת סיור של פטל פטל.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ רואה את זה פטל למעלה בפינה השמאלית העליונה? זה המקום שבו אתה לגשת לתפריט: לחץ על זה, תוכלו למצוא המון יישומים.
 
-+ Click **Accessories** and choose **Text Editor**.
++ לחץ על **עזרים** ובחר **עורך טקסט**.
 
-![screenshot](images/pi-accessories.png)
+![צילום מסך](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ סוג `אני פשוט בנוי פטל פי` בחלון שמופיע.
 
-![screenshot](images/pi-text-editor.png)
+![צילום מסך](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ לחץ על **קובץ**, ולאחר מכן בחר **שמור**ולאחר מכן לחץ על **Desktop** ושמור את הקובץ כ- `rp.txt`.
 
-![screenshot](images/pi-save.png)
+![צילום מסך](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ אתה אמור לראות סמל בשם `rp.txt` בשולחן העבודה.
 
-![screenshot](images/pi-saved.png)
+![צילום מסך](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+הקובץ נשמר בכרטיס ה- SD של Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ סגור את עורך הטקסט על ידי לחיצה על **X** בפינה הימנית העליונה של החלון.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ חזור לתפריט Raspberry, בחר **Shutdown**ולאחר מכן בחר **אתחול מחדש**.
 
-+ When the Pi has rebooted, your file should still be there.
++ כאשר pi יש אתחול מחדש, הקובץ שלך עדיין צריך להיות שם.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ פספל פייס מפעילה גרסה של מערכת הפעלה בשם לינוקס (Windows ו- MacOS הן מערכות הפעלה אחרות). זה מאפשר לך לעשות לקרות על ידי הקלדת פקודות במקום לחיצה על אפשרויות התפריט. לחץ על **מסוף** שבחלק העליון של המסך:
 
-![screenshot](images/pi-command-prompt.png)
+![צילום מסך](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ בחלון שמופיע, הקלד:
 
-    ls
+    אני
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+ולאחר מכן לחץ על <kbd>הזן</kbd> במקלדת.
 
-This will list the files in your `home` directory.
+פעולה זו תציג את הקבצים בספריה `home` שלך.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ כעת, הקלד פקודה זו אל **c**hange **d**directory אל שולחן העבודה:
 
-    cd Desktop
+    שולחן העבודה
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+עליך ללחוץ על המקש <kbd>Enter</kbd> לאחר כל פקודה.
 
-Type:
+סוּג:
 
-    ls
+    אני
     
 
-Can you see the file you created?
+האם אתה יכול לראות את הקובץ שיצרת?
 
-+ Close the terminal window by clicking on the **X**.
++ סגור את חלון המסוף על ידי לחיצה על **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ עכשיו גרור `rp.txt` לפסולת בשולחן העבודה כדי שה- Pi יהיה מוכן לאדם הבא.
     
-    ![screenshot](images/pi-waste.png)
+    ![צילום מסך](images/pi-waste.png)
