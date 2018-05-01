@@ -1,35 +1,35 @@
-## Browsing the web
+## Pregledavanje weba
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+Možda biste htjeli povezati svoje maline Pi s internetom. Ako niste priključili ethernet kabel, morat ćete se povezati s bežičnom mrežom.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+Da biste omogućili Wi-Fi na Raspberry Pi, morat ćete postaviti zemlju Wi-Fi.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![postavite wifi zemlju](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ Odaberite **Postavke**, **Konfiguriranje maline Pi** s izbornika.
 
-+ Click the **Localisation** tab.
++ Kliknite karticu **Lokalizacija**.
 
-+ Click **Set WiFi Country** button.
++ Kliknite **Postavi gumb Wi-Fi zemlje**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![odaberite wifi zemlju](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Odaberite svoju državu s popisa i kliknite **OK**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Nakon što postavite zemlju Wi-Fi, možete se povezati s bežičnom mrežom.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Kliknite ikonu s crvenim križem u gornjem desnom kutu zaslona i odaberite svoju mrežu s padajućeg izbornika. Možda ćete morati tražiti odraslu osobu koju mrežu trebate odabrati.
 
-![No wifi](images/no-wifi.png)
+![Nema wifi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ Upišite lozinku za bežičnu mrežu ili zamolite odraslu osobu da ga upiše za vas, a zatim kliknite **OK**.
 
-![Type in password](images/type-password.png)
+![Upišite lozinku](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Kad je vaš Pi povezan s internetom, umjesto crvenih križa vidjet ćete simbol bežičnog LAN-a.
 
-![screenshot](images/pi-wifi.png)
+![zaslona](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ Kliknite ikonu web preglednika i potražite `malina pi`.
 
-![screenshot](images/pi-browser.png)
+![zaslona](images/pi-browser.png)
