@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## Verbind je Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Laten we uw Raspberry Pi aansluiten om hem te laten werken.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Controleer of je Raspberry Pi al een SD-kaart in de sleuf aan de onderkant heeft en plaats een SD-kaart met Raspbian geïnstalleerd (via NOOBS) als dat niet het geval is. Veel SD-kaarten komen in een grotere adapter en u kunt de kaart hieruit verwijderen met behulp van de lip aan de onderkant.
     
     ![screenshot](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Zoek de USB-connector voor je muis en sluit de muis aan op een van de USB-poorten van de Raspberry Pi (het maakt niet uit welke).
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Verbind het toetsenbord op dezelfde manier.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Kijk naar de HDMI-poort van de Raspberry Pi - merk op dat deze een grote vlakke kant aan de bovenkant heeft.
     
     ![screenshot](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Zorg ervoor dat uw monitor op een stopcontact is aangesloten en is ingeschakeld.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Sluit de monitorkabel aan op de HDMI-poort van de Pi - gebruik indien nodig een adapter.
 
-Nothing will display yet.
+Er zal nog niets worden weergegeven.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ Sluit een koptelefoon of luidsprekers op de audio-aansluiting aan als u er wat hebt.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ Als je die hebt, gebruik dan een ethernetkabel om de ethernetpoort van de Raspberry Pi aan te sluiten op een ethernetaansluiting aan de muur of op je router. (U hoeft dit niet te doen als u een draadloos LAN gebruikt of als u geen verbinding met internet wilt maken.)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Merk op dat de micro USB-voedingspoort een langere platte kant aan de bovenkant heeft.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Sluit de voeding aan op een stopcontact en sluit deze aan op de micro USB-voedingspoort.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Je zou een rood licht op de Raspberry Pi en frambozen op de monitor moeten zien.
 
-The Pi will boot up into a graphical desktop.
+De Pi start op in een grafisch bureaublad.
 
 ![screenshot](images/pi-desktop.png)
