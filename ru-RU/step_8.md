@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- вызов \---
 
-## Challenge: explore the Raspberry Pi
+## Задача: исследовать малину Пи
 
-Take a tour of the menu — can you find:
+Познакомьтесь с меню - можете ли вы найти:
 
-+ A version of Scratch?
++ Версия Scratch?
 
-+ A Python game to play?
++ Игра Python?
 
-+ A version of Minecraft that you can program?
++ Версия Minecraft, которую вы можете запрограммировать?
 
-\--- /challenge \---
+\--- /вызов \---
