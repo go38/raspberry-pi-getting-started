@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Экскурсия по малине Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+Теперь пришло время совершить экскурсию по Малиновой Пи.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Смотрите, что Малина в верхнем левом углу? Здесь вы получаете доступ к меню: нажмите на него, и вы найдете множество приложений.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Нажмите **Принадлежности** и выберите **Редактор текста**.
 
-![screenshot](images/pi-accessories.png)
+![Скриншот](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Тип `Я только что построил Raspberry Pi` в появившемся окне.
 
-![screenshot](images/pi-text-editor.png)
+![Скриншот](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Нажмите на **файл**, затем выберите **Сохранить**, а затем щелкните **Рабочий стол** и сохраните файл как `rp.txt`.
 
-![screenshot](images/pi-save.png)
+![Скриншот](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ На рабочем столе появится значок `rp.txt`.
 
-![screenshot](images/pi-saved.png)
+![Скриншот](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+Ваш файл был сохранен на SD-карте Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Закройте текстовый редактор, щелкнув **X** в правом верхнем углу окна.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Вернитесь в меню Малины, выберите **Завершение работы**, а затем выберите **Перезагрузка**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Когда Pi перезагрузится, ваш файл все равно должен быть там.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Raspberry Pi запускает версию операционной системы под названием Linux (Windows и MacOS - это другие операционные системы). Это позволяет делать это, набирая команды, а не нажимая на опции меню. Нажмите на **терминал** в верхней части экрана:
 
-![screenshot](images/pi-command-prompt.png)
+![Скриншот](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ В появившемся окне введите:
 
-    ls
+    Ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+а затем нажмите <kbd>Введите</kbd> на клавиатуре.
 
-This will list the files in your `home` directory.
+Это приведет к отображению файлов в вашем `домашнем каталоге`.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Теперь введите эту команду в **c**hange **d**справочник на Рабочий стол:
 
     cd Desktop
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+Вы должны нажать клавишу <kbd>Enter</kbd> после каждой команды.
 
-Type:
+Тип:
 
-    ls
+    Ls
     
 
-Can you see the file you created?
+Вы видите файл, который вы создали?
 
-+ Close the terminal window by clicking on the **X**.
++ Закройте окно терминала, нажав на **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Теперь перетащите `rp.txt` в Wastebasket на рабочий стол, чтобы Pi был готов для следующего человека.
     
-    ![screenshot](images/pi-waste.png)
+    ![Скриншот](images/pi-waste.png)
