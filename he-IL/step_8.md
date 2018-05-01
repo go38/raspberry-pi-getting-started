@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- אתגר \---
 
-## Challenge: explore the Raspberry Pi
+## האתגר: לחקור את פי פטל
 
-Take a tour of the menu — can you find:
+צא לסיור בתפריט - תוכל למצוא:
 
-+ A version of Scratch?
++ גירסה של Scratch?
 
-+ A Python game to play?
++ משחק פייתון לשחק?
 
-+ A version of Minecraft that you can program?
++ גרסה של Minecraft שאתה יכול לתכנת?
 
-\--- /challenge \---
+\--- /אתגר \---
