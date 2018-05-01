@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## 라스베리 파이 투어
 
-Now it's time to take a tour of the Raspberry Pi.
+이제는 라스베리 파이를 둘러보십시오.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ 왼쪽 상단에 라스베리가 보이니? 여기서 메뉴에 액세스 할 수 있습니다 : 클릭하면 많은 응용 프로그램을 찾을 수 있습니다.
 
-+ Click **Accessories** and choose **Text Editor**.
++ **액세서리** 을 클릭하고 **텍스트 편집기**을 선택하십시오.
 
-![screenshot](images/pi-accessories.png)
+![스크린 샷](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ `유형 창에 나타나는 라즈베리 파이` 을 만들었습니다.
 
-![screenshot](images/pi-text-editor.png)
+![스크린 샷](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ **파일**을 클릭하고 **저장**을 선택한 다음 **데스크톱** 을 클릭하고 파일을 `rp.txt`로 저장하십시오.
 
-![screenshot](images/pi-save.png)
+![스크린 샷](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ 바탕 화면에 `rp.txt` 아이콘이 나타납니다.
 
-![screenshot](images/pi-saved.png)
+![스크린 샷](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+파일이 Raspberry Pi의 SD 카드에 저장되었습니다.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ 창의 오른쪽 상단 모서리에있는 **X** 을 클릭하여 텍스트 편집기를 닫습니다.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Raspberry 메뉴로 돌아가서 **Shutdown**을 선택한 다음 **Reboot**을 선택하십시오.
 
-+ When the Pi has rebooted, your file should still be there.
++ Pi가 재부팅되면 파일이 여전히 있어야합니다.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Raspberry Pi는 Linux (Windows 및 macOS는 다른 운영 체제)라는 운영 체제 버전을 실행합니다. 메뉴 옵션을 클릭하는 대신 명령을 입력하여 작업을 수행 할 수 있습니다. 화면 상단의 **터미널** 을 클릭하십시오.
 
-![screenshot](images/pi-command-prompt.png)
+![스크린 샷](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
-
-    ls
-    
-
-and then press <kbd>Enter</kbd> on the keyboard.
-
-This will list the files in your `home` directory.
-
-+ Now type this command to **c**hange **d**irectory to the Desktop:
-
-    cd Desktop
-    
-
-You have to press the <kbd>Enter</kbd> key after every command.
-
-Type:
++ 나타나는 창에서 다음을 입력하십시오.
 
     ls
     
 
-Can you see the file you created?
+그런 다음 <kbd>을 누르십시오. 키보드에서</kbd> 을 입력하십시오.
 
-+ Close the terminal window by clicking on the **X**.
+그러면 `집` 디렉토리의 파일이 나열됩니다.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ 이제이 명령을 **에 입력하십시오.**hange **d**바탕 화면으로 이동하십시오.
+
+    cd 데스크탑
     
-    ![screenshot](images/pi-waste.png)
+
+각 명령 다음에 <kbd>Enter</kbd> 키를 눌러야합니다.
+
+유형:
+
+    ls
+    
+
+당신이 만든 파일을 볼 수 있습니까?
+
++ **X**을 클릭하여 터미널 창을 닫으십시오.
+
++ 이제 `rp.txt` 을 바탕 화면의 휴지통으로 드래그하여 Pi가 다음 사람을 위해 준비되도록하십시오.
+    
+    ![스크린 샷](images/pi-waste.png)
