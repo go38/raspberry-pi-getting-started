@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## Cysylltwch eich Pi Mws
 
-Let's connect up your Raspberry Pi and get it running.
+Gadewch i ni gysylltu â'ch Mws Mws a'i roi ar waith.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Gwiriwch a oes gan eich Mwg Môr cerdyn SD eisoes yn y slot ar y llawr, ac os nad ydyw, rhowch gerdyn SD gyda Raspbian wedi'i osod (trwy NOOBS). Bydd llawer o gardiau SD yn dod i mewn i addasydd mwy, a gallwch chi sleidio'r cerdyn allan o hyn gan ddefnyddio'r gwefus ar y gwaelod.
     
     ![screenshot](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Dod o hyd i'r cysylltydd USB ar gyfer eich llygoden, a chysylltwch y llygoden i un o'r porthladd USB ar y Mws Mws (nid yw'n bwysig pa un).
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Cysylltwch y bysellfwrdd yn yr un modd.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Edrychwch ar y porthladd HDMI ar y Mws Môr - rhowch wybod bod ganddo ochr fawr fflat ar ei ben.
     
     ![screenshot](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Gwnewch yn siŵr fod eich monitor wedi'i blygio i mewn i soced wal a'i droi ymlaen.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Cysylltwch y cebl monitor i'r porthladd Pi's HDMI - defnyddiwch addasydd os oes angen.
 
-Nothing will display yet.
+Ni fydd dim yn arddangos eto.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ Cysylltwch glustffonau neu siaradwyr â'r jack sain os oes gennych rai.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ Os oes gennych chi un, defnyddiwch gebl ethernet i gysylltu porthladd ethernet ar y Mws Mws i soced ethernet ar y wal neu ar eich llwybrydd. (Nid oes angen i chi wneud hyn os byddwch chi'n defnyddio LAN diwifr neu os nad ydych am gysylltu â'r rhyngrwyd.)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Rhowch wybod bod gan y porthladd pŵer USB micro ochr fwy gwastad ar ei ben.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Ychwanegwch y cyflenwad pŵer i mewn i soced a'i gysylltu â'r porthladd pŵer USB micro.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Dylech chi weld golau coch ar y Mwg Môr a mafon ar y monitor.
 
-The Pi will boot up into a graphical desktop.
+Bydd y Pi yn cychwyn mewn bwrdd gwaith graffigol.
 
 ![screenshot](images/pi-desktop.png)
