@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- Herausforderung \---
 
-## Challenge: explain the Raspberry Pi
+## Herausforderung: Erklären Sie den Raspberry Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Finde jemanden anderen und erkläre ihnen, was jeder Teil des Raspberry Pi tut.
 
-![screenshot](images/pi-labelled-names.png)
+![Bildschirmfoto](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /Herausforderung \---
