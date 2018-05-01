@@ -1,35 +1,35 @@
 ---
-hero_image: images/getting-started-with-raspberry-pi.png
-theme: red
+hero_image: slike / Get-started-with-raspberry-pi.png
+theme: rdeča
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
-title: Getting started with the Raspberry Pi
-description: Set up your Raspberry Pi and explore what it can do
+curriculum: 1, design-0, programiranje-0, fiz-comp-1, izdelava-0, skupnost-0
+title: Začetek z Raspberry Pi
+description: Nastavite svoj malinček Pi in raziščite, kaj lahko naredi
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: raspberry-pi
-site_areas: projects
-hardware: raspberry-pi
+technologies: malina-pi
+site_areas: projektov
+hardware: malina-pi
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: What you will need
+    title: Kaj boste potrebovali
   - 
-    title: Meet the Raspberry Pi
+    title: Spoznajte Malinko Pi
   - 
-    title: 'Challenge: explain the Raspberry Pi'
+    title: 'Izziv: pojasnite Raspberry Pi'
   - 
-    title: Connect your Raspberry Pi
+    title: Povežite svojo Raspberry Pi
   - 
-    title: A tour of the Raspberry Pi
+    title: Ogled Raspberry Pi
   - 
-    title: Browsing the web
+    title: Brskanje po spletu
   - 
-    title: 'Challenge: explore the Raspberry Pi'
+    title: 'Izziv: preučite Raspberry Pi'
