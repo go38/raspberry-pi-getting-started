@@ -1,21 +1,21 @@
-## What you will need
+## Что тебе понадобится
 
-### Hardware
+### аппаратные средства
 
-+ A Raspberry Pi computer with an SD card
++ Компьютер малины Pi с SD-картой
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ Монитор с кабелем (и, если необходимо, HDMI-адаптером)
 
-+ A USB keyboard and mouse
++ USB-клавиатура и мышь
 
-+ A power supply
++ Источник питания
 
-+ Headphones or speakers (optional)
++ Наушники или динамики (дополнительно)
 
-+ An ethernet cable (optional)
++ Сетевой кабель (дополнительно)
 
-### Software
+### Программного обеспечения
 
-+ Raspbian, installed via NOOBS
++ Raspbian, установленный через NOOBS
 
 [[[noobs-install]]]
