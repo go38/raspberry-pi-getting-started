@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## ラズベリーパイを見なさい
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+ラズベリーパイを見てみましょう。 これのためにあなたの前にラズベリーパイコンピュータがあるはずです。 それはまだ何かに接続すべきではありません。
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ あなたのラズベリーパイを見てください。 あなたはダイアグラム上のすべてのものを見つけることができますか？
 
-![screenshot](images/pi-labelled-names.png)
+![スクリーンショット](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **USBポート** - マウスとキーボードを接続するために使用されます。 また、USBドライブなどの他のコンポーネントを接続することもできます。
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **SDカードスロット** - ここにSDカードを挿入できます。 これは、オペレーティングシステムソフトウェアとファイルが保存される場所です。
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Ethernetポート** - Raspberry Piをケーブルでネットワークに接続するために使用します。 ラズベリーパイは無線LAN経由でネットワークに接続することもできます。
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **オーディオジャック** - ここでヘッドホンやスピーカーを接続できます。
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **HDMIポート** - これは、ラズベリーパイの出力を表示するために使用しているモニター（またはプロジェクター）を接続する場所です。 モニターにスピーカーが付いている場合は、それを使ってサウンドを聞くこともできます。
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **マイクロUSB電源コネクタ** - これは電源を接続する場所です。 あなたは他のすべてのコンポーネントを接続した後で、これを最後に行うべきです。
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **GPIOポート** - LEDやボタンなどの電子部品をRaspberry Piに接続できます。
