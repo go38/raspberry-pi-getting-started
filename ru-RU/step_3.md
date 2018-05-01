@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Познакомьтесь с малиной Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Давайте посмотрим на Малину Пи. Для этого у вас должен быть компьютер с малиной Pi. Его еще нельзя подключать.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Посмотрите на свою малину Пи. Можете ли вы найти все, что помечено на диаграмме?
 
-![screenshot](images/pi-labelled-names.png)
+![Скриншот](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **USB-порты** - они используются для подключения мыши и клавиатуры. Вы также можете подключать другие компоненты, такие как USB-накопитель.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **Слот для SD-карты** - здесь вы можете сложить SD-карту. Здесь хранится программное обеспечение операционной системы и ваши файлы.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Порт Ethernet** - это используется для подключения малины Pi к сети с кабелем. Raspberry Pi также может подключаться к сети через беспроводную локальную сеть.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Разъем аудиосигнала** - здесь вы можете подключить наушники или динамики.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **Порт HDMI** - здесь вы подключаете монитор (или проектор), который вы используете для отображения вывода из малины Pi. Если на вашем мониторе есть динамики, вы также можете использовать их для прослушивания звука.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Разъем питания Micro USB** - здесь вы подключаете источник питания. Вы должны всегда делать это последним, после того как вы подключили все остальные компоненты.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **GPIO-порты** - это позволяет подключать электронные компоненты, такие как светодиоды и кнопки, к малиновому Pi.
