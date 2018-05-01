@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Γνωρίστε το Raspberry Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Ας ρίξουμε μια ματιά στο Raspberry Pi. Θα πρέπει να έχετε έναν υπολογιστή Raspberry Pi μπροστά σας για αυτό. Δεν πρέπει να συνδεθεί με τίποτα ακόμα.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Κοιτάξτε το Raspberry Pi. Μπορείτε να βρείτε όλα τα πράγματα που έχουν επισημανθεί στο διάγραμμα;
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **Θύρες USB** - αυτές χρησιμοποιούνται για τη σύνδεση ενός ποντικιού και ενός πληκτρολογίου. Μπορείτε επίσης να συνδέσετε άλλα στοιχεία, όπως μια μονάδα USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **Υποδοχή κάρτας SD** - μπορείτε να τοποθετήσετε την κάρτα SD εδώ. Εδώ αποθηκεύεται το λογισμικό του λειτουργικού συστήματος και τα αρχεία σας.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Θύρα Ethernet** - χρησιμοποιείται για τη σύνδεση του Raspberry Pi σε δίκτυο με καλώδιο. Το Raspberry Pi μπορεί επίσης να συνδεθεί σε ένα δίκτυο μέσω ασύρματου LAN.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Υποδοχή ήχου** - μπορείτε να συνδέσετε εδώ ακουστικά ή ηχεία.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **Θύρα HDMI** - εδώ συνδέετε την οθόνη (ή τον προβολέα) που χρησιμοποιείτε για να εμφανίσετε την έξοδο από το Raspberry Pi. Εάν η οθόνη σας διαθέτει ηχεία, μπορείτε επίσης να τα χρησιμοποιήσετε για να ακούσετε ήχο.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Υποδοχή τροφοδοσίας μικροφώνου USB** - εδώ συνδέετε μια τροφοδοσία ρεύματος. Θα πρέπει πάντα να το κάνετε αυτό το τελευταίο, αφού έχετε συνδέσει όλα τα άλλα στοιχεία.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **Θύρες GPIO** - αυτές σας επιτρέπουν να συνδέσετε ηλεκτρονικά εξαρτήματα όπως LED και κουμπιά στο Raspberry Pi.
