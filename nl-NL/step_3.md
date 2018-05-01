@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Maak kennis met de Raspberry Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Laten we de Raspberry Pi bekijken. Voor dit zou je een Raspberry Pi-computer voor je moeten hebben. Er moet nog niets mee verbonden zijn.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Kijk naar je Raspberry Pi. Kun je alle dingen vinden die op het diagram zijn vermeld?
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **USB-poorten** - deze worden gebruikt om een ​​muis en toetsenbord aan te sluiten. U kunt ook andere componenten aansluiten, zoals een USB-station.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **SD-kaartslot** - hier kun je de SD-kaart plaatsen. Hier worden de software van het besturingssysteem en uw bestanden opgeslagen.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Ethernetpoort** - dit wordt gebruikt om de Raspberry Pi via een kabel met een netwerk te verbinden. De Raspberry Pi kan ook via een draadloos LAN verbinding maken met een netwerk.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Audio-aansluiting** - hier kunt u een koptelefoon of luidsprekers aansluiten.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **HDMI-poort** - hier sluit u de monitor (of projector) aan die u gebruikt om de uitvoer van de Raspberry Pi weer te geven. Als uw monitor luidsprekers heeft, kunt u deze ook gebruiken om geluid te horen.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Micro USB-stroomaansluiting** - hier sluit u een voeding aan. Je moet dit altijd als laatste doen, nadat je al je andere componenten hebt verbonden.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **GPIO-poorten** - hiermee kunt u elektronische componenten zoals LED's en knoppen verbinden met de Raspberry Pi.
