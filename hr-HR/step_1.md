@@ -1,21 +1,21 @@
-## Introduction
+## Uvod
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+U ovom projektu spojit ćete Raspberry Pi računalo i saznati što ona može učiniti.
 
-### What you will make
+### Što ćete učiniti
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Raspberry Pi je mali kompjuter koji može učiniti mnogo stvari. Spojite ga u monitor i priložite tipkovnicu i miša.
 
-![screenshot](images/pi-plug-in.gif)
+![zaslona](images/pi-plug-in.gif)
 
-### What you will learn
+### Što ćete naučiti
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovaj projekt pokriva elemente iz sljedećih niza nastavnih planova [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Koristite osnovne digitalne, analogne i elektromehaničke komponente](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Dodatne informacije za odgajatelje
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Ako trebate ispisati ovaj projekt, upotrijebite verziju</a>{/ target = "_ blank"} za prilagodbu ispisu.</p> 
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Koristite vezu u podnožju kako biste pristupili GitHub repozitoriji za ovaj projekt, koji sadrži sve resurse (uključujući primjer završenog projekta) u mapi 'en / resources'.
