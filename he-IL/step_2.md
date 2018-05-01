@@ -1,21 +1,21 @@
-## What you will need
+## מה שאתה תצטרך
 
-### Hardware
+### חוּמרָה
 
-+ A Raspberry Pi computer with an SD card
++ מחשב פטל עם כרטיס SD
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ צג עם כבל (ואם יש צורך, מתאם HDMI)
 
-+ A USB keyboard and mouse
++ מקלדת ועכבר USB
 
-+ A power supply
++ ספק כוח
 
-+ Headphones or speakers (optional)
++ אוזניות או רמקולים (אופציונלי)
 
-+ An ethernet cable (optional)
++ כבל Ethernet (אופציונלי)
 
-### Software
+### תוֹכנָה
 
-+ Raspbian, installed via NOOBS
++ Raspbian, מותקן דרך NOOBS
 
 [[[noobs-install]]]
