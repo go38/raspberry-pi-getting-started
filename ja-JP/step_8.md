@@ -1,13 +1,13 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: explore the Raspberry Pi
+## 課題：ラズベリーパイを探索する
 
-Take a tour of the menu — can you find:
+メニューを見て - あなたは見つけることができます：
 
-+ A version of Scratch?
++ スクラッチのバージョン？
 
-+ A Python game to play?
++ 再生するPythonゲームですか？
 
-+ A version of Minecraft that you can program?
++ あなたがプログラムできるMinecraftのバージョン？
 
-\--- /challenge \---
+\--- /チャレンジ\---
