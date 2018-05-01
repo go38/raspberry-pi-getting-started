@@ -1,21 +1,21 @@
-## Introduction
+## 介绍
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+在这个项目中，你将连接一台Raspberry Pi电脑，并找出它可以做什么。
 
-### What you will make
+### 你会做什么
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Raspberry Pi是一台可以做很多事情的小型计算机。 您将其插入显示器并连接键盘和鼠标。
 
-![screenshot](images/pi-plug-in.gif)
+![截图](images/pi-plug-in.gif)
 
-### What you will learn
+### 你会学到什么
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+该项目涵盖 [树莓派数字化课程](http://rpf.io/curriculum){：target =“_ blank”}的以下部分：
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [使用基本的数字，模拟和机电组件](https://curriculum.raspberrypi.org/physical-computing/creator/){：target =“_ blank”}
 
-### Additional information for educators
+### 有关教育者的其他信息
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+如果您需要打印此项目，请使用 [打印机友好版本](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){：target =“_ blank”}。
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+使用页脚中的链接访问此项目的GitHub存储库，其中包含'en / resources'文件夹中的所有资源（包括示例完成的项目）。
