@@ -1,9 +1,9 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: explain the Raspberry Pi
+## 課題：ラズベリーパイを説明する
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+他の人を見つけ、ラズベリーパイの各部分が何をしているか説明してください。
 
-![screenshot](images/pi-labelled-names.png)
+![スクリーンショット](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /チャレンジ\---
