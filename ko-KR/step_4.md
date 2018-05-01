@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- 도전 \---
 
-## Challenge: explain the Raspberry Pi
+## 과제 : 라스베리 파이를 설명하십시오.
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+다른 사람을 찾아보고 라스베리 파이의 각 부분이하는 일을 설명하십시오.
 
-![screenshot](images/pi-labelled-names.png)
+![스크린 샷](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /도전 \---
