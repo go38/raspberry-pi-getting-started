@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- her \---
 
-## Challenge: explain the Raspberry Pi
+## Her: eglurwch y Mws Mws
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Dod o hyd i rywun arall ac eglurwch iddyn nhw beth mae pob un o'r rhannau o'r Mwg Môr yn ei wneud.
 
 ![screenshot](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- / her \---
