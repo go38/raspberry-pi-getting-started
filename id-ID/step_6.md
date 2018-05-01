@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Tur Raspberry Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+Sekarang saatnya untuk mengikuti tur Raspberry Pi.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Lihat Raspberry di sudut kiri atas? Di situlah Anda mengakses menu: klik di atasnya, dan Anda akan menemukan banyak aplikasi.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Klik **Aksesoris** dan pilih **Editor Teks**.
 
-![screenshot](images/pi-accessories.png)
+![tangkapan layar](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Ketik `Saya baru saja membangun Raspberry Pi` di jendela yang muncul.
 
-![screenshot](images/pi-text-editor.png)
+![tangkapan layar](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Klik **File**, lalu pilih **Simpan**, lalu klik **Desktop** dan simpan file sebagai `rp.txt`.
 
-![screenshot](images/pi-save.png)
+![tangkapan layar](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ Anda akan melihat ikon bernama `rp.txt` muncul di desktop.
 
-![screenshot](images/pi-saved.png)
+![tangkapan layar](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+File Anda telah disimpan ke kartu SD Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Tutup editor teks dengan mengklik **X** di pojok kanan atas jendela.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Kembali ke menu Raspberry, pilih **Shutdown**, lalu pilih **Reboot**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Ketika Pi telah reboot, file Anda harus tetap ada.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Raspberry Pi menjalankan versi sistem operasi yang disebut Linux (Windows dan macOS adalah sistem operasi lain). Ini memungkinkan Anda untuk melakukannya dengan mengetik perintah daripada mengklik opsi menu. Klik pada **Terminal** di bagian atas layar:
 
-![screenshot](images/pi-command-prompt.png)
+![tangkapan layar](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ Di jendela yang muncul, ketik:
 
     ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+lalu tekan <kbd>Masukkan</kbd> pada keyboard.
 
-This will list the files in your `home` directory.
+Ini akan mencantumkan file di `direktori rumah` Anda.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Sekarang ketik perintah ini ke **c**hange **d**irectory ke Desktop:
 
     cd Desktop
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+Anda harus menekan <kbd>Masukkan</kbd> kunci setelah setiap perintah.
 
-Type:
+Mengetik:
 
     ls
     
 
-Can you see the file you created?
+Bisakah Anda melihat file yang Anda buat?
 
-+ Close the terminal window by clicking on the **X**.
++ Tutup jendela terminal dengan mengklik **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Sekarang drag `rp.txt` ke keranjang sampah di desktop sehingga Pi akan siap untuk orang berikutnya.
     
-    ![screenshot](images/pi-waste.png)
+    ![tangkapan layar](images/pi-waste.png)
