@@ -1,35 +1,35 @@
-## Browsing the web
+## Yn pori'r we
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+Efallai y byddwch am gysylltu eich Mws Mws i'r rhyngrwyd. Os na wnaethoch chi ychwanegu at cebl ethernet, yna bydd angen i chi gysylltu â rhwydwaith diwifr.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+Er mwyn galluogi Wi-Fi ar eich Mws Mws, bydd angen i chi osod gwlad Wi-Fi.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![gosod gwlad wifi](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ Dewiswch **Preferences**, **Raspberry Pi Configuration** o'r ddewislen.
 
-+ Click the **Localisation** tab.
++ Cliciwch y tab **Lleoli**.
 
-+ Click **Set WiFi Country** button.
++ Cliciwch **Gosodwch WiFi Gwlad** botwm.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![dewis gwlad wifi](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Dewiswch eich gwlad o'r rhestr a chliciwch **OK**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Unwaith y byddwch chi wedi gosod gwlad Wi-Fi gallwch gysylltu â rhwydwaith di-wifr.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Cliciwch yr eicon gyda chroesau coch yng nghornel uchaf y sgrin, a dewiswch eich rhwydwaith o'r ddewislen. Efallai y bydd angen i chi ofyn i oedolyn pa rwydwaith y dylech ei ddewis.
 
-![No wifi](images/no-wifi.png)
+![Dim wifi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ Teipiwch y cyfrinair ar gyfer eich rhwydwaith di-wifr, neu ofyn i oedolyn ei deipio ar eich cyfer, yna cliciwch **OK**.
 
-![Type in password](images/type-password.png)
+![Teipiwch gyfrinair](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Pan fydd eich Pi wedi'i gysylltu â'r rhyngrwyd, fe welwch symbol LAN di-wifr yn lle'r croesau coch.
 
 ![screenshot](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ Cliciwch ar yr eicon porwr gwe a chwilio am `mafon pi`.
 
 ![screenshot](images/pi-browser.png)
