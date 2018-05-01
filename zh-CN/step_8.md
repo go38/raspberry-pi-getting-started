@@ -1,13 +1,13 @@
-\--- challenge \---
+\---挑战\---
 
-## Challenge: explore the Raspberry Pi
+## 挑战：探索树莓派
 
-Take a tour of the menu — can you find:
+浏览菜单 - 你能找到：
 
-+ A version of Scratch?
++ 一个Scratch版本？
 
-+ A Python game to play?
++ 一个Python游戏玩？
 
-+ A version of Minecraft that you can program?
++ 您可以编程的Minecraft版本？
 
-\--- /challenge \---
+\--- /挑战\---
