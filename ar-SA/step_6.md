@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## جولة في Raspberry Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+الآن حان الوقت للقيام بجولة في Raspberry Pi.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ ترى أن توت العليق في أعلى الزاوية اليسرى؟ هنا يمكنك الوصول إلى القائمة: اضغط عليها ، وسوف تجد الكثير من التطبيقات.
 
-+ Click **Accessories** and choose **Text Editor**.
++ انقر فوق **Accessories** واختر **محرر النصوص**.
 
-![screenshot](images/pi-accessories.png)
+![لقطة شاشة](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ اكتب `لقد قمت للتو ببناء Raspberry Pi` في النافذة التي تظهر.
 
-![screenshot](images/pi-text-editor.png)
+![لقطة شاشة](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ انقر فوق **ملف**، ثم اختر **احفظ**، ثم انقر فوق **سطح المكتب** واحفظ الملف كـ `rp.txt`.
 
-![screenshot](images/pi-save.png)
+![لقطة شاشة](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ يجب أن تشاهد رمزًا `rp.txt` تظهر على سطح المكتب.
 
-![screenshot](images/pi-saved.png)
+![لقطة شاشة](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+تم حفظ ملفك في بطاقة SD الخاصة بـ Raspberry Pi.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ أغلق محرر النصوص من خلال النقر على **X** أعلى الجانب الأيسر من النافذة.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ العودة إلى قائمة Raspberry ، اختر **إيقاف**، ثم اختر **Reboot**.
 
-+ When the Pi has rebooted, your file should still be there.
++ عند إعادة تشغيل Pi ، يجب أن يكون ملفك موجودًا.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ يدير Raspberry Pi إصدارًا من نظام تشغيل يُسمى Linux (Windows و MacOS هما نظامان آخران للتشغيل). يسمح لك أن يحدث عن طريق كتابة الأوامر بدلاً من النقر فوق خيارات القائمة. انقر على **محطة** في الجزء العلوي من الشاشة:
 
-![screenshot](images/pi-command-prompt.png)
+![لقطة شاشة](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ في النافذة التي تظهر ، اكتب:
 
-    ls
+    ليرة سورية
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+ثم اضغط على <kbd>أدخل</kbd> على لوحة المفاتيح.
 
-This will list the files in your `home` directory.
+هذا سوف يسرد الملفات الموجودة في `home` directory.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ الآن اكتب هذا الأمر **c**hange **d**irectory إلى سطح المكتب:
 
-    cd Desktop
+    مؤتمر نزع السلاح المكتبي
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+يجب عليك الضغط على مفتاح <kbd>أدخل</kbd> بعد كل أمر.
 
-Type:
+اكتب:
 
-    ls
+    ليرة سورية
     
 
-Can you see the file you created?
+هل يمكنك رؤية الملف الذي قمت بإنشائه؟
 
-+ Close the terminal window by clicking on the **X**.
++ أغلق نافذة الوحدة الطرفية من خلال النقر على **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ اسحب الآن `rp.txt` إلى Wastebasket على سطح المكتب بحيث يكون Pi جاهزًا للشخص التالي.
     
-    ![screenshot](images/pi-waste.png)
+    ![لقطة شاشة](images/pi-waste.png)
