@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- चुनौती \---
 
-## Challenge: explore the Raspberry Pi
+## चुनौती: रास्पबेरी पीआई का पता लगाएं
 
-Take a tour of the menu — can you find:
+मेनू का भ्रमण करें - क्या आप पा सकते हैं:
 
-+ A version of Scratch?
++ स्क्रैच का एक संस्करण?
 
-+ A Python game to play?
++ खेलने के लिए एक पायथन खेल?
 
-+ A version of Minecraft that you can program?
++ Minecraft का एक संस्करण है कि आप प्रोग्राम कर सकते हैं?
 
-\--- /challenge \---
+\--- /चुनौती \---
