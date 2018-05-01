@@ -1,14 +1,14 @@
 ## Maak kennis met de Raspberry Pi
 
-Laten we de Raspberry Pi bekijken. Voor dit zou je een Raspberry Pi-computer voor je moeten hebben. Er moet nog niets mee verbonden zijn.
+Laten we de Raspberry Pi eens bekijken. Leg de Raspberry Pi-computer zo voor je neer. Het zou nog nergens mee verbonden moeten zijn.
 
-+ Kijk naar je Raspberry Pi. Kun je alle dingen vinden die op het diagram zijn vermeld?
++ Kijk naar je Raspberry Pi. Kun je alle dingen vinden die op de afbeelding staan vermeld?
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB-poorten** - deze worden gebruikt om een ​​muis en toetsenbord aan te sluiten. U kunt ook andere componenten aansluiten, zoals een USB-station.
++ **USB-poorten** - die worden gebruikt om een ​​muis en toetsenbord aan te sluiten. Je kunt ook andere componenten aansluiten, zoals een USB-station.
 
-+ **SD-kaartslot** - hier kun je de SD-kaart plaatsen. Hier worden de software van het besturingssysteem en uw bestanden opgeslagen.
++ **SD-kaartslot** - hierin kun je de SD-kaart plaatsen. Hier worden het besturingssysteem en je bestanden opgeslagen.
 
 + **Ethernetpoort** - dit wordt gebruikt om de Raspberry Pi via een kabel met een netwerk te verbinden. De Raspberry Pi kan ook via een draadloos LAN verbinding maken met een netwerk.
 
