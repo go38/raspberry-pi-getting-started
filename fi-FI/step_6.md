@@ -1,62 +1,62 @@
-## A tour of the Raspberry Pi
+## Kiertue Raspberry Pi
 
-Now it's time to take a tour of the Raspberry Pi.
+Nyt on aika käydä Raspberry Pi-kiertueella.
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ Katso, että vadelma on ylhäällä vasemmassa yläkulmassa? Sieltä pääset valikkoon: napsauta sitä ja löydät paljon sovelluksia.
 
-+ Click **Accessories** and choose **Text Editor**.
++ Napsauta **Tarvikkeet** ja valitse **Tekstieditori**.
 
-![screenshot](images/pi-accessories.png)
+![kuvakaappaus](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ Tyyppi `Rakensin juuri Raspberry Pi` ikkunaan, joka tulee näkyviin.
 
-![screenshot](images/pi-text-editor.png)
+![kuvakaappaus](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ Napsauta **Tiedosto**ja valitse **Tallenna**ja valitse sitten **Työpöytä** ja tallenna tiedosto `rp.txt`.
 
-![screenshot](images/pi-save.png)
+![kuvakaappaus](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ Sinun pitäisi nähdä kuvake `rp.txt` , joka näkyy työpöydällä.
 
-![screenshot](images/pi-saved.png)
+![kuvakaappaus](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+Tiedostosi on tallennettu Raspberry Pi SD-kortille.
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ Sulje tekstieditori napsauttamalla ikkunan oikeassa yläkulmassa olevaa **X** -kuvaketta.
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ Palaa Vadelma-valikkoon, valitse **Sammuta**ja valitse sitten **Käynnistä uudelleen**.
 
-+ When the Pi has rebooted, your file should still be there.
++ Kun Pi on käynnistynyt uudelleen, tiedosto on vielä paikalla.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Raspberry Pi käyttää Linux-käyttöjärjestelmän versiota (Windows ja MacOS ovat muita käyttöjärjestelmiä). Sen avulla voit sattua kirjoittamalla komentoja sen sijaan, että napsautat valikon vaihtoehtoja. Napsauta näytön yläosassa olevaa **Terminaalia**:
 
-![screenshot](images/pi-command-prompt.png)
+![kuvakaappaus](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
++ Kirjoita näkyviin tulevaan ikkunaan:
 
     ls
     
 
-and then press <kbd>Enter</kbd> on the keyboard.
+ja paina <kbd>Syötä</kbd> näppäimistöllä.
 
-This will list the files in your `home` directory.
+Tässä luetellaan tiedostot `kotisivulla`.
 
-+ Now type this command to **c**hange **d**irectory to the Desktop:
++ Kirjoita nyt komento **c**muokkaamaan **d**kirjastoa Työpöydälle:
 
     cd Desktop
     
 
-You have to press the <kbd>Enter</kbd> key after every command.
+Sinun on painettava <kbd>Enter</kbd> -näppäintä jokaisen komennon jälkeen.
 
-Type:
+Tyyppi:
 
     ls
     
 
-Can you see the file you created?
+Näetkö luodun tiedoston?
 
-+ Close the terminal window by clicking on the **X**.
++ Sulje päätelaite napsauttamalla **X**.
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
++ Vedä `rp.txt` työpöydälle jätekoriin niin, että Pi on valmis seuraavalle henkilölle.
     
-    ![screenshot](images/pi-waste.png)
+    ![kuvakaappaus](images/pi-waste.png)
