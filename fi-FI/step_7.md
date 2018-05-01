@@ -1,35 +1,35 @@
-## Browsing the web
+## Verkon selaaminen
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+Haluat ehkä yhdistää Vadelma Pi internetiin. Jos et ole liittänyt ethernet-kaapelia, sinun on muodostettava yhteys langattomaan verkkoon.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+Voit ottaa käyttöön Wi-Fi-verkon Raspberry Pi -sovelluksella Wi-Fi-maata.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![aseta wifi-maa](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ Valitse valikosta **Asetukset**, **Raspberry Pi Configuration**.
 
-+ Click the **Localisation** tab.
++ Napsauta **Lokalisointi** -välilehteä.
 
-+ Click **Set WiFi Country** button.
++ Napsauta **Aseta WLAN-maa** -painiketta.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![valitse wifi-maa](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Valitse maa luettelosta ja napsauta **OK**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Kun Wi-Fi-maa on määritetty, voit muodostaa yhteyden langattomaan verkkoon.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Napsauta näytön oikeassa yläkulmassa olevaa punaista ristiä olevaa kuvaketta ja valitse verkko avattavasta valikosta. Sinun on ehkä kysyttävä aikuiselta, minkä verkon haluat valita.
 
-![No wifi](images/no-wifi.png)
+![Ei wifi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ Kirjoita langattoman verkon salasana tai pyydä aikuista kirjoittamaan se sinulle ja valitse sitten **OK**.
 
-![Type in password](images/type-password.png)
+![Kirjoita salasana](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Kun Pi on yhteydessä internetiin, näet langattoman lähiverkon symbolin punaisten risteysten sijaan.
 
-![screenshot](images/pi-wifi.png)
+![kuvakaappaus](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ Napsauta selaimen kuvaketta ja hae `vadelma pi`.
 
-![screenshot](images/pi-browser.png)
+![kuvakaappaus](images/pi-browser.png)
