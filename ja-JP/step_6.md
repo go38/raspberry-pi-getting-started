@@ -1,62 +1,84 @@
-## A tour of the Raspberry Pi
+## ラズベリーパイのツアー
 
-Now it's time to take a tour of the Raspberry Pi.
+今度はラズベリーパイのツアーを楽しむ時間です。
 
-+ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
++ 左上のラズベリーを見ますか？ ここでメニューにアクセスします：それをクリックすると、たくさんのアプリケーションが見つかります。
 
-+ Click **Accessories** and choose **Text Editor**.
++ **アクセサリ** をクリックし、 **テキストエディタ**を選択します。
 
-![screenshot](images/pi-accessories.png)
+![スクリーンショット](images/pi-accessories.png)
 
-+ Type `I just built a Raspberry Pi` in the window that appears.
++ タイプ `表示されたウィンドウにラズベリーパイ` を作成しました。
 
-![screenshot](images/pi-text-editor.png)
+![スクリーンショット](images/pi-text-editor.png)
 
-+ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
++ **ファイル**をクリックしてから、 **を**に保存し、 **デスクトップ** をクリックし、ファイルを `rp.txt`として保存します。
 
-![screenshot](images/pi-save.png)
+![スクリーンショット](images/pi-save.png)
 
-+ You should see an icon named `rp.txt` appear on the desktop.
++ `rp.txt` という名前のアイコンがデスクトップに表示されます。
 
-![screenshot](images/pi-saved.png)
+![スクリーンショット](images/pi-saved.png)
 
-Your file has been saved to the Raspberry Pi's SD card.
+あなたのファイルはRaspberry PiのSDカードに保存されています。
 
-+ Close the text editor by clicking the **X** in the top right-hand corner of the window.
++ ウィンドウの右上隅にある **X** をクリックして、テキストエディタを閉じます。
 
-+ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
++ ラズベリーのメニューに戻り、 **シャットダウン**を選択し、 **再起動**を選択します。
 
-+ When the Pi has rebooted, your file should still be there.
++ Piが再起動したら、あなたのファイルはそこに残るはずです。
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ Raspberry PiはLinuxと呼ばれるオペレーティングシステムのバージョンを実行します（WindowsとmacOSは別のオペレーティングシステムです）。 メニューオプションをクリックする代わりに、コマンドを入力することで起こることができます。 画面上部の **端末** をクリックします。
 
-![screenshot](images/pi-command-prompt.png)
+![スクリーンショット](images/pi-command-prompt.png)
 
-+ In the window that appears, type:
-
-    ls
-    
-
-and then press <kbd>Enter</kbd> on the keyboard.
-
-This will list the files in your `home` directory.
-
-+ Now type this command to **c**hange **d**irectory to the Desktop:
-
-    cd Desktop
-    
-
-You have to press the <kbd>Enter</kbd> key after every command.
-
-Type:
++ 表示されるウィンドウで次のように入力します。
 
     ls
     
 
-Can you see the file you created?
+キーボードの</kbd> を <kbd>と入力してください。</p> 
 
-+ Close the terminal window by clicking on the **X**.
+<p>
+  <code>ホーム</code> ディレクトリにあるファイルが一覧表示されます。
+</p>
 
-+ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
-    
-    ![screenshot](images/pi-waste.png)
+<ul>
+  <li>
+    今すぐこのコマンドを <strong>に入力してください。</strong>hange <strong>d</strong>デスクトップへのディレクトリ：
+  </li>
+</ul>
+
+<pre><code>CDデスクトップ
+</code></pre>
+
+<p>
+  すべてのコマンドの後に <kbd>Enter</kbd> キーを押す必要があります。
+</p>
+
+<p>
+  タイプ：
+</p>
+
+<pre><code>ls
+</code></pre>
+
+<p>
+  あなたが作成したファイルを見ることができますか？
+</p>
+
+<ul>
+  <li>
+    <p>
+      <strong>X</strong>をクリックしてターミナルウィンドウを閉じます。
+    </p>
+  </li>
+  <li>
+    <p>
+      <code>rp.txt</code> をデスクトップのゴミ箱にドラッグすると、Piは次の人のために準備が整います。
+    </p>
+    <p>
+      <img src="images/pi-waste.png" alt="スクリーンショット" />
+    </p>
+  </li>
+</ul>
