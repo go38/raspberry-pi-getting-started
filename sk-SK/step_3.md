@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Zoznámte sa s Raspberry Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Poďme sa pozrieť na Raspberry Pi. Mali by ste mať pred sebou počítač malinského piva. Nemalo by sa k nemu nikdy pripojiť.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Pozrite sa na vašu Raspberry Pi. Môžete nájsť všetky veci označené na diagrame?
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **USB porty** - slúžia na pripojenie myši a klávesnice. Môžete tiež pripojiť iné komponenty, napríklad jednotku USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **Slot na kartu SD** - tu môžete kartu SD zasunúť. Tu je uložený softvér operačného systému a súbory.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Ethernetový port** - slúži na pripojenie Raspberry Pi k sieti pomocou kábla. Spoločnosť Raspberry Pi sa tiež môže pripojiť k sieti prostredníctvom bezdrôtovej siete LAN.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Audio konektor** - tu môžete pripojiť slúchadlá alebo reproduktory.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **Port HDMI** - tu môžete pripojiť monitor (alebo projektor), ktorý používate na zobrazenie výstupu z Raspberry Pi. Ak má váš monitor reproduktory, môžete ich použiť aj na počúvanie zvuku.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Napájací konektor Micro USB** - na tomto mieste pripájate napájací zdroj. Mali by ste to vždy robiť ako posledné, keď ste pripojili všetky ostatné komponenty.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **GPIO porty** - umožňujú vám pripojiť elektronické súčiastky, ako sú LED diódy a tlačidlá, na Raspberry Pi.
