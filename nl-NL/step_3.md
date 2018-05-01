@@ -10,12 +10,12 @@ Laten we de Raspberry Pi eens bekijken. Leg de Raspberry Pi-computer zo voor je 
 
 + **SD-kaartslot** - hierin kun je de SD-kaart plaatsen. Hier worden het besturingssysteem en je bestanden opgeslagen.
 
-+ **Ethernetpoort** - dit wordt gebruikt om de Raspberry Pi via een kabel met een netwerk te verbinden. De Raspberry Pi kan ook via een draadloos LAN verbinding maken met een netwerk.
++ **Ethernetpoort** - dit wordt gebruikt om de Raspberry Pi via een kabel met een netwerk te verbinden. De Raspberry Pi kan ook met een draadloze LAN verbinding maken met een netwerk.
 
-+ **Audio-aansluiting** - hier kunt u een koptelefoon of luidsprekers aansluiten.
++ **Audio-aansluiting** - hier kun je een koptelefoon of luidsprekers aansluiten.
 
-+ **HDMI-poort** - hier sluit u de monitor (of projector) aan die u gebruikt om de uitvoer van de Raspberry Pi weer te geven. Als uw monitor luidsprekers heeft, kunt u deze ook gebruiken om geluid te horen.
++ **HDMI-poort** - hierop sluit je de monitor (of projector) aan om de uitvoer van de Raspberry Pi weer te geven. Als de monitor luidsprekers heeft, kun je die ook gebruiken om geluid te horen.
 
-+ **Micro USB-stroomaansluiting** - hier sluit u een voeding aan. Je moet dit altijd als laatste doen, nadat je al je andere componenten hebt verbonden.
++ **Micro USB-stroomaansluiting** - hierop sluit je de stroomvoorziening aan. Je moet dit altijd als laatste doen, nadat je al de andere componenten hebt aangesloten.
 
-+ **GPIO-poorten** - hiermee kunt u elektronische componenten zoals LED's en knoppen verbinden met de Raspberry Pi.
++ **GPIO-poorten** - hiermee kun je elektronische componenten zoals LED's en knoppen verbinden met de Raspberry Pi.
