@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- πρόκληση \---
 
-## Challenge: explain the Raspberry Pi
+## Πρόκληση: εξηγήστε το Raspberry Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Βρείτε κάποιον άλλο και εξηγήστε σε ποιους απευθύνεται το κάθε μέρος του Raspberry Pi.
 
 ![screenshot](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- / πρόκληση \---
