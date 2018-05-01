@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- izazov \---
 
-## Challenge: explore the Raspberry Pi
+## Izazov: istražite maline Pi
 
-Take a tour of the menu — can you find:
+Pogledajte obilazak jelovnika - možete li pronaći:
 
-+ A version of Scratch?
++ Verzija od Scratch?
 
-+ A Python game to play?
++ Python igra za igru?
 
-+ A version of Minecraft that you can program?
++ Verzija Minecrafta koju možete programirati?
 
-\--- /challenge \---
+\--- / izazov \---
