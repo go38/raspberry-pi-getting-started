@@ -1,21 +1,21 @@
-## What you will need
+## Τι θα χρειαστείτε
 
-### Hardware
+### Σκεύη, εξαρτήματα
 
-+ A Raspberry Pi computer with an SD card
++ Ένας υπολογιστής Raspinberry Pi με κάρτα SD
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ Μια οθόνη με καλώδιο (και, εάν χρειάζεται, έναν προσαρμογέα HDMI)
 
-+ A USB keyboard and mouse
++ Ένα πληκτρολόγιο και ποντίκι USB
 
-+ A power supply
++ Μια τροφοδοσία ρεύματος
 
-+ Headphones or speakers (optional)
++ Ακουστικά ή ηχεία (προαιρετικά)
 
-+ An ethernet cable (optional)
++ Ένα καλώδιο ethernet (προαιρετικό)
 
-### Software
+### Λογισμικό
 
-+ Raspbian, installed via NOOBS
++ Raspbian, εγκατεστημένο μέσω NOOBS
 
 [[[noobs-install]]]
