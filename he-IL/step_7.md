@@ -1,35 +1,35 @@
-## Browsing the web
+## גלישה באינטרנט
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+ייתכן שתרצה לחבר את פספסת הפרחים שלך לאינטרנט. אם לא חבר כבל Ethernet, יהיה עליך להתחבר לרשת אלחוטית.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+כדי להפעיל את ה- Wi-Fi על פי פטל שלך תצטרך להגדיר מדינה Wi-Fi.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![להגדיר את המדינה WiFi - -](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ בחר **העדפות**, **תצוגת פטל** מהתפריט.
 
-+ Click the **Localisation** tab.
++ לחץ על הכרטיסייה **לוקליזציה**.
 
-+ Click **Set WiFi Country** button.
++ לחץ על לחצן **הגדר את ארץ WiFi**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![בחר ארץ WiFi - -](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ בחר את הארץ שלך מהרשימה ולחץ על **אישור**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+לאחר הגדרת Wi-Fi, תוכל להתחבר לרשת אלחוטית.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ לחץ על הסמל עם צלבים אדומים בפינה הימנית העליונה של המסך, ובחר את הרשת שלך מהתפריט הנפתח. ייתכן שיהיה עליך לשאול מבוגר איזו רשת אתה צריך לבחור.
 
-![No wifi](images/no-wifi.png)
+![אין WiFi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ הקלד את הסיסמה עבור הרשת האלחוטית שלך, או בקש מבוגר להקליד אותה עבורך ולאחר מכן לחץ על **אישור**.
 
-![Type in password](images/type-password.png)
+![הקלד את הסיסמה](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ כאשר ה- Pi מחובר לאינטרנט, תראה סמל LAN אלחוטי במקום הצלבים האדומים.
 
-![screenshot](images/pi-wifi.png)
+![צילום מסך](images/pi-wifi.png)
 
 + Click the web browser icon and search for `raspberry pi`.
 
-![screenshot](images/pi-browser.png)
+![צילום מסך](images/pi-browser.png)
