@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- thử thách \---
 
-## Challenge: explain the Raspberry Pi
+## Thách thức: giải thích Raspberry Pi
 
-Find someone else and explain to them what each of the parts of the Raspberry Pi does.
+Tìm người khác và giải thích cho họ những gì từng phần của Raspberry Pi thực hiện.
 
-![screenshot](images/pi-labelled-names.png)
+![ảnh chụp màn hình](images/pi-labelled-names.png)
 
-\--- /challenge \---
+\--- /thử thách \---
