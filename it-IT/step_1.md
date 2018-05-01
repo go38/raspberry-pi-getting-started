@@ -1,21 +1,21 @@
-## Introduction
+## introduzione
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+In questo progetto ti connetteresti a un computer Raspberry Pi e scoprirai cosa può fare.
 
-### What you will make
+### Cosa farai
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Il Raspberry Pi è un piccolo computer che può fare molte cose. Lo colleghi a un monitor e allega una tastiera e un mouse.
 
-![screenshot](images/pi-plug-in.gif)
+![immagine dello schermo](images/pi-plug-in.gif)
 
-### What you will learn
+### Cosa imparerai
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto copre gli elementi dei seguenti filoni del curriculum [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Utilizzare i componenti digitali, analogici ed elettromeccanici di base](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Ulteriori informazioni per gli educatori
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Se hai bisogno di stampare questo progetto, usa la [versione stampabile](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Usa il link nel footer per accedere al repository GitHub per questo progetto, che contiene tutte le risorse (incluso un esempio di progetto finito) nella cartella 'en / resources'.
