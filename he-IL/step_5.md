@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## לחבר את פי פטל שלך
 
-Let's connect up your Raspberry Pi and get it running.
+ללא שם: בואו לחבר את Pippberry Pi ולקבל אותו פועל.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ בדוק אם יש לך כרטיס ה- SD כבר יש כרטיס SD בחריץ בצד התחתון, ואם לא, הכנס כרטיס SD עם Raspbian מותקן (דרך NOOBS). הרבה כרטיסי SD יבואו בתוך מתאם גדול יותר, ואתה יכול להחליק את הכרטיס מתוך זה באמצעות השפה בתחתית.
     
-    ![screenshot](images/pi-sd.png)
+    ![צילום מסך](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ מצא את מחבר ה- USB עבור העכבר, ולחבר את העכבר לאחת יציאת ה- USB על פי פטל (זה לא משנה איזה).
     
-    ![screenshot](images/pi-mouse.png)
+    ![צילום מסך](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ חבר את המקלדת באותו אופן.
     
-    ![screenshot](images/pi-keyboard.png)
+    ![צילום מסך](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ תסתכל על יציאת HDMI על פי פטל - שים לב כי יש צד שטוח גדול על גבי.
     
-    ![screenshot](images/pi-hdmi.png)
+    ![צילום מסך](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+ודא שהצג מחובר לשקע חשמל והפעל אותו.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ חבר את כבל הצג ליציאת -ה HDMI של HDMI - השתמש במתאם במידת הצורך.
 
-Nothing will display yet.
+עדיין לא יוצג דבר.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ חבר אוזניות או רמקולים לשקע השמע אם יש לך כמה.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ אם יש לך אחד, השתמש כבל Ethernet כדי לחבר את יציאת Ethernet על פי פספסת לשקע Ethernet על הקיר או על הנתב. (אתה לא צריך לעשות את זה אם אתה משתמש LAN אלחוטי או אם אתה לא רוצה להתחבר לאינטרנט.)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ שים לב כי יציאת USB מיקרו USB יש צד שטוח יותר על גבי.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+חבר את ספק הכוח לשקע וחבר אותו ליציאת המתח של מיקרו USB.
 
-![screenshot](images/pi-power.png)
+![צילום מסך](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+אתה צריך לראות אור אדום על פי פטל פטל על הצג.
 
-The Pi will boot up into a graphical desktop.
+פי יהיה אתחול לתוך שולחן העבודה הגרפי.
 
-![screenshot](images/pi-desktop.png)
+![צילום מסך](images/pi-desktop.png)
