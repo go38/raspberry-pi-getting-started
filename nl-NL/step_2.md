@@ -8,11 +8,11 @@
 
 + Een USB-toetsenbord en -muis
 
-+ Een voeding
++ Een stroomvoorziening
 
 + Hoofdtelefoons of luidsprekers (optioneel)
 
-+ Een ethernet-kabel (optioneel)
++ Een ethernetkabel (optioneel)
 
 ### Software
 
