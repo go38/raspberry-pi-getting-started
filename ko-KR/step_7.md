@@ -1,35 +1,35 @@
-## Browsing the web
+## 웹 브라우징
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+라스베리 파이를 인터넷에 연결하고 싶을 수도 있습니다. 이더넷 케이블을 연결하지 않았다면 무선 네트워크에 연결해야합니다.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+Raspberry Pi에서 Wi-Fi를 사용하려면 Wi-Fi 국가를 설정해야합니다.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![와이파이 국가 설정](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ 메뉴에서 **환경 설정**, **Raspberry Pi Configuration** 을 선택하십시오.
 
-+ Click the **Localisation** tab.
++ **현지화** 탭을 클릭하십시오.
 
-+ Click **Set WiFi Country** button.
++ **WiFi 국가 설정** 버튼을 클릭하십시오.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![와이파이 국가 선택](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ 목록에서 국가를 선택하고 **OK**을 클릭하십시오.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Wi-Fi 국가가 설정되면 무선 네트워크에 연결할 수 있습니다.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ 화면의 오른쪽 상단 모서리에있는 빨간색 십자가 아이콘을 클릭하고 드롭 다운 메뉴에서 네트워크를 선택하십시오. 어떤 네트워크를 선택해야하는지 성인에게 물어볼 필요가 있습니다.
 
-![No wifi](images/no-wifi.png)
+![와이파이 없음](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ 무선 네트워크의 비밀번호를 입력하거나 성인에게 직접 입력하도록 요청한 다음 **OK**을 클릭하십시오.
 
-![Type in password](images/type-password.png)
+![암호 입력](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Pi가 인터넷에 연결되면 빨간색 십자가 대신 무선 LAN 기호가 나타납니다.
 
-![screenshot](images/pi-wifi.png)
+![스크린 샷](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ 웹 브라우저 아이콘을 클릭하고 `raspberry pi`을 검색하십시오.
 
-![screenshot](images/pi-browser.png)
+![스크린 샷](images/pi-browser.png)
