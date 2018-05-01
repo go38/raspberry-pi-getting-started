@@ -1,21 +1,21 @@
-## Introduction
+## परिचय
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+इस परियोजना में आप एक रास्पबेरी पीआई कंप्यूटर को जोड़ देंगे और पता लगाएंगे कि यह क्या कर सकता है।
 
-### What you will make
+### आप क्या करेंगे
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+रास्पबेरी पाई एक छोटा कंप्यूटर है जो बहुत सी चीजें कर सकता है। आप इसे मॉनिटर में प्लग करते हैं और कीबोर्ड और माउस संलग्न करते हैं।
 
-![screenshot](images/pi-plug-in.gif)
+![स्क्रीनशॉट](images/pi-plug-in.gif)
 
-### What you will learn
+### आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+इस परियोजना में [रास्पबेरी पीआई डिजिटल मेकिंग पाठ्यक्रम](http://rpf.io/curriculum){: target = "_ blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [मूल डिजिटल, एनालॉग, और इलेक्ट्रोमेकेनिकल घटकों का उपयोग](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस परियोजना के लिए गिटहब भंडार तक पहुंचने के लिए पाद लेख में लिंक का उपयोग करें, जिसमें 'एन / संसाधन' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण समाप्त परियोजना सहित)।
