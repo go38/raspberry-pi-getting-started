@@ -1,21 +1,21 @@
-## Introduction
+## Введение
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+В этом проекте вы подключите компьютер малины Pi и узнаете, что он может сделать.
 
-### What you will make
+### Что вы сделаете
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Малина Pi - маленький компьютер, который может делать много вещей. Вы подключаете его к монитору и подключаете клавиатуру и мышь.
 
-![screenshot](images/pi-plug-in.gif)
+![Скриншот](images/pi-plug-in.gif)
 
-### What you will learn
+### Что вы узнаете
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Этот проект охватывает элементы из следующих строк [малины Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Используйте базовые цифровые, аналоговые и электромеханические компоненты](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Дополнительная информация для преподавателей
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Если вам нужно распечатать этот проект, используйте [версию для печати](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Используйте ссылку в нижнем колонтитуле для доступа к репозиторию GitHub для этого проекта, который содержит все ресурсы (включая пример завершенного проекта) в папке «en / resources».
