@@ -1,35 +1,35 @@
-## Browsing the web
+## Περιήγηση στον ιστό
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+Ίσως θελήσετε να συνδέσετε το Raspberry Pi στο Διαδίκτυο. Εάν δεν συνδέσατε καλώδιο ethernet, τότε θα πρέπει να συνδεθείτε σε ασύρματο δίκτυο.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+Για να ενεργοποιήσετε το Wi-Fi στο Raspberry Pi, θα χρειαστεί να ορίσετε μια χώρα Wi-Fi.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![ορίστε τη χώρα wifi](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ Επιλέξτε **Προτιμήσεις**, **Configuration Pi Raspberry** από το μενού.
 
-+ Click the **Localisation** tab.
++ Κάντε κλικ στην καρτέλα **Εντοπισμός**.
 
-+ Click **Set WiFi Country** button.
++ Κάντε κλικ στο **Ρύθμιση του πλήκτρου WiFi Country**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![επιλέξτε χώρα wifi](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Επιλέξτε τη χώρα σας από τη λίστα και κάντε κλικ στο **OK**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Αφού ορίσετε τη χώρα Wi-Fi, μπορείτε να συνδεθείτε σε ένα ασύρματο δίκτυο.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Κάντε κλικ στο εικονίδιο με κόκκινους σταυρούς στην επάνω δεξιά γωνία της οθόνης και επιλέξτε το δίκτυό σας από το αναπτυσσόμενο μενού. Ίσως χρειαστεί να ρωτήσετε έναν ενήλικα ποιο δίκτυο θα πρέπει να επιλέξετε.
 
-![No wifi](images/no-wifi.png)
+![Δεν υπάρχει wifi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ Πληκτρολογήστε τον κωδικό πρόσβασης για το ασύρματο δίκτυό σας ή ζητήστε από έναν ενήλικο να το πληκτρολογήσει για σας, στη συνέχεια κάντε κλικ στο **OK**.
 
-![Type in password](images/type-password.png)
+![Πληκτρολογήστε τον κωδικό πρόσβασης](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Όταν το Pi σας είναι συνδεδεμένο στο διαδίκτυο, θα δείτε ένα σύμβολο ασύρματου LAN αντί των κόκκινων σταυρών.
 
 ![screenshot](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ Κάντε κλικ στο εικονίδιο του προγράμματος περιήγησης στο Web και αναζητήστε `σμέουρα pi`.
 
 ![screenshot](images/pi-browser.png)
