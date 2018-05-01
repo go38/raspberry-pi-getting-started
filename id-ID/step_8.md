@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: explore the Raspberry Pi
+## Tantangan: jelajahi Raspberry Pi
 
-Take a tour of the menu — can you find:
+Ikuti tur di menu - dapatkah Anda menemukan:
 
-+ A version of Scratch?
++ Versi Scratch?
 
-+ A Python game to play?
++ Game Python untuk dimainkan?
 
-+ A version of Minecraft that you can program?
++ Versi Minecraft yang dapat Anda programkan?
 
-\--- /challenge \---
+\--- / tantangan \---
