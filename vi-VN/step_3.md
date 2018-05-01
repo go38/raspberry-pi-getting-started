@@ -1,21 +1,21 @@
-## Meet the Raspberry Pi
+## Gặp gỡ Raspberry Pi
 
-Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
+Chúng ta hãy nhìn vào Raspberry Pi. Bạn nên có một máy tính Raspberry Pi trước mặt bạn cho việc này. Nó không nên được kết nối với bất cứ điều gì được nêu ra.
 
-+ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
++ Nhìn vào Raspberry Pi của bạn. Bạn có thể tìm thấy tất cả những thứ được dán nhãn trên biểu đồ không?
 
-![screenshot](images/pi-labelled-names.png)
+![ảnh chụp màn hình](images/pi-labelled-names.png)
 
-+ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
++ **Cổng USB** - các cổng này được sử dụng để kết nối chuột và bàn phím. Bạn cũng có thể kết nối các thành phần khác, chẳng hạn như ổ USB.
 
-+ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
++ **Khe cắm thẻ SD** - bạn có thể đặt thẻ SD vào đây. Đây là nơi phần mềm hệ điều hành và các tệp của bạn được lưu trữ.
 
-+ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
++ **Cổng Ethernet** - được sử dụng để kết nối Raspberry Pi với mạng bằng cáp. Raspberry Pi cũng có thể kết nối với mạng thông qua mạng LAN không dây.
 
-+ **Audio jack** — you can connect headphones or speakers here.
++ **Giắc âm thanh** - bạn có thể kết nối tai nghe hoặc loa ở đây.
 
-+ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
++ **Cổng HDMI** - đây là nơi bạn kết nối màn hình (hoặc máy chiếu) mà bạn đang sử dụng để hiển thị đầu ra từ Raspberry Pi. Nếu màn hình của bạn có loa, bạn cũng có thể sử dụng chúng để nghe âm thanh.
 
-+ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
++ **Đầu nối nguồn Micro USB** - đây là nơi bạn kết nối nguồn điện. Bạn nên luôn luôn làm điều này cuối cùng, sau khi bạn đã kết nối tất cả các thành phần khác của bạn.
 
-+ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
++ **Cổng GPIO** - các cổng này cho phép bạn kết nối các thành phần điện tử như đèn LED và nút với Raspberry Pi.
