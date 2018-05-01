@@ -1,43 +1,43 @@
-## Connect your Raspberry Pi
+## Ligue o seu Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Vamos conectar seu Raspberry Pi e colocá-lo em funcionamento.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Verifique se o seu Raspberry Pi já tem um cartão SD no slot na parte inferior, e se não, insira um cartão SD com Raspbian instalado (via NOOBS). Muitos cartões SD vêm dentro de um adaptador maior, e você pode deslizar o cartão para fora usando o lábio na parte inferior.
     
-    ![screenshot](images/pi-sd.png)
+    ![captura de tela](images/pi-sd.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Encontre o conector USB para o mouse e conecte o mouse a uma das portas USB do Raspberry Pi (não importa qual delas).
     
-    ![screenshot](images/pi-mouse.png)
+    ![captura de tela](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Conecte o teclado da mesma maneira.
     
-    ![screenshot](images/pi-keyboard.png)
+    ![captura de tela](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Olhe para a porta HDMI no Raspberry Pi - observe que ele tem um grande lado plano no topo.
     
-    ![screenshot](images/pi-hdmi.png)
+    ![captura de tela](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Certifique-se de que seu monitor esteja conectado a uma tomada de parede e ligado.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Conecte o cabo do monitor à porta HDMI do Pi - use um adaptador, se necessário.
 
-Nothing will display yet.
+Nada será exibido ainda.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ Conecte fones de ouvido ou alto-falantes ao conector de áudio, se houver algum.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ Se você tiver um, use um cabo ethernet para conectar a porta ethernet do Raspberry Pi a um soquete ethernet na parede ou no roteador. (Você não precisa fazer isso se estiver usando LAN sem fio ou se não quiser se conectar à Internet.)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Observe que a porta de energia micro USB tem um lado plano mais longo na parte superior.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Conecte a fonte de alimentação a um soquete e conecte-a à porta de energia micro USB.
 
-![screenshot](images/pi-power.png)
+![captura de tela](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Você deve ver uma luz vermelha no Raspberry Pi e framboesas no monitor.
 
-The Pi will boot up into a graphical desktop.
+O Pi será inicializado em um desktop gráfico.
 
-![screenshot](images/pi-desktop.png)
+![captura de tela](images/pi-desktop.png)
