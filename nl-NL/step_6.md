@@ -1,4 +1,4 @@
-## Een rondleiding door de Raspberry Pi
+## Een Raspberry Pi rondleiding
 
 Nu is het tijd voor een rondleiding door de Raspberry Pi.
 
