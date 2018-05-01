@@ -1,21 +1,21 @@
-## What you will need
+## Những gì bạn sẽ cần
 
-### Hardware
+### Phần cứng
 
-+ A Raspberry Pi computer with an SD card
++ Một máy tính Raspberry Pi với một thẻ SD
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ Một màn hình với một cáp (và, nếu cần thiết, một bộ chuyển đổi HDMI)
 
-+ A USB keyboard and mouse
++ Bàn phím và chuột USB
 
-+ A power supply
++ Nguồn điện
 
-+ Headphones or speakers (optional)
++ Tai nghe hoặc loa (tùy chọn)
 
-+ An ethernet cable (optional)
++ Cáp ethernet (tùy chọn)
 
-### Software
+### Phần mềm
 
-+ Raspbian, installed via NOOBS
++ Raspbian, được cài đặt qua NOOBS
 
 [[[noobs-install]]]
