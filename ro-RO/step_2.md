@@ -1,21 +1,21 @@
-## What you will need
+## Ce vei avea nevoie
 
 ### Hardware
 
-+ A Raspberry Pi computer with an SD card
++ Un computer de zmeură Pi cu un card SD
 
-+ A monitor with a cable (and, if needed, an HDMI adaptor)
++ Un monitor cu un cablu (și, dacă este necesar, un adaptor HDMI)
 
-+ A USB keyboard and mouse
++ O tastatură și un mouse USB
 
-+ A power supply
++ O sursă de alimentare
 
-+ Headphones or speakers (optional)
++ Căști sau difuzoare (opțional)
 
-+ An ethernet cable (optional)
++ Un cablu ethernet (opțional)
 
-### Software
+### Software-ul
 
-+ Raspbian, installed via NOOBS
++ Raspbian, instalat prin NOOBS
 
 [[[noobs-install]]]
