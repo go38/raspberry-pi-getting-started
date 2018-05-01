@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- 도전 \---
 
-## Challenge: explore the Raspberry Pi
+## 과제 : 라스베리 파이를 탐험 해보십시오.
 
-Take a tour of the menu — can you find:
+메뉴 둘러보기 - 찾을 수 있습니까?
 
-+ A version of Scratch?
++ 스크래치 버전?
 
-+ A Python game to play?
++ 게임 할 파이썬 게임?
 
-+ A version of Minecraft that you can program?
++ 프로그래밍 할 수있는 Minecraft 버전?
 
-\--- /challenge \---
+\--- /도전 \---
