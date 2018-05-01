@@ -1,21 +1,21 @@
-## Introduction
+## Introducere
 
-In this project you will connect up a Raspberry Pi computer and find out what it can do.
+În acest proiect veți conecta un computer de Raspberry Pi și veți afla ce poate face.
 
-### What you will make
+### Ce veți face
 
-The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
+Raspberry Pi este un mic computer care poate face multe lucruri. Conectați-l într-un monitor și atașați o tastatură și un mouse.
 
-![screenshot](images/pi-plug-in.gif)
+![captură de ecran](images/pi-plug-in.gif)
 
-### What you will learn
+### Ce veți învăța
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Acest proiect acoperă elemente din următoarele componente ale Curriculum [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
++ [Utilizați componente de bază digitale, analogice și electromecanice](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Additional information for educators
+### Informații suplimentare pentru educatori
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+Dacă aveți nevoie să imprimați acest proiect, vă rugăm să utilizați [versiunea prietenă pentru imprimantă](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utilizați link-ul din subsolul paginii pentru a accesa depozitul GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul "en / resources".
