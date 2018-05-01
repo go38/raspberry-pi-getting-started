@@ -1,35 +1,35 @@
-## Browsing the web
+## Surfer sur le web
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+Vous pouvez connecter votre Raspberry Pi à Internet. Si vous n'avez pas branché de câble Ethernet, vous devrez vous connecter à un réseau sans fil.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
+Pour activer le Wi-Fi sur votre Raspberry Pi, vous devez définir un pays Wi-Fi.
 
-![set wifi country](images/pi-set-wifi-country.png)
+![définir le pays wifi](images/pi-set-wifi-country.png)
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
++ Sélectionnez **Préférences**, **Raspberry Pi Configuration** dans le menu.
 
-+ Click the **Localisation** tab.
++ Cliquez sur l'onglet **Localisation**.
 
-+ Click **Set WiFi Country** button.
++ Cliquez sur **Bouton Définir le pays WiFi**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![sélectionnez le pays wifi](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Sélectionnez votre pays dans la liste et cliquez sur **OK**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Une fois le pays Wi-Fi défini, vous pouvez vous connecter à un réseau sans fil.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Cliquez sur l'icône avec des croix rouges dans le coin supérieur droit de l'écran et sélectionnez votre réseau dans le menu déroulant. Vous devrez peut-être demander à un adulte quel réseau vous devriez choisir.
 
-![No wifi](images/no-wifi.png)
+![Pas de wifi](images/no-wifi.png)
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ Tapez le mot de passe de votre réseau sans fil ou demandez à un adulte de le saisir pour vous, puis cliquez sur **OK**.
 
-![Type in password](images/type-password.png)
+![Tapez le mot de passe](images/type-password.png)
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ Lorsque votre Pi est connecté à Internet, vous verrez un symbole LAN sans fil à la place des croix rouges.
 
-![screenshot](images/pi-wifi.png)
+![capture d'écran](images/pi-wifi.png)
 
-+ Click the web browser icon and search for `raspberry pi`.
++ Cliquez sur l'icône du navigateur Web et recherchez `framboise pi`.
 
-![screenshot](images/pi-browser.png)
+![capture d'écran](images/pi-browser.png)
