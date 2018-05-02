@@ -10,9 +10,9 @@ title: 开始使用Raspberry Pi
 description: 设置您的Raspberry Pi并探索它可以做什么
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: 树莓丕
+technologies: 树莓派
 site_areas: 项目
-hardware: 树莓丕
+hardware: 树莓派
 software: ''
 version: 3
 last_tested: 2017年1月1日
@@ -20,7 +20,7 @@ steps:
   - 
     title: 介绍
   - 
-    title: 你需要什么
+    title: 你将需要这些
   - 
     title: 认识树莓派
   - 
@@ -28,7 +28,7 @@ steps:
   - 
     title: 连接你的树莓派
   - 
-    title: 参观树莓派
+    title: 树莓派导览
   - 
     title: 浏览网页
   - 
