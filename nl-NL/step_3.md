@@ -6,11 +6,11 @@ Laten we de Raspberry Pi eens bekijken. Leg de Raspberry Pi-computer zo voor je 
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB-poorten** - die worden gebruikt om een ​​muis en toetsenbord aan te sluiten. Je kunt ook andere componenten aansluiten, zoals een USB-station.
++ **USB-poorten** - die worden gebruikt om een ​​muis en toetsenbord aan te sluiten. Je kunt ook andere componenten aansluiten, zoals een USB-harddisk.
 
-+ **SD-kaartslot** - hierin kun je de SD-kaart plaatsen. Hier worden het besturingssysteem en je bestanden opgeslagen.
++ **SD-kaartslot** - hierin kun je de SD-kaart plaatsen. Hierop worden het besturingssysteem en je bestanden opgeslagen.
 
-+ **Ethernetpoort** - dit wordt gebruikt om de Raspberry Pi via een kabel met een netwerk te verbinden. De Raspberry Pi kan ook met een draadloze LAN verbinding maken met een netwerk.
++ **Ethernetpoort** - dit wordt gebruikt om de Raspberry Pi via een kabel met een netwerk te verbinden. De Raspberry Pi kan ook een draadloos een LAN verbinding maken met een netwerk.
 
 + **Audio-aansluiting** - hier kun je een koptelefoon of luidsprekers aansluiten.
 
