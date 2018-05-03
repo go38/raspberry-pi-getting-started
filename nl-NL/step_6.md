@@ -24,7 +24,7 @@ Het bestand is opgeslagen op de SD-kaart van de Raspberry Pi.
 
 + Sluit de teksteditor door te klikken op **X** in de rechterbovenhoek van het venster.
 
-+ Keer terug naar het Raspberry-menu, kies **Shutdown** en **Reboot**.
++ Keer terug naar het Raspberry-menu, kies **Shutdown** en vervolgens **Reboot**.
 
 + Wanneer de Pi opnieuw is opgestart, moet het bestand er nog steeds zijn.
 
