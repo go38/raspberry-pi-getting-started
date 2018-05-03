@@ -1,4 +1,4 @@
-## Verbind je Raspberry Pi
+## Sluit je Raspberry Pi aan
 
 Laten we de Raspberry Pi aansluiten om hem wat te laten doen.
 
@@ -28,7 +28,7 @@ Je ziet nog niks.
 
 + Sluit, als je die hebt, een koptelefoon of luidsprekers aan op de audio-aansluiting.
 
-+ Als het nodig is kun je een ethernetkabel aansluiten op de ethernetpoort van de Raspberry Pi en de ethernetaansluiting aan de muur of op je router. (Dat is niet nodig als je een draadloos LAN gebruikt of als je geen verbinding met internet wilt hebben.)
++ Als het nodig is kun je een ethernetkabel aansluiten tussen de ethernetpoort van de Raspberry Pi en de ethernetaansluiting aan de muur of op je router. (Dat is niet nodig als je een draadloos LAN gebruikt of als je geen verbinding met internet wilt hebben.)
 
 + De micro USB-voedingspoort heeft een langere platte kant aan de bovenkant.
 
