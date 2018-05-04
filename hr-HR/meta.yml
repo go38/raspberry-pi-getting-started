@@ -15,21 +15,21 @@ site_areas: projects
 hardware: raspberry-pi
 software: ''
 version: 3
-last_tested: 2017/01/01
+last_tested: 2017-01-01
 steps:
   - 
     title: Uvod
   - 
-    title: Ono što će vam trebati
+    title: Trebat ćeš
   - 
-    title: Upoznajte rasplodni Pi
+    title: Upoznajte Raspberry Pi
   - 
-    title: 'Izazov: objasnite Malu Malu'
+    title: 'Izazov: objasnite što je Raspberry Pi'
   - 
     title: Povežite svoj Raspberry Pi
   - 
-    title: Razgled Maline Malte
+    title: Kako izgleda Raspberry Pi?
   - 
-    title: Pregledavanje weba
+    title: Pregledavanje Interneta
   - 
-    title: 'Izazov: istražite maline Pi'
+    title: 'Izazov: istražite Raspberry Pi'
