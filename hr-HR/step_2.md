@@ -1,18 +1,18 @@
-## Ono što će vam trebati
+## Trebat ćeš
 
 ### Hardver
 
-+ Raspberry Pi računalo s SD karticom
++ Raspberry Pi računalo sa SD karticom
 
 + Monitor sa kabelom (i, ako je potrebno, HDMI adapterom)
 
-+ USB tipkovnica i miš
++ USB tipkovnicu i miša
 
 + Napajanje
 
-+ Slušalice ili zvučnici (opcija)
++ Slušalice ili zvučnike (opcionalno)
 
-+ Ethernet kabel (opcija)
++ Ethernet kabel (opcionalno)
 
 ### Softver
 
