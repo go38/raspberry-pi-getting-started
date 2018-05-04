@@ -6,15 +6,15 @@ Bacimo oko na Raspberry Pi. Za to bi trebao imati Raspberry Pi računalo pred so
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB portovi** - oni se koriste za spajanje miša i tipkovnice. Također možete spojiti i druge komponente, poput USB pogona.
++ **USB priključci** - koriste se za spajanje miša i tipkovnice. Također možeš spojiti i druge komponente, poput USB pogona.
 
-+ **utor za SD karticu** - ovdje možete umetnuti SD karticu. Tu se pohranjuju softver operativnog sustava i datoteke.
++ **utor za SD karticu** - ovdje možeš umetnuti SD karticu. Tu se pohranjuju softver operativnog sustava i datoteke.
 
-+ **Ethernet port** - ovo se koristi za povezivanje maline Pi s mrežom pomoću kabela. Raspberry Pi također se može povezati s mrežom putem bežičnog LAN-a.
++ **Ethernet priključak** - koristi se za spajanje Raspberry Pi računala na mrežu pomoću kabela. Raspberry Pi se također može povezati s mrežom putem bežičnog LAN-a.
 
-+ **Audio jack** - Ovdje možete spojiti slušalice ili zvučnike.
++ **Audio priključak** - ovdje možeš spojiti slušalice ili zvučnike.
 
-+ **HDMI priključak** - ovdje povezujete monitor (ili projektor) koji koristite za prikaz izlaza iz Raspberry Pi. Ako vaš monitor ima zvučnike, možete ih koristiti i za čuti zvuk.
++ **HDMI priključak** - ovdje povezuješ monitor (ili projektor) koji koristiš za prikaz izlaznih podataka iz Raspberry Pi računala. Ako tvoj monitor ima zvučnike, možeš ih koristiti i za slušanje zvuka.
 
 + **Mikro USB konektor za napajanje** - ovdje možete spojiti napajanje. Uvijek biste trebali to učiniti posljednje, nakon što spojite sve svoje druge komponente.
 
