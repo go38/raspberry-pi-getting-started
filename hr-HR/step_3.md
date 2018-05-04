@@ -1,10 +1,10 @@
-## Upoznajte rasplodni Pi
+## Upoznaj Raspberry Pi
 
-Pogledajmo Malu Malu. Za to biste trebali imati računalicu Raspberry Pi. Ne bi smjelo biti povezano s ničim.
+Bacimo oko na Raspberry Pi. Za to bi trebao imati Raspberry Pi računalo pred sobom. Ne smije još biti povezano s ničim.
 
-+ Pogledajte svoj Malen Malen. Možete li pronaći sve stvari označene na dijagramu?
++ Pogledaj svoj Raspberry Pi. Možeš li pronaći sve stvari označene na dijagramu?
 
-![zaslona](images/pi-labelled-names.png)
+![screenshot](images/pi-labelled-names.png)
 
 + **USB portovi** - oni se koriste za spajanje miša i tipkovnice. Također možete spojiti i druge komponente, poput USB pogona.
 
