@@ -16,6 +16,6 @@ Bacimo oko na Raspberry Pi. Za to bi trebao imati Raspberry Pi računalo pred so
 
 + **HDMI priključak** - ovdje povezuješ monitor (ili projektor) koji koristiš za prikaz izlaznih podataka iz Raspberry Pi računala. Ako tvoj monitor ima zvučnike, možeš ih koristiti i za slušanje zvuka.
 
-+ **Mikro USB konektor za napajanje** - ovdje možete spojiti napajanje. Uvijek biste trebali to učiniti posljednje, nakon što spojite sve svoje druge komponente.
++ **Mikro USB priključak za napajanje** - ovdje spajaš napajanje. Uvijek bi trebao to učiniti posljednje, nakon što spojiš sve druge komponente.
 
-+ **GPIO priključci** - ti omogućuju povezivanje elektroničkih komponenti poput LED-a i gumba na Raspberry Pi.
++ **GPIO priključci** - omogućuju ti povezivanje elektroničkih komponenti, poput LED-a i gumba, na Raspberry Pi.
