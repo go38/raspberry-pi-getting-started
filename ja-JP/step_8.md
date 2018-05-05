@@ -8,6 +8,6 @@
 
 + 遊べるPythonのゲーム？
 
-+ プログラムできるMinecraftのバージョン？
++ プログラミング可能のMinecraftのバージョン？
 
 \--- /challenge \---
