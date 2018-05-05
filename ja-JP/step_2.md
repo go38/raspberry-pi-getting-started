@@ -16,6 +16,6 @@
 
 ### ソフトウェア
 
-+ Raspbian、NOOBS経由でインストール
++ Raspbian、NOOBSインストール
 
 [[[noobs-install]]]
