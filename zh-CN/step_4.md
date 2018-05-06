@@ -1,4 +1,4 @@
-\---挑战\---
+\---challenge \---
 
 ## 挑战：解释树莓派
 
@@ -6,4 +6,4 @@
 
 ![截图](images/pi-labelled-names.png)
 
-\--- /挑战\---
+\--- /challenge \---
