@@ -18,4 +18,4 @@ Raspberry Pi是一台可以做很多事情的小型计算机。 你将其与显�
 
 如果您需要打印此项目，请使用 [打印机友好版本](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){：target =“_ blank”}。
 
-使用页脚中的链接访问此项目的GitHub存储库，其中包含'en / resources'文件夹中的所有资源（包括示例完成的项目）。
+使用页脚中的链接访问此项目的GitHub资源库，在'en / resources'文件夹中包含了所有资源（包括示例完成的项目）。
