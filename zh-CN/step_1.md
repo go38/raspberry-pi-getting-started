@@ -4,7 +4,7 @@
 
 ### 你会做什么
 
-Raspberry Pi是一台可以做很多事情的小型计算机。 您将其插入显示器并连接键盘和鼠标。
+Raspberry Pi是一台可以做很多事情的小型计算机。 你将其与显示器连接并连接键盘和鼠标。
 
 ![截图](images/pi-plug-in.gif)
 
@@ -12,7 +12,7 @@ Raspberry Pi是一台可以做很多事情的小型计算机。 您将其插入�
 
 该项目涵盖 [树莓派数字化课程](http://rpf.io/curriculum){：target =“_ blank”}的以下部分：
 
-+ [使用基本的数字，模拟和机电组件](https://curriculum.raspberrypi.org/physical-computing/creator/){：target =“_ blank”}
++ [使用基本的数字，模拟和机电元器件](https://curriculum.raspberrypi.org/physical-computing/creator/){:target =“_ blank”}
 
 ### 有关教育者的其他信息
 
