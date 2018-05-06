@@ -1,4 +1,4 @@
-\---challenge \---
+\--- challenge \---
 
 ## 挑战：解释树莓派
 
