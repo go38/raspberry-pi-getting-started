@@ -1,17 +1,17 @@
 ---
-hero_image: εικόνες / get-started-with-raspberry-pi.png
+hero_image: images/getting-started-with-raspberry-pi.png
 theme: το κόκκινο
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, σχεδιασμός-0, προγραμματισμός-0, phys-comp-1, κατασκευή-0, κοινότητα-0
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
 title: Ξεκινώντας με το Raspberry Pi
-description: Ρυθμίστε το Raspberry Pi και εξερευνήστε τι μπορεί να κάνει
+description: Ρύθμισε το Raspberry Pi και εξερεύνησε τι μπορεί να κάνει
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
 technologies: raspberry-pi
-site_areas: έργα
+site_areas: projects
 hardware: raspberry-pi
 software: ''
 version: 3
@@ -20,16 +20,16 @@ steps:
   - 
     title: Εισαγωγή
   - 
-    title: Τι θα χρειαστείτε
+    title: Τι θα χρειαστείς
   - 
-    title: Γνωρίστε το Raspberry Pi
+    title: Γνώρισε το Raspberry Pi
   - 
-    title: 'Πρόκληση: εξηγήστε το Raspberry Pi'
+    title: 'Πρόκληση: εξήγησε το Raspberry Pi'
   - 
-    title: Συνδέστε το Raspberry Pi
+    title: Σύνδεσε το δικό σου Raspberry Pi
   - 
-    title: Μια περιήγηση στο Raspberry Pi
+    title: Μία περιήγηση στο Raspberry Pi
   - 
     title: Περιήγηση στον ιστό
   - 
-    title: 'Πρόκληση: εξερευνήστε το Raspberry Pi'
+    title: 'Πρόκληση: εξερεύνησε το Raspberry Pi'
