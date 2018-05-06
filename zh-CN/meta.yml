@@ -20,11 +20,11 @@ steps:
   - 
     title: 介绍
   - 
-    title: 你将需要这些
+    title: 你将需要什么
   - 
     title: 认识树莓派
   - 
-    title: 挑战：解释树莓派
+    title: '挑战：解释树莓派'
   - 
     title: 连接你的树莓派
   - 
@@ -32,4 +32,4 @@ steps:
   - 
     title: 浏览网页
   - 
-    title: 挑战：探索树莓派
+    title: '挑战：探索树莓派'
