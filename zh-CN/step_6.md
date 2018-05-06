@@ -8,7 +8,7 @@
 
 ![截图](images/pi-accessories.png)
 
-+ 类型 `我刚刚在出现的窗口中构建了Raspberry Pi`。
++ 在弹出的窗口中键入 `我刚组装了一个Raspberry Pi`。
 
 ![截图](images/pi-text-editor.png)
 
@@ -16,7 +16,7 @@
 
 ![截图](images/pi-save.png)
 
-+ 您应该看到名为 `的图标rp.txt` 出现在桌面上。
++ 您应该看到名为 `rp.txt` 的图标出现在桌面上。
 
 ![截图](images/pi-saved.png)
 
@@ -26,18 +26,18 @@
 
 + 返回到树莓菜单，选择 **关机**，然后选择 **重启**。
 
-+ 当Pi重新启动时，你的文件应该仍然在那里。
++ 当Pi重新启动后，你的文件应该仍然在那里。
 
-+ Raspberry Pi运行称为Linux的操作系统版本（Windows和MacOS是其他操作系统）。 它允许你通过输入命令而不是点击菜单选项来实现。 点击屏幕顶部的 **终端**：
++ Raspberry Pi运行一种称为Linux的操作系统（Windows和MacOS是其他操作系统）。 它允许你通过输入命令而不是点击菜单选项来实现。 点击屏幕顶部的 **终端**：
 
 ![截图](images/pi-command-prompt.png)
 
 + 在出现的窗口中，输入：
 
-    LS
+    ls
     
 
-然后按 <kbd>在键盘上输入</kbd>。
+然后按下键盘的 <kbd>Enter</kbd>键。
 
 这将列出 `主目录` 目录中的文件。
 
