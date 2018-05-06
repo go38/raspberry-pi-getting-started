@@ -10,12 +10,12 @@
 
 ### Τι θα μάθεις
 
-Αυτό το πρόγραμμα καλύπτει στοιχεία από τις ακόλουθες πτυχές του Curriculum [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
+Αυτό το πρόγραμμα καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_ blank"}:
 
-+ [Χρήση βασικών ψηφιακών, αναλογικών και ηλεκτρομηχανικών εξαρτημάτων](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [Χρησιμοποίησε βασικά ψηφιακά, αναλογικά και ηλεκτρομηχανικά εξαρτήματα](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_ blank"}
 
 ### Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-Εάν πρέπει να εκτυπώσετε αυτό το έργο, χρησιμοποιήστε τη [εκδοχή](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"} για εκτύπωση.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Χρησιμοποιήστε τη σύνδεση στο υποσέλιδο για να αποκτήσετε πρόσβαση στο χώρο αποθήκευσης GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που ολοκληρώθηκε στο παράδειγμα) στο φάκελο 'en / resources'.
+Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'en/resources'.
