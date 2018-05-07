@@ -7,7 +7,7 @@ ingredient: false
 copyedit: true
 curriculum: 1、design-0、programming-0、phys-comp-1、製造-0、コミュニティ-0
 title: ラズベリーパイを始める
-description: あなたのラズベリーパイをセットアップし、それができることを探索する
+description: ラズベリーパイをセットアップし、できることを探索する
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
 technologies: ラズベリーパイ
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 前書き
+    title: はじめに
   - 
-    title: あなたが必要とするもの
+    title: 必要なもの
   - 
-    title: ラズベリーパイを見なさい
+    title: ラズベリーパイの紹介
   - 
-    title: 課題：ラズベリーパイを説明する
+    title: 'チャレンジ：ラズベリーパイを説明する'
   - 
-    title: あなたのラズベリーパイを接続
+    title: ラズベリーパイを接続する
   - 
     title: ラズベリーパイのツアー
   - 
     title: ウェブの閲覧
   - 
-    title: 課題：ラズベリーパイを探索する
+    title: 'チャレンジ：ラズベリーパイを探索する'
