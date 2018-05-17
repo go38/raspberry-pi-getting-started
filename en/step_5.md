@@ -1,43 +1,65 @@
-## Connect your Raspberry Pi
+## A tour of the Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Now it's time to take a tour of the Raspberry Pi.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-	![screenshot](images/pi-sd.png)
++ Click **Accessories** and choose **Text Editor**.
 
-[[[noobs-install]]]
+![screenshot](images/pi-accessories.png)  
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-	![screenshot](images/pi-mouse.png)
+![screenshot](images/pi-text-editor.png)  
 
-+ Connect the keyboard in the same way.
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-	![screenshot](images/pi-keyboard.png)
+![screenshot](images/pi-save.png)  
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ You should see an icon named `rp.txt` appear on the desktop.
 
-	![screenshot](images/pi-hdmi.png)
+![screenshot](images/pi-saved.png)  
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-Nothing will display yet.  
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ When the Pi has rebooted, your file should still be there.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-+ Notice that the micro USB power port has a longer flat side on top.
+![screenshot](images/pi-command-prompt.png)  
 
-Plug the power supply into a socket and connect it to the micro USB power port.
++ In the window that appears, type:
 
-![screenshot](images/pi-power.png)
+```
+ls
+```
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+and then press <kbd>Enter</kbd> on the keyboard.
 
-The Pi will boot up into a graphical desktop.
+This will list the files in your `home` directory.
 
-![screenshot](images/pi-desktop.png)
++ Now type this command to **c**hange **d**irectory to the Desktop:
+
+```
+cd Desktop
+```
+
+You have to press the <kbd>Enter</kbd> key after every command.
+
+Type:
+
+```
+ls
+```
+
+Can you see the file you created?
+
++ Close the terminal window by clicking on the **X**.
+
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.  
+
+	![screenshot](images/pi-waste.png)
