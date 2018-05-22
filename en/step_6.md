@@ -16,7 +16,7 @@ To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
 
 + Select your country from the list and click **OK**.
 
-Once you Wi-Fi country is set you can connect to a wireless network.
+Once the Wi-Fi country is set you can connect to a wireless network.
 
 + Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
