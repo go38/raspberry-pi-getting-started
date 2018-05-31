@@ -28,7 +28,7 @@ Your file has been saved to the Raspberry Pi's SD card.
 
 + When the Pi has rebooted, your file should still be there.
 
-+ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to do happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
 ![screenshot](images/pi-command-prompt.png)  
 
