@@ -1,35 +1,65 @@
-## Browsing the web
+## A tour of the Raspberry Pi
 
-You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable, then you will need to connect to a wireless network.
+Now it's time to take a tour of the Raspberry Pi.
 
-To enable Wi-Fi on your Raspberry Pi you will need to set a Wi-Fi country.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-![set wifi country](images/pi-set-wifi-country.png)
++ Click **Accessories** and choose **Text Editor**.
 
-+ Select **Preferences**, **Raspberry Pi Configuration** from the menu.
+![screenshot](images/pi-accessories.png)  
 
-+ Click the **Localisation** tab.
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-+ Click **Set WiFi Country** button.
+![screenshot](images/pi-text-editor.png)  
 
-![select wifi country](images/pi-select-wifi-country.png)
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-+ Select your country from the list and click **OK**.
+![screenshot](images/pi-save.png)  
 
-Once the Wi-Fi country is set you can connect to a wireless network.
++ You should see an icon named `rp.txt` appear on the desktop.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
+![screenshot](images/pi-saved.png)  
 
-![No wifi](images/no-wifi.png)
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-![Type in password](images/type-password.png)
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
++ When the Pi has rebooted, your file should still be there.
 
-![screenshot](images/pi-wifi.png)
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-+ Click the web browser icon and search for `raspberry pi`.
+![screenshot](images/pi-command-prompt.png)  
 
-![screenshot](images/pi-browser.png)
++ In the window that appears, type:
+
+```
+ls
+```
+
+and then press <kbd>Enter</kbd> on the keyboard.
+
+This will list the files in your `home` directory.
+
++ Now type this command to **c**hange **d**irectory to the Desktop:
+
+```
+cd Desktop
+```
+
+You have to press the <kbd>Enter</kbd> key after every command.
+
+Type:
+
+```
+ls
+```
+
+Can you see the file you created?
+
++ Close the terminal window by clicking on the **X**.
+
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.  
+
+	![screenshot](images/pi-waste.png)
