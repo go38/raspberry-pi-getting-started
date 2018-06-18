@@ -2,9 +2,13 @@
 
 Let's connect up your Raspberry Pi and get it running.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). 
 
 	![screenshot](images/pi-sd.png)
+
+**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+
+![sd card holder](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
