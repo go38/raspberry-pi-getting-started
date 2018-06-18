@@ -26,9 +26,13 @@ Make sure your monitor is plugged into a wall socket and turned on.
 
 Nothing will display yet.  
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
+![ethernet](images/pi-ethernet.png)
+
++ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
+
+![headphones](images/pi-headphones.png)
 
 + Notice that the micro USB power port has a longer flat side on top.
 
