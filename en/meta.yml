@@ -13,7 +13,7 @@ technologies: raspberry-pi
 site_areas: projects
 hardware: raspberry-pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps: 
 - title: Introduction
