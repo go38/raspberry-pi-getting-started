@@ -2,9 +2,13 @@
 
 Let's connect up your Raspberry Pi and get it running.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom.
++ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). 
 
 	![screenshot](images/pi-sd.png)
+
+**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+
+![sd card holder](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
@@ -26,9 +30,13 @@ Make sure your monitor is plugged into a wall socket and turned on.
 
 Nothing will display yet.  
 
-+ Connect headphones or speakers to the audio jack if you have some.
++ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
 
-+ If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
+![ethernet](images/pi-ethernet.png)
+
++ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
+
+![headphones](images/pi-headphones.png)
 
 + Notice that the micro USB power port has a longer flat side on top.
 
