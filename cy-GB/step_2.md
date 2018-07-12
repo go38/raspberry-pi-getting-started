@@ -1,16 +1,16 @@
-## Beth fydd ei angen arnoch chi
+## Beth fydd ei angen arnat ti
 
-### Hardware
+### Caledwedd
 
-+ Cyfrifiadur Pi Mws gyda cherdyn SD
++ Cyfrifiadur Raspberry Pi gyda cherdyn SD
 
-+ Monitro gyda chebl (ac, os oes angen, addasydd HDMI)
++ Monitor gyda chebl (ac, os oes angen, addasydd HDMI)
 
-+ Allweddell a llygoden USB
++ Bysellfwrdd a llygoden USB
 
 + Cyflenwad pŵer
 
-+ Clustffonau neu siaradwyr (dewisol)
++ Clustffonau neu seinyddion (dewisol)
 
 + Cebl ethernet (dewisol)
 
