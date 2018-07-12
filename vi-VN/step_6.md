@@ -1,18 +1,18 @@
-## Một tour du lịch của Raspberry Pi
+## Một vòng khám phá Raspberry Pi
 
-Bây giờ là lúc để tham quan Pi Raspberry.
+Bây giờ là lúc để khám phá Pi Raspberry.
 
-+ Thấy Raspberry ở góc trên bên trái? Đó là nơi bạn truy cập vào menu: nhấp vào nó và bạn sẽ tìm thấy rất nhiều ứng dụng.
++ Thấy biểu tượng Quả mân xôi (Raspberry) ở góc trên bên trái chứ? Đó là nơi bạn truy cập vào menu: nhấp vào nó và bạn sẽ tìm thấy rất nhiều ứng dụng.
 
-+ Nhấp vào **Phụ kiện** và chọn **Trình chỉnh sửa văn bản**.
++ Nhấp vào **Accessories** và chọn **Text Editor**.
 
 ![ảnh chụp màn hình](images/pi-accessories.png)
 
-+ Nhập `Tôi vừa tạo một Raspberry Pi` trong cửa sổ xuất hiện.
++ Nhập `I just built a Raspberry Pi` trong cửa sổ xuất hiện.
 
 ![ảnh chụp màn hình](images/pi-text-editor.png)
 
-+ Nhấp vào **Tệp**, sau đó chọn **Lưu**, rồi nhấp vào **Máy tính để bàn** và lưu tệp dưới dạng `rp.txt`.
++ Nhấp vào **File**, sau đó chọn **Save**, rồi nhấp vào **Desktop** và lưu tệp dưới tên `rp.txt`.
 
 ![ảnh chụp màn hình](images/pi-save.png)
 
