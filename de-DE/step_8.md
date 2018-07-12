@@ -1,13 +1,13 @@
-\--- Herausforderung \---
+\--- challenge \---
 
-## Herausforderung: Erkunden Sie den Raspberry Pi
+## Herausforderung: Erkunde den Raspberry Pi
 
-Machen Sie eine Tour durch die Speisekarte - finden Sie:
+Unternimm eine Tour durch das Menü - findest Du:
 
 + Eine Version von Scratch?
 
-+ Ein Python-Spiel zum Spielen?
++ Ein Python-Spiel?
 
-+ Eine Version von Minecraft, die du programmieren kannst?
++ Eine Version von Minecraft, die Du programmieren kannst?
 
-\--- /Herausforderung \---
+\--- /challenge \---
