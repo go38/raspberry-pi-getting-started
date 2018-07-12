@@ -1,21 +1,21 @@
-## Rencontrez le Raspberry Pi
+## Rencontre le Raspberry Pi
 
-Jetons un coup d'oeil au Raspberry Pi. Vous devriez avoir un ordinateur Raspberry Pi en face de vous pour cela. Il ne devrait pas être connecté à quoi que ce soit pour le moment.
+Regardons le Raspberry Pi. Pour ceci, tu dois avoir un ordinateur Raspberry Pi en face de toi. Il ne devrait pas encore être connecté à rien.
 
-+ Regardez votre Raspberry Pi. Pouvez-vous trouver toutes les choses étiquetées sur le diagramme?
++ Regarde ton Raspberry Pi. Peux-tu trouver toutes les choses étiquetées sur le diagramme?
 
-![capture d'écran](images/pi-labelled-names.png)
+![screenshot](images/pi-labelled-names.png)
 
-+ **Ports USB** - ceux-ci sont utilisés pour connecter une souris et un clavier. Vous pouvez également connecter d'autres composants, tels qu'une clé USB.
++ **Ports USB** - ceux-ci sont utilisés pour connecter une souris et un clavier. Tu peux également connecter d'autres composants, tels qu'une clé USB.
 
-+ **Emplacement pour carte SD** - vous pouvez insérer la carte SD ici. C'est ici que le logiciel du système d'exploitation et vos fichiers sont stockés.
++ **Emplacement pour carte SD** - tu peux insérer la carte SD ici. C'est ici où le software du système d'exploitation et tes fichiers sont stockés.
 
-+ **Port Ethernet** - Utilisé pour connecter le Raspberry Pi à un réseau avec un câble. Le Raspberry Pi peut également se connecter à un réseau via un réseau local sans fil.
++ **Port Ethernet** - Ceci s'utilise pour connecter le Raspberry Pi à un réseau avec un câble. Le Raspberry Pi peut également se connecter à un réseau via un réseau local sans fil.
 
-+ **Prise audio** - vous pouvez connecter un casque ou des haut-parleurs ici.
++ **Prise audio** - tu peux connecter un casque ou des haut-parleurs ici.
 
-+ **Port HDMI** - C'est ici que vous connectez le moniteur (ou le projecteur) que vous utilisez pour afficher la sortie du Raspberry Pi. Si votre moniteur est équipé de haut-parleurs, vous pouvez également les utiliser pour entendre le son.
++ **Port HDMI** - C'est ici où tu connectes le moniteur (ou le projecteur) que tu utiliseras pour afficher la sortie du Raspberry Pi. Si ton moniteur est équipé de haut-parleurs, tu peux les utiliser également pour entendre le son.
 
-+ **Connecteur d'alimentation Micro USB** - C'est là que vous connectez une alimentation. Vous devriez toujours faire ceci en dernier, après avoir connecté tous vos autres composants.
++ **Connecteur d'alimentation Micro USB** - C'est là où tu connectes une alimentation électronique. Tu dois toujours faire ceci en dernier, après avoir connecté tous tes autres composants.
 
-+ **ports GPIO** - ceux-ci vous permettent de connecter des composants électroniques tels que les voyants et les boutons au Raspberry Pi.
++ **ports GPIO** - ceux-ci te permettent de connecter des composants électroniques tels que les voyants et les boutons au Raspberry Pi.
