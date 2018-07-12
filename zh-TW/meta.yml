@@ -14,7 +14,7 @@ technologies: 樹莓丕
 site_areas: 項目
 hardware: 樹莓丕
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017年1月1日
 steps:
   - 
@@ -24,12 +24,12 @@ steps:
   - 
     title: 認識樹莓派
   - 
-    title: 挑戰：解釋樹莓派
+    title: Connect your Raspberry Pi
   - 
-    title: 連接你的樹莓派
+    title: Finish the setup
   - 
     title: 參觀樹莓派
   - 
     title: 瀏覽網頁
   - 
-    title: 挑戰：探索樹莓派
+    title: '挑戰：探索樹莓派'
