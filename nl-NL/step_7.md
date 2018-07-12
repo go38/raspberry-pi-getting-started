@@ -1,26 +1,34 @@
 ## Surfen op het web
 
-Misschien wil je de Raspberry Pi verbinden met internet. Als je geen ethernetkabel hebt aangesloten, moet je verbinding maken met een draadloos netwerk.
+Misschien wil je de Raspberry Pi verbinden met internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Om Wi-Fi op de Raspberry Pi in te schakelen, moet je een Wi-Fi land instellen.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
+
+![No wifi](images/no-wifi.png)
+
+\--- collapse \---
+
+* * *
+
+## title: Set Wi-Fi Country
+
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
 ![set wifi country](images/pi-set-wifi-country.png)
 
-+ Selecteer **Preferences** en **Raspberry Pi Configuration** in het menu.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Klik op het tabblad **Localisation**.
++ Go to the **Localisation** tab.
 
-+ Klik op de knop **Set WiFi Country** instellen.
++ Click the **Set WiFi Country** button.
 
 ![select wifi country](images/pi-select-wifi-country.png)
 
-+ Selecteer je land in de lijst en klik **OK**.
++ Select your country from the list and click **OK**.
 
-Zodra Wi-Fi-land is ingesteld, kun je verbinding maken met een draadloos netwerk.
+Once you Wi-Fi country is set, you can connect to a wireless network.
 
-+ Klik op het pictogram met rode kruisen in de rechterbovenhoek van het scherm en selecteer je netwerk in het vervolgkeuzemenu. Mogelijk moet je een volwassene vragen welk netwerk je moet kiezen.
-
-![No wifi](images/no-wifi.png)
+\--- /collapse \---
 
 + Typ het wachtwoord voor het draadloze netwerk of vraag een volwassene om het voor je te typen en klik vervolgens op **OK**.
 
