@@ -1,35 +1,43 @@
-## Yn pori'r we
+## Pori'r We
 
-Efallai y byddwch am gysylltu eich Mws Mws i'r rhyngrwyd. Os na wnaethoch chi ychwanegu at cebl ethernet, yna bydd angen i chi gysylltu â rhwydwaith diwifr.
+Efallai byddi di am gysylltu dy Raspberry Pi â'r rhyngrwyd. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Er mwyn galluogi Wi-Fi ar eich Mws Mws, bydd angen i chi osod gwlad Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![gosod gwlad wifi](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ Dewiswch **Preferences**, **Raspberry Pi Configuration** o'r ddewislen.
+\--- collapse \---
 
-+ Cliciwch y tab **Lleoli**.
+* * *
 
-+ Cliciwch **Gosodwch WiFi Gwlad** botwm.
+## title: Set Wi-Fi Country
 
-![dewis gwlad wifi](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ Dewiswch eich gwlad o'r rhestr a chliciwch **OK**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-Unwaith y byddwch chi wedi gosod gwlad Wi-Fi gallwch gysylltu â rhwydwaith di-wifr.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Cliciwch yr eicon gyda chroesau coch yng nghornel uchaf y sgrin, a dewiswch eich rhwydwaith o'r ddewislen. Efallai y bydd angen i chi ofyn i oedolyn pa rwydwaith y dylech ei ddewis.
++ Go to the **Localisation** tab.
 
-![Dim wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
 
-+ Teipiwch y cyfrinair ar gyfer eich rhwydwaith di-wifr, neu ofyn i oedolyn ei deipio ar eich cyfer, yna cliciwch **OK**.
+![select wifi country](images/pi-select-wifi-country.png)
 
-![Teipiwch gyfrinair](images/type-password.png)
++ Select your country from the list and click **OK**.
 
-+ Pan fydd eich Pi wedi'i gysylltu â'r rhyngrwyd, fe welwch symbol LAN di-wifr yn lle'r croesau coch.
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
+
++ Teipia'r cyfrinair ar gyfer dy rwydwaith di-wifr, neu ofyn i oedolyn ei deipio drosot ti, yna clicia **OK**.
+
+![Type in password](images/type-password.png)
+
++ Pan fydd dy Pi wedi'i gysylltu â'r rhyngrwyd, fe weli di symbol RAL (LAN) di-wifr yn lle'r croesau coch.
 
 ![screenshot](images/pi-wifi.png)
 
-+ Cliciwch ar yr eicon porwr gwe a chwilio am `mafon pi`.
++ Clicia ar yr eicon porwr gwe a chwilio am `raspberry pi`.
 
 ![screenshot](images/pi-browser.png)
