@@ -1,20 +1,20 @@
 ---
-hero_image: images / getting-started-with-raspberry-pi.png
-theme: 赤
+hero_image: images/getting-started-with-raspberry-pi.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1、design-0、programming-0、phys-comp-1、製造-0、コミュニティ-0
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
 title: ラズベリーパイを始める
 description: ラズベリーパイをセットアップし、できることを探索する
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: ラズベリーパイ
-site_areas: プロジェクト
-hardware: ラズベリーパイ
+technologies: raspberry-pi
+site_areas: projects
+hardware: raspberry-pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: ラズベリーパイの紹介
   - 
-    title: 'チャレンジ：ラズベリーパイを説明する'
+    title: Connect your Raspberry Pi
   - 
-    title: ラズベリーパイを接続する
+    title: Finish the setup
   - 
     title: ラズベリーパイのツアー
   - 
