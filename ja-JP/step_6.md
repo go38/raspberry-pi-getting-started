@@ -26,9 +26,9 @@
 
 + ラズベリーのメニューに戻り、**Shutdown** を選択し、**Reboot** を選択します。
 
-+ パイの再起動後、ファイルはまだあります。
++ パイの再起動した後も、ファイルはまだあります。
 
-+ ラズベリーパイはLinuxと呼ばれるオペレーティングシステムのバージョンを実行します（WindowsとmacOSは別の種類のオペレーティングシステムです）。 メニューでオプションをクリックする代わりに、コマンドを入力して作業を行うことが可能です。 画面上部の **Terminal** をクリックしてください。
++ ラズベリーパイはLinuxと呼ばれるオペレーティングシステムのバージョンを実行します（WindowsとmacOSは別の種類のオペレーティングシステムです）。 It allows you to make things happen by typing commands instead of clicking on menu options. 画面上部の **Terminal** をクリックしてください。
 
 ![スクリーンショット](images/pi-command-prompt.png)
 
@@ -75,7 +75,7 @@
   </li>
   <li>
     <p>
-      <code>rp.txt</code> をデスクトップのゴミ箱にドラッグすると、パイは次の人のために準備が整います。
+      <code>rp.txt</code> をデスクトップのゴミ箱にドラッグして、次の人が使うための準備が整います。
     </p>
     <p>
       <img src="images/pi-waste.png" alt="スクリーンショット" />
