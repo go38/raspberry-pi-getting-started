@@ -1,35 +1,43 @@
 ## Menjelajahi web
 
-Anda mungkin ingin menghubungkan Raspberry Pi Anda ke internet. Jika Anda tidak mencolokkan kabel ethernet, maka Anda harus terhubung ke jaringan nirkabel.
+Anda mungkin ingin menghubungkan Raspberry Pi Anda ke internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Untuk mengaktifkan Wi-Fi di Raspberry Pi Anda, Anda harus menetapkan negara Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![mengatur negara wifi](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ Pilih **Preferensi**, **Raspberry Pi Configuration** dari menu.
+\--- collapse \---
 
-+ Klik **pelokalan** tab.
+* * *
 
-+ Klik **Setel tombol WiFi Country**.
+## title: Set Wi-Fi Country
 
-![pilih negara wifi](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ Pilih negara Anda dari daftar dan klik **OK**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-Setelah Anda menetapkan negara Wi-Fi Anda dapat terhubung ke jaringan nirkabel.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Klik ikon dengan tanda silang merah di sudut kanan atas layar, dan pilih jaringan Anda dari menu drop-down. Anda mungkin perlu meminta jaringan orang dewasa yang harus Anda pilih.
++ Go to the **Localisation** tab.
 
-![Tidak ada wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + Ketik kata sandi untuk jaringan nirkabel Anda, atau minta orang dewasa untuk mengetikkannya untuk Anda, lalu klik **OK**.
 
-![Ketikkan kata sandi](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + Ketika Pi Anda terhubung ke internet, Anda akan melihat simbol LAN nirkabel bukan salib merah.
 
-![tangkapan layar](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + Klik ikon browser web dan cari `raspberry pi`.
 
-![tangkapan layar](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
