@@ -1,43 +1,31 @@
-## 連接你的樹莓派
+## Finish the setup
 
-讓我們連接你的Raspberry Pi並讓它運行。
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ 檢查您的Raspberry Pi是否已在底部的插槽中安裝了SD卡，如果沒有，請插入安裝了Raspbian的SD卡（通過NOOBS）。 很多SD卡都會插入一個較大的適配器內，您可以使用底部的唇部將卡滑出。
-    
-    ![截圖](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ 找到鼠標的USB連接器，並將鼠標連接到Raspberry Pi上的其中一個USB端口（無論哪一個都沒關係）。
-    
-    ![截圖](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ 以相同的方式連接鍵盤。
-    
-    ![截圖](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ 看看Raspberry Pi上的HDMI端口 - 注意它的頂部有一個大的平面。
-    
-    ![截圖](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-確保您的顯示器已插入牆上插座並打開。
+![pi wizard password](images/piwiz3.PNG)
 
-+ 將顯示器電纜連接到Pi的HDMI端口 - 必要時使用適配器。
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-什麼都不會顯示。
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ 如果您有耳機或揚聲器，請將其連接至音頻插孔。
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ 如果有，請使用以太網電纜將Raspberry Pi上的以太網端口連接到牆上或路由器上的以太網接口。 （如果您使用無線局域網，或者您不想連接到互聯網，則無需這樣做。）
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ 請注意，微型USB電源端口頂部有較長的平面。
+![pi wizard updating](images/piwiz6.PNG)
 
-將電源插入插座並將其連接到micro USB電源端口。
++ Click **Done** or **Reboot** to finish the setup.
 
-![截圖](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-你應該看到樹莓派上的紅燈和監視器上的覆盆子。
-
-Pi將啟動到圖形桌面。
-
-![截圖](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
