@@ -28,7 +28,7 @@ Tiedostosi on tallennettu Raspberry Pi SD-kortille.
 
 + Kun Pi on käynnistynyt uudelleen, tiedosto on vielä paikalla.
 
-+ Raspberry Pi käyttää Linux-käyttöjärjestelmän versiota (Windows ja MacOS ovat muita käyttöjärjestelmiä). Sen avulla voit sattua kirjoittamalla komentoja sen sijaan, että napsautat valikon vaihtoehtoja. Napsauta näytön yläosassa olevaa **Terminaalia**:
++ Raspberry Pi käyttää Linux-käyttöjärjestelmän versiota (Windows ja MacOS ovat muita käyttöjärjestelmiä). It allows you to make things happen by typing commands instead of clicking on menu options. Napsauta näytön yläosassa olevaa **Terminaalia**:
 
 ![kuvakaappaus](images/pi-command-prompt.png)
 
