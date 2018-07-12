@@ -1,21 +1,21 @@
 ## מבוא
 
-בפרויקט זה תוכלו לחבר את המחשב פי פטל ולברר מה הוא יכול לעשות.
+בפרויקט זה תוכלו לחבר את מחשב הראספברי פאי ולברר מה הוא יכול לעשות.
 
 ### מה תעשה
 
-Parspberry Pi הוא מחשב קטן שיכול לעשות הרבה דברים. אתה תקע אותו לפקח ולצרף מקלדת ועכבר.
+ראספברי פאי הוא מחשב קטן שיכול לעשות הרבה דברים. אתה יכול לחבר אותו למסך ולצרף אליו מקלדת ועכבר.
 
 ![צילום מסך](images/pi-plug-in.gif)
 
 ### מה תלמד
 
-פרויקט זה מכסה אלמנטים מן החוטים הבאים של [תוכנית הפלט הדיגיטלית של פיסבי](http://rpf.io/curriculum){: target = "_ blank"}:
+פרויקט זה מכסה אלמנטים מן הנושאים הבאים של [תוכנית הלימוד הדיגיטלית של ראספברי פאי](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [השתמש במרכיבים דיגיטליים, אנלוגיים ואלקטרו-מכאניים בסיסיים](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [השתמש ברכיבים דיגיטליים, אנלוגיים ואלקטרו-מכאניים בסיסיים](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### מידע נוסף עבור מחנכים
+### מידע נוסף עבור מדריכים
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print).
 
-השתמש בקישור בכותרת התחתונה כדי לגשת למאגר של GitHub לפרויקט זה, המכיל את כל המשאבים (כולל פרויקט גמור לדוגמה) בתיקייה 'en / resources'.
+השתמש בקישור בכותרת התחתונה כדי לגשת למאגר של GitHub לפרויקט זה, המכיל את כל החומר הנדרש (כולל פרויקט גמור לדוגמה) בתיקייה 'en / resources'.
