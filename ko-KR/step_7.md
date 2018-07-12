@@ -1,35 +1,43 @@
 ## 웹 브라우징
 
-라스베리 파이를 인터넷에 연결하고 싶을 수도 있습니다. 이더넷 케이블을 연결하지 않았다면 무선 네트워크에 연결해야합니다.
+라스베리 파이를 인터넷에 연결하고 싶을 수도 있습니다. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Raspberry Pi에서 Wi-Fi를 사용하려면 Wi-Fi 국가를 설정해야합니다.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![와이파이 국가 설정](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ 메뉴에서 **환경 설정**, **Raspberry Pi Configuration** 을 선택하십시오.
+\--- collapse \---
 
-+ **현지화** 탭을 클릭하십시오.
+* * *
 
-+ **WiFi 국가 설정** 버튼을 클릭하십시오.
+## title: Set Wi-Fi Country
 
-![와이파이 국가 선택](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ 목록에서 국가를 선택하고 **OK**을 클릭하십시오.
+![set wifi country](images/pi-set-wifi-country.png)
 
-Wi-Fi 국가가 설정되면 무선 네트워크에 연결할 수 있습니다.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ 화면의 오른쪽 상단 모서리에있는 빨간색 십자가 아이콘을 클릭하고 드롭 다운 메뉴에서 네트워크를 선택하십시오. 어떤 네트워크를 선택해야하는지 성인에게 물어볼 필요가 있습니다.
++ Go to the **Localisation** tab.
 
-![와이파이 없음](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + 무선 네트워크의 비밀번호를 입력하거나 성인에게 직접 입력하도록 요청한 다음 **OK**을 클릭하십시오.
 
-![암호 입력](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + Pi가 인터넷에 연결되면 빨간색 십자가 대신 무선 LAN 기호가 나타납니다.
 
-![스크린 샷](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + 웹 브라우저 아이콘을 클릭하고 `raspberry pi`을 검색하십시오.
 
-![스크린 샷](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
