@@ -2,7 +2,7 @@
 
 ## Sfida: esplora il Raspberry Pi
 
-Fai un tour del menu: puoi trovare:
+Fai un tour del menu - prova a trovare:
 
 + Una versione di Scratch?
 
