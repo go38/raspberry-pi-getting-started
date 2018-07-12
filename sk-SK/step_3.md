@@ -1,21 +1,21 @@
 ## Zoznámte sa s Raspberry Pi
 
-Poďme sa pozrieť na Raspberry Pi. Mali by ste mať pred sebou počítač malinského piva. Nemalo by sa k nemu nikdy pripojiť.
+Poďme sa pozrieť na Raspberry Pi. Počítač by ste mali mať pred sebou. Zatiaľ k nemu nič nepripájajte.
 
-+ Pozrite sa na vašu Raspberry Pi. Môžete nájsť všetky veci označené na diagrame?
++ Pozrite sa na vaše Raspberry Pi. Viete na ňom nájsť všetky časti označené na obrázku?
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB porty** - slúžia na pripojenie myši a klávesnice. Môžete tiež pripojiť iné komponenty, napríklad jednotku USB.
++ **USB porty** - slúžia na pripojenie myši a klávesnice. Môžete však pripojiť aj iné zariadenia, ako napríklad USB disk.
 
-+ **Slot na kartu SD** - tu môžete kartu SD zasunúť. Tu je uložený softvér operačného systému a súbory.
++ **Slot na SD kartu** - tu môžete zasunúť SD kartu. Na nej je uložený operačný systém, ako aj vaše súbory.
 
-+ **Ethernetový port** - slúži na pripojenie Raspberry Pi k sieti pomocou kábla. Spoločnosť Raspberry Pi sa tiež môže pripojiť k sieti prostredníctvom bezdrôtovej siete LAN.
++ **Ethernetový port** - slúži na pripojenie Raspberry Pi k sieti pomocou kábla. Raspberry Pi sa však dokáže pripojiť k sieti aj bezdrôtovo.
 
-+ **Audio konektor** - tu môžete pripojiť slúchadlá alebo reproduktory.
++ **Audio jack** - tu môžete pripojiť slúchadlá alebo reproduktory.
 
-+ **Port HDMI** - tu môžete pripojiť monitor (alebo projektor), ktorý používate na zobrazenie výstupu z Raspberry Pi. Ak má váš monitor reproduktory, môžete ich použiť aj na počúvanie zvuku.
++ **HDMI port** - tu môžete pripojiť monitor (alebo projektor), ktorý používate na zobrazenie výstupu z Raspberry Pi. Ak má váš monitor reproduktory, môžete ich použiť aj na počúvanie zvuku.
 
-+ **Napájací konektor Micro USB** - na tomto mieste pripájate napájací zdroj. Mali by ste to vždy robiť ako posledné, keď ste pripojili všetky ostatné komponenty.
++ **Napájací konektor micro USB** - tu pripojíte napájací zdroj. Mali by ste ho vždy pripájať ako posledný, keď ste pripojili všetky ostatné zariadenia.
 
-+ **GPIO porty** - umožňujú vám pripojiť elektronické súčiastky, ako sú LED diódy a tlačidlá, na Raspberry Pi.
++ **GPIO piny** - umožňujú vám k Raspberry Pi pripojiť elektronické súčiastky, ako sú LED diódy a tlačidlá.
