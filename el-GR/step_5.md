@@ -1,43 +1,31 @@
-## Σύνδεσε το δικό σου Raspberry Pi
+## Finish the setup
 
-Ας συνδέσουμε το Raspberry Pi σου και να το ξεκινήσουμε.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Έλεγξε αν το Raspberry Pi έχει ήδη μια κάρτα SD στην υποδοχή στην κάτω πλευρά και εάν όχι, τοποθέτησε μία κάρτα SD με εγκατεστημένο το Raspbian (μέσω NOOBS). Πολλές κάρτες SD είναι μέσα σε ένα μεγαλύτερο προσαρμογέα. Μπορείς να βγάλεις την κάρτα έξω από αυτό χρησιμοποιώντας το χείλος στο κάτω μέρος.
-    
-    ![screenshot](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Βρες το σύνδεσμο USB για το ποντίκι σου και σύνδεσέ το σε μια από τις θύρες USB του Raspberry Pi (δεν έχει σημασία ποια).
-    
-    ![screenshot](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Σύνδεσε το πληκτρολόγιο με τον ίδιο τρόπο.
-    
-    ![screenshot](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Κοίταξε τη θύρα HDMI στο Raspberry Pi - παρατήρησε ότι έχει μια μεγάλη επίπεδη πλευρά στην κορυφή.
-    
-    ![screenshot](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Βεβαιώσου ότι η οθόνη σου είναι συνδεδεμένη σε πρίζα ρεύματος και είναι ενεργοποιημένη.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Σύνδεσε το καλώδιο οθόνης στη θύρα HDMI του Pi - χρησιμοποίησε έναν προσαρμογέα, εάν είναι απαραίτητο.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Τίποτα δεν θα εμφανιστεί ακόμα.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Σύνδεσε τα ακουστικά ή τα ηχεία με την υποδοχή ήχου, εάν έχεις κάποια.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Χρησιμοποίησε, αν έχεις, ένα καλώδιο ethernet για να συνδέσεις τη θύρα Ethernet του Raspberry Pi σε μία πρίζα Ethernet στον τοίχο ή στον δρομολογητή σου (router). (Δεν χρειάζεται να το κάνεις αυτό εάν χρησιμοποιείς ασύρματο LAN ή εάν δεν θέλεις να συνδεθείς στο Internet.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Παρατήρησε ότι η θύρα τροφοδοσίας micro USB έχει μεγαλύτερη επίπεδη πλευρά στην κορυφή.
+![pi wizard updating](images/piwiz6.PNG)
 
-Σύνδεσε την παροχή ρεύματος σε μία πρίζα τοίχου και στη θύρα τροφοδοσίας micro USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![screenshot](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Θα πρέπει να δεις ένα κόκκινο φως στο Raspberry Pi και σμέουρα στην οθόνη.
-
-Το Pi θα εκκινήσει σε γραφική επιφάνεια εργασίας.
-
-![screenshot](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
