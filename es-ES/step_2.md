@@ -1,16 +1,16 @@
-## Que necesitarás
+## Lo que necesitarás
 
 ### Hardware
 
-+ Una computadora Raspberry Pi con una tarjeta SD
++ Una Raspberry Pi con una tarjeta SD
 
 + Un monitor con un cable (y, si es necesario, un adaptador HDMI)
 
-+ Un teclado y mouse USB
++ Un teclado y ratón USB
 
 + Una fuente de alimentación
 
-+ Auriculares o parlantes (opcional)
++ Auriculares o altavoces (opcional)
 
 + Un cable de ethernet (opcional)
 
