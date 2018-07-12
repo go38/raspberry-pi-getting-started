@@ -28,7 +28,7 @@ Vaša datoteka je shranjena na SD kartici Raspberry Pi.
 
 + Ko se je Pi ponovno zagnal, mora biti vaša datoteka še vedno tam.
 
-+ Raspberry Pi ima različico operacijskega sistema, imenovanega Linux (Windows in MacOS so drugi operacijski sistemi). To vam omogoča, da se zgodi, tako da vnesete ukaze, namesto da kliknete na možnosti menija. Na vrhu zaslona kliknite **Terminal**:
++ Raspberry Pi ima različico operacijskega sistema, imenovanega Linux (Windows in MacOS so drugi operacijski sistemi). It allows you to make things happen by typing commands instead of clicking on menu options. Na vrhu zaslona kliknite **Terminal**:
 
 ![screenshot](images/pi-command-prompt.png)
 
