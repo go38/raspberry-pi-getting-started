@@ -2,7 +2,7 @@
 
 Sekarang saatnya untuk mengikuti tur Raspberry Pi.
 
-+ Lihat Raspberry di sudut kiri atas? Di situlah Anda mengakses menu: klik di atasnya, dan Anda akan menemukan banyak aplikasi.
++ Lihat Raspberry di sudut kiri atas? Di situlah Kamu dapat mengakses menu: klik di situ, dan Kamu akan menemukan banyak aplikasi.
 
 + Klik **Aksesoris** dan pilih **Editor Teks**.
 
@@ -28,7 +28,7 @@ File Anda telah disimpan ke kartu SD Raspberry Pi.
 
 + Ketika Pi telah reboot, file Anda harus tetap ada.
 
-+ Raspberry Pi menjalankan versi sistem operasi yang disebut Linux (Windows dan macOS adalah sistem operasi lain). Ini memungkinkan Anda untuk melakukannya dengan mengetik perintah daripada mengklik opsi menu. Klik pada **Terminal** di bagian atas layar:
++ Raspberry Pi menjalankan versi sistem operasi yang disebut Linux (Windows dan macOS adalah sistem operasi lain). It allows you to make things happen by typing commands instead of clicking on menu options. Klik pada **Terminal** di bagian atas layar:
 
 ![tangkapan layar](images/pi-command-prompt.png)
 
