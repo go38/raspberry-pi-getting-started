@@ -1,43 +1,31 @@
-## قم بتوصيل Raspberry Pi
+## Finish the setup
 
-دعونا توصيل Raspberry بي الخاص بك وتشغيله.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ تحقق مما إذا كان جهاز Raspberry Pi يحتوي بالفعل على بطاقة SD في الفتحة الموجودة في الجانب السفلي ، وإذا لم يكن كذلك ، فأدخل بطاقة SD مع Raspbian مثبتًا (عبر NOOBS). ستأتي الكثير من بطاقات SD داخل محول أكبر ، ويمكنك تمرير البطاقة خارج هذا باستخدام الشفة في الأسفل.
-    
-    ![لقطة شاشة](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ ابحث عن موصل USB الخاص بالماوس ، وقم بتوصيل الماوس بأحد منافذ USB في Raspberry Pi (لا يهم أي منها).
-    
-    ![لقطة شاشة](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ قم بتوصيل لوحة المفاتيح بنفس الطريقة.
-    
-    ![لقطة شاشة](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ انظر إلى منفذ HDMI في Raspberry Pi - لاحظ أنه يحتوي على جانب مسطح كبير في الأعلى.
-    
-    ![لقطة شاشة](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-تأكد من توصيل الشاشة بمقبس الحائط وتشغيلها.
+![pi wizard password](images/piwiz3.PNG)
 
-+ قم بتوصيل كابل الشاشة بمنفذ HDMI الخاص بـ Pi - استخدم محولًا إذا لزم الأمر.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-لن يتم عرض أي شيء حتى الآن.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ قم بتوصيل سماعات الرأس أو مكبرات الصوت بمقبس الصوت إذا كان لديك بعض.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ إذا كان لديك واحد ، استخدم كبل Ethernet لتوصيل منفذ ethernet على Raspberry Pi بمقبس Ethernet على الحائط أو على الموجه. (لست بحاجة إلى القيام بذلك إذا كنت تستخدم شبكة LAN اللاسلكية أو إذا كنت لا تريد الاتصال بالإنترنت).
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ ﻻﺣظ أن ﻣﻧﻔذ اﻟطﺎﻗﺔ micro USB ﯾوﺟد ﺟﺎﻧب ﻣﺳطﺢ أﺑﻌد ﻣن اﻷﻋﻟﯽ.
+![pi wizard updating](images/piwiz6.PNG)
 
-قم بتوصيل مزود الطاقة بمقبس وتوصيله بمنفذ طاقة micro USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![لقطة شاشة](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-يجب أن تشاهد ضوءًا أحمر على Raspberry Pi والتوت على الشاشة.
-
-سيتم تشغيل Pi في سطح مكتب رسومية.
-
-![لقطة شاشة](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
