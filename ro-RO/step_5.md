@@ -1,16 +1,16 @@
 ## Finalizează configurarea
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Când pornești prima dată Raspberry Pi, aplicația **Bine ai venit la Raspberry Pi** va apărea și te va ghida pe tot parcursul configurării inițiale.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Apasă **Următorul** pentru a începe configurarea.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Alege **Țara**, **Limba**, și **Fusul orar**, apoi apasă**Următorul** din nou.
 
 ![pi wizard country](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Introduceți o parolă nouă pentru Raspberry Pi si apăsați **Următorul**.
 
 ![pi wizard password](images/piwiz3.PNG)
 
