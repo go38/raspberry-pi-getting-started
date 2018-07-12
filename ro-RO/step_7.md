@@ -1,35 +1,43 @@
 ## Navigarea pe web
 
-S-ar putea să doriți să vă conectați Raspberry Pi la internet. Dacă nu ați conectat un cablu Ethernet, va trebui să vă conectați la o rețea fără fir.
+S-ar putea să doriți să vă conectați Raspberry Pi la internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Pentru a activa Wi-Fi pe Raspberry Pi, va trebui să setați o țară Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![set wifi țară](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ Selectați **Preferințe**, **Configurația Pi Zmeier** din meniu.
+\--- collapse \---
 
-+ Faceți clic pe fila **Localizare**.
+* * *
 
-+ Faceți clic pe butonul **Setați țara WiFi**.
+## title: Set Wi-Fi Country
 
-![selectați țara Wi-Fi](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ Selectați țara din listă și faceți clic pe **OK**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-După ce ați setat țara Wi-Fi, vă puteți conecta la o rețea fără fir.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Faceți clic pe pictograma cu cruci roșii din colțul din dreapta sus al ecranului și selectați rețeaua din meniul derulant. Este posibil să trebuiască să întrebați un adult care rețea ar trebui să aleagă.
++ Go to the **Localisation** tab.
 
-![Nu wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + Introduceți parola pentru rețeaua fără fir sau cereți unui adult să-l scrie pentru dvs., apoi faceți clic pe **OK**.
 
-![Introduceți parola](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + Când Pi este conectat la internet, veți vedea un simbol LAN fără fir în locul cruciilor roșii.
 
-![captură de ecran](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + Dați clic pe pictograma browserului web și căutați `zmeură pi`.
 
-![captură de ecran](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
