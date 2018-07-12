@@ -1,43 +1,31 @@
-## Kết nối Raspberry Pi của bạn
+## Finish the setup
 
-Hãy kết nối Raspberry Pi của bạn và làm cho nó chạy.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Kiểm tra xem Raspberry Pi của bạn đã có thẻ SD trong khe ở mặt dưới chưa và nếu không, hãy lắp thẻ SD có cài đặt Raspbian (qua NOOBS). Rất nhiều thẻ SD sẽ đến bên trong một bộ chuyển đổi lớn hơn, và bạn có thể trượt thẻ ra khỏi điều này bằng cách sử dụng môi ở phía dưới.
-    
-    ![ảnh chụp màn hình](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Tìm đầu nối USB cho con chuột của bạn và kết nối chuột với một trong các cổng USB trên Raspberry Pi (không quan trọng cái nào).
-    
-    ![ảnh chụp màn hình](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Kết nối bàn phím theo cùng một cách.
-    
-    ![ảnh chụp màn hình](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Nhìn vào cổng HDMI trên Raspberry Pi - thông báo rằng nó có một mặt phẳng lớn trên đầu trang.
-    
-    ![ảnh chụp màn hình](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Đảm bảo màn hình của bạn được cắm vào ổ điện và bật.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Kết nối cáp màn hình với cổng HDMI của Pi - sử dụng bộ chuyển đổi nếu cần.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Không có gì sẽ hiển thị.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Kết nối tai nghe hoặc loa với giắc âm thanh nếu bạn có.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Nếu bạn có, hãy sử dụng cáp ethernet để kết nối cổng ethernet trên Raspberry Pi với ổ cắm ethernet trên tường hoặc trên bộ định tuyến của bạn. (Bạn không cần phải làm điều này nếu bạn đang sử dụng mạng LAN không dây hoặc nếu bạn không muốn kết nối với internet.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Lưu ý rằng cổng nguồn micro USB có mặt phẳng dài hơn ở trên cùng.
+![pi wizard updating](images/piwiz6.PNG)
 
-Cắm nguồn điện vào ổ cắm và kết nối nó với cổng nguồn micro USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![ảnh chụp màn hình](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Bạn sẽ thấy một ánh sáng màu đỏ trên Raspberry Pi và quả mâm xôi trên màn hình.
-
-Pi sẽ khởi động vào màn hình đồ họa.
-
-![ảnh chụp màn hình](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
