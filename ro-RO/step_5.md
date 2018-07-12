@@ -24,7 +24,7 @@ Când pornești prima dată Raspberry Pi, aplicația **Bine ai venit la Raspberr
 
 ![pi wizard updating](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Apasă **Gata** sau **Repornește** pentru finalizarea instalării.
 
 **Note:** you will only need to reboot if that's necessary to complete an update.
 
