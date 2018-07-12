@@ -1,10 +1,10 @@
-## Finish the setup
+## Dokončenie inštalácie
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Keď vaše Raspberry Pi spustíte prvýkrát, spustí sa aplikácia **Welcome to Raspberry Pi** a prevedie vás počiatočným nastavením.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Kliknutím na tlačidlo **Next** sa spustí nastavenie.
 
 + Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
