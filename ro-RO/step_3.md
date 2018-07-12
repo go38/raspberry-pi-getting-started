@@ -1,14 +1,14 @@
-## Faceți cunoștință cu Zmeura Pi
+## Iată Raspberry Pi
 
-Să aruncăm o privire la Zmeura Pi. Ar trebui să aveți un calculator de Raspberry Pi în fața dvs. pentru asta. Nu ar trebui să fie conectat la nimic încă.
+Să aruncăm o privire la Raspberry Pi. Pentru asta vei avea nevoie de un calculator Raspberry Pi. Nu ar trebui să fie conectat la nimic încă.
 
-+ Uită-te la Zmeura ta Pi. Puteți găsi toate lucrurile etichetate pe diagramă?
++ Uită-te la Raspberry Pi. Poți identifica toate lucrurile marcate din diagramă?
 
 ![captură de ecran](images/pi-labelled-names.png)
 
-+ **Porturi USB** - acestea sunt utilizate pentru conectarea unui mouse și a unei tastaturi. De asemenea, puteți conecta alte componente, cum ar fi o unitate USB.
++ **Porturi USB** - acestea sunt utilizate pentru conectarea unui mouse și a unei tastaturi. De asemenea, poți conecta și alte componente, cum ar fi, o memorie USB.
 
-+ **Slot pentru card SD** - puteți introduce cardul SD aici. Aici este stocat software-ul sistemului de operare și fișierele dvs.
++ **SD card slot** — bagă cardul SD aici. Aici este locul unde se găsesc stocate, programul si fișierele tale.
 
 + **Portul Ethernet** - acesta se utilizează pentru a conecta Raspberry Pi la o rețea cu un cablu. Raspberry Pi se poate conecta, de asemenea, la o rețea prin LAN fără fir.
 
