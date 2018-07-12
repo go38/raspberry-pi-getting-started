@@ -14,13 +14,13 @@ Când pornești prima dată Raspberry Pi, aplicația **Bine ai venit la Raspberr
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Conectează-te la rețeaua WiFi, selectându-i numele di lisță, introducând parola și apăsând **Următorul**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Notă:** dacă modelul tău de Raspberry Pi nu are conexiune WiFi, ar trebui să nu vezi acest ecran.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Apasă **Următorul** permite aplicației să berifice eventualele update-uri și instalează-le (asta ar trebui să dureze puțin).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
