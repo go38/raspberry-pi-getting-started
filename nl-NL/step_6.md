@@ -28,7 +28,7 @@ Het bestand is opgeslagen op de SD-kaart van de Raspberry Pi.
 
 + Wanneer de Pi opnieuw is opgestart, moet het bestand er nog steeds zijn.
 
-+ Op de Raspberry Pi loopt een versie van een besturingssysteem met de naam Linux (Windows en macOS zijn andere besturingssystemen). Je kunt opdrachten typen in plaats van op menu-opties te klikken. Klik op de **Terminal** boven aan het scherm:
++ Op de Raspberry Pi loopt een versie van een besturingssysteem met de naam Linux (Windows en macOS zijn andere besturingssystemen). It allows you to make things happen by typing commands instead of clicking on menu options. Klik op de **Terminal** boven aan het scherm:
 
 ![screenshot](images/pi-command-prompt.png)
 
