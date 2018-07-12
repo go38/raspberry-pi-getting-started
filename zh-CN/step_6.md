@@ -1,6 +1,6 @@
 ## 树莓派导览
 
-现在是时候去浏览一下Raspberry Pi了。
+现在是时候去浏览一下树莓派了。
 
 + 看到左上角的树莓了吗？ 这就是你访问菜单的地方：点击它，你会发现很多应用程序。
 
@@ -28,7 +28,7 @@
 
 + 当Pi重新启动后，你的文件应该仍然在那里。
 
-+ Raspberry Pi运行一种称为Linux的操作系统（Windows和MacOS是其他操作系统）。 它允许你通过输入命令而不是点击菜单选项来实现。 点击屏幕顶部的 **终端**：
++ Raspberry Pi运行一种称为Linux的操作系统（Windows和MacOS是其他操作系统）。 It allows you to make things happen by typing commands instead of clicking on menu options. 点击屏幕顶部的 **终端**：
 
 ![截图](images/pi-command-prompt.png)
 
