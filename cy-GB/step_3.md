@@ -1,21 +1,21 @@
-## Cwrdd â'r Pi Mws
+## Dyma'r Raspberry Pi
 
-Gadewch i ni edrych ar y Pi Cig Mwyn. Dylech gael cyfrifiadur Mws Coch o'ch blaen am hyn. Ni ddylid ei gysylltu ag unrhyw beth eto.
+Beth am edrych ar y Raspberry Pi. Dylai cyfrifiadur Raspberry Pi fod o'th flaen di ar gyfer hyn. Ni ddylid ei gysylltu ag unrhyw beth eto.
 
-+ Edrychwch ar eich Pi Mafon. A allwch chi ddod o hyd i'r holl bethau sydd wedi'u labelu ar y diagram?
++ Edrycha ar dy Raspberry Pi. Wyt ti'n gallu dod o hyd i'r holl bethau sydd wedi'u labelu ar y diagram?
 
-![screenshot](images/pi-labelled-names.png)
+![sgrinlun](images/pi-labelled-names.png)
 
-+ **Porthladdoedd USB** - defnyddir y rhain i gysylltu llygoden a bysellfwrdd. Gallwch hefyd gysylltu cydrannau eraill, megis gyriant USB.
++ **Pyrth USB** - defnyddir y rhain i gysylltu â llygoden a bysellfwrdd. Hefyd, gelli di gysylltu â chydrannau eraill, megis gyriant USB.
 
-+ Slotiau cerdyn SD **SD** - gallwch slotio'r cerdyn SD yma. Dyma lle mae'r meddalwedd system weithredu a'ch ffeiliau yn cael eu storio.
++ **Slot cerdyn SD** - gelli di roi'r cerdyn SD yma. Dyma lle mae meddalwedd y system weithredu a'th ffeiliau di yn cael eu storio.
 
-+ **Porthladd Ethernet** - defnyddir hwn i gysylltu y Mws Pi i rwydwaith gyda chebl. Gall y Mws Mafon hefyd gysylltu â rhwydwaith trwy LAN diwifr.
++ **Porth Ethernet** - defnyddir hwn i gysylltu'r Raspberry Pi â rhwydwaith â chebl. Hefyd, mae'r Raspberry Pi yn gallu cysylltu â rhwydwaith trwy Rwydwaith Ardal Leol (LAN) diwifr.
 
-+ **Jack sain** - gallwch gysylltu clustffonau neu siaradwyr yma.
++ **Jac sain** - gelli di gysylltu â chlustffonau neu seinyddion yma.
 
-+ **porthladd HDMI** - dyma lle rydych chi'n cysylltu y monitor (neu'r taflunydd) yr ydych yn ei ddefnyddio i arddangos yr allbwn o'r Mws Mws. Os oes gan eich monitor siaradwyr, gallwch hefyd eu defnyddio i glywed sain.
++ **Porth HDMI** - dyma lle rwyt ti'n cysylltu â'r monitor (neu'r taflunydd) rwyt ti'n ei ddefnyddio i arddangos yr allbwn o'r Raspberry Pi. Os oes gan eich monitor seinyddion, gelli di eu defnyddio nhw i glywed sain hefyd.
 
-+ **Cysylltydd pŵer micro USB** - dyma lle rydych chi'n cysylltu cyflenwad pŵer. Dylech bob amser wneud hyn yn olaf, ar ôl i chi gysylltu eich holl gydrannau eraill.
++ **Cysylltydd pŵer micro USB** - dyma lle rwyt ti'n cysylltu â chyflenwad pŵer. Dylet ti wneud hyn olaf bob amser, ar ôl i ti gysylltu dy holl gydrannau eraill.
 
-+ **Porthladdoedd GPIO** - mae'r rhain yn caniatáu i chi gysylltu cydrannau electronig megis LEDs a botymau i'r Mws Mws.
++ **Pyrth GPIO** - mae'r rhain yn dy alluogi di i gysylltu cydrannau electronig megis LEDs a botymau i'r Raspberry Pi.
