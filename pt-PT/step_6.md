@@ -28,7 +28,7 @@ Seu arquivo foi salvo no cartão SD do Raspberry Pi.
 
 + Quando o Pi for reinicializado, seu arquivo ainda estará lá.
 
-+ O Raspberry Pi executa uma versão de um sistema operacional chamado Linux (Windows e MacOS são outros sistemas operacionais). Ele permite que você aconteça digitando comandos em vez de clicar nas opções do menu. Clique no **Terminal** no topo da tela:
++ O Raspberry Pi executa uma versão de um sistema operacional chamado Linux (Windows e MacOS são outros sistemas operacionais). It allows you to make things happen by typing commands instead of clicking on menu options. Clique no **Terminal** no topo da tela:
 
 ![captura de tela](images/pi-command-prompt.png)
 
