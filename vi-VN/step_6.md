@@ -24,11 +24,11 @@ Tệp của bạn đã được lưu vào thẻ SD của Raspberry Pi.
 
 + Đóng trình chỉnh sửa văn bản bằng cách nhấp vào **X** ở góc trên cùng bên phải của cửa sổ.
 
-+ Quay lại menu Raspberry, chọn **Tắt**, sau đó chọn **Khởi động lại**.
++ Quay lại menu Raspberry, chọn **Shutdown**, sau đó chọn **Reboot** để khởi động lại.
 
 + Khi Pi đã khởi động lại, tệp của bạn sẽ vẫn ở đó.
 
-+ Raspberry Pi chạy một phiên bản của một hệ điều hành được gọi là Linux (Windows và MacOS là các hệ điều hành khác). It allows you to make things happen by typing commands instead of clicking on menu options. Nhấp vào **Terminal** ở đầu màn hình:
++ Raspberry Pi chạy một phiên bản của một hệ điều hành được gọi là Linux (Windows và MacOS là các hệ điều hành khác). Nó cho phép bạn thực hiện mọi thứ bằng cách gõ lệnh thay vì nhấp vào các tùy chọn menu. Nhấp vào **Terminal** ở trên cùng màn hình:
 
 ![ảnh chụp màn hình](images/pi-command-prompt.png)
 
@@ -37,28 +37,26 @@ Tệp của bạn đã được lưu vào thẻ SD của Raspberry Pi.
     ls
     
 
-và sau đó nhấn <kbd>Nhập</kbd> trên bàn phím.
+và sau đó nhấn <kbd>Enter</kbd> trên bàn phím.
 
-Thao tác này sẽ liệt kê các tệp trong thư mục</code> nhà `của bạn.</p>
+Thao tác này sẽ liệt kê các tệp trong thư mục `home` của bạn.
 
-<ul>
-<li>Bây giờ gõ lệnh này vào <strong>c</strong>hange <strong>d</strong>irectory vào Desktop:</li>
-</ul>
++ Bây giờ gõ lệnh này để **c**hange **d**irectory (điều hướng) vào Desktop:
 
-<pre><code>cd Desktop
-`</pre> 
+    cd Desktop
+    
 
-Bạn phải nhấn phím <kbd>Nhập</kbd> sau mỗi lệnh.
+Bạn phải nhấn phím <kbd>Enter</kbd> sau mỗi lệnh.
 
-Kiểu:
+Gõ:
 
     ls
     
 
-Bạn có thể xem tệp bạn đã tạo không?
+Bạn có thấy tệp tin bạn đã tạo không?
 
-+ Đóng cửa sổ đầu cuối bằng cách nhấp vào **X**.
++ Đóng cửa sổ Terminal bằng cách nhấp vào **X**.
 
-+ Bây giờ kéo `rp.txt` vào Wastebasket trên màn hình nền để Pi sẽ sẵn sàng cho người tiếp theo.
++ Bây giờ kéo `rp.txt` vào Wastebasket trên màn hình nền để Pi sẵn sàng cho người tiếp theo.
     
     ![ảnh chụp màn hình](images/pi-waste.png)
