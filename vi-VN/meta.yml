@@ -14,7 +14,7 @@ technologies: quả mâm xôi
 site_areas: dự án
 hardware: quả mâm xôi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: Gặp gỡ Raspberry Pi
   - 
-    title: 'Thách thức: giải thích Raspberry Pi'
+    title: Connect your Raspberry Pi
   - 
-    title: Kết nối Raspberry Pi của bạn
+    title: Finish the setup
   - 
     title: Một tour du lịch của Raspberry Pi
   - 
