@@ -28,7 +28,7 @@ Tệp của bạn đã được lưu vào thẻ SD của Raspberry Pi.
 
 + Khi Pi đã khởi động lại, tệp của bạn sẽ vẫn ở đó.
 
-+ Raspberry Pi chạy một phiên bản của một hệ điều hành được gọi là Linux (Windows và MacOS là các hệ điều hành khác). Nó cho phép bạn thực hiện bằng cách gõ lệnh thay vì nhấp vào các tùy chọn menu. Nhấp vào **Terminal** ở đầu màn hình:
++ Raspberry Pi chạy một phiên bản của một hệ điều hành được gọi là Linux (Windows và MacOS là các hệ điều hành khác). It allows you to make things happen by typing commands instead of clicking on menu options. Nhấp vào **Terminal** ở đầu màn hình:
 
 ![ảnh chụp màn hình](images/pi-command-prompt.png)
 
