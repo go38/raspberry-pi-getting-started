@@ -1,21 +1,21 @@
-## Incontra il Raspberry Pi
+## Primi passi con il Raspberry Pi
 
-Diamo un'occhiata al Raspberry Pi. Dovresti avere un computer Raspberry Pi davanti a te per questo. Non dovrebbe essere collegato a nulla ancora.
+Diamo un'occhiata al Raspberry Pi. Per far questo dovresti avere un computer Raspberry Pi davanti a te. Per il momento, non è necessario collegarlo.
 
-+ Guarda il tuo Raspberry Pi. Riesci a trovare tutte le cose etichettate sul diagramma?
++ Guarda il tuo Raspberry Pi. Riesci a individuare tutte le componenti elencate nello schema?
 
-![immagine dello schermo](images/pi-labelled-names.png)
+![screenshot](images/pi-labelled-names.png)
 
-+ **Porte USB** : sono utilizzate per collegare un mouse e una tastiera. È anche possibile collegare altri componenti, ad esempio un'unità USB.
++ **Porte USB** - si utilizzano per collegare un mouse e una tastiera. Puoi collegarci anche altre componenti, ad esempio un'unità USB.
 
-+ **Slot scheda SD** - puoi inserire la scheda SD qui. Qui è dove sono archiviati il ​​software del sistema operativo e i tuoi file.
++ **Slot per la scheda SD** - qui va inserita la scheda SD. Qui è dove sono archiviati il ​​software del sistema operativo e i tuoi file.
 
-+ **Porta Ethernet** : utilizzata per connettere il Raspberry Pi a una rete tramite cavo. Il Raspberry Pi può anche connettersi a una rete tramite LAN wireless.
++ **Porta Ethernet** - si utilizza per connettere il Raspberry Pi a una rete attraverso un cavo. Il Raspberry Pi può anche connettersi a una rete tramite una LAN wireless.
 
 + **Jack audio** - qui puoi collegare cuffie o altoparlanti.
 
-+ **Porta HDMI** - qui è dove si collega il monitor (o il proiettore) che si sta utilizzando per visualizzare l'output dal Raspberry Pi. Se il tuo monitor ha altoparlanti, puoi anche usarli per ascoltare il suono.
++ **Porta HDMI** - qui è dove si collega il monitor (o il proiettore) che si sta utilizzando per visualizzare l'output del Raspberry Pi. Se il tuo monitor ha delle altoparlanti, puoi usare quelle per ascoltare i suoni riprodotti.
 
-+ **Connettore di alimentazione Micro USB** - Qui è dove si collega un alimentatore. Dovresti sempre farlo per ultimo, dopo aver collegato tutti gli altri componenti.
++ **Connettore Micro USB** - qui è dove si collega un alimentatore. Andrebbe sempre collegato per ultimo, dopo aver connesso tutti le altri componenti.
 
-+ **Porte GPIO** : consentono di collegare componenti elettronici quali LED e pulsanti al Raspberry Pi.
++ **Porte GPIO** - consentono di collegare componenti elettronici quali LED e pulsanti al Raspberry Pi.
