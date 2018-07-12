@@ -28,7 +28,7 @@
 
 + Pi가 재부팅되면 파일이 여전히 있어야합니다.
 
-+ Raspberry Pi는 Linux (Windows 및 macOS는 다른 운영 체제)라는 운영 체제 버전을 실행합니다. 메뉴 옵션을 클릭하는 대신 명령을 입력하여 작업을 수행 할 수 있습니다. 화면 상단의 **터미널** 을 클릭하십시오.
++ Raspberry Pi는 Linux (Windows 및 macOS는 다른 운영 체제)라는 운영 체제 버전을 실행합니다. It allows you to make things happen by typing commands instead of clicking on menu options. 화면 상단의 **터미널** 을 클릭하십시오.
 
 ![스크린 샷](images/pi-command-prompt.png)
 
