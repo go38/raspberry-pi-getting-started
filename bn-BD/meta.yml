@@ -14,7 +14,7 @@ technologies: ফলবিশেষ-Pi
 site_areas: প্রকল্প
 hardware: ফলবিশেষ-Pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: রাস্পবেরি পাই পূরণ করুন
   - 
-    title: 'চ্যালেঞ্জ: রাস্পবেরি পাই ব্যাখ্যা করুন'
+    title: Connect your Raspberry Pi
   - 
-    title: আপনার রাস্পবেরি পাই সংযুক্ত করুন
+    title: Finish the setup
   - 
     title: রাস্পবেরী পাই এর একটি সফর
   - 
