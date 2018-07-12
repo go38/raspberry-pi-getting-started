@@ -1,6 +1,6 @@
 ## Ce dont tu auras besoin
 
-### Matériel
+### Hardware
 
 + Un ordinateur Raspberry Pi avec une carte SD
 
@@ -8,13 +8,13 @@
 
 + Un clavier et une souris USB
 
-+ Une alimentation
++ Une alimentation électrique
 
-+ Casque ou haut-parleurs (optionnel)
++ Un casque ou des haut-parleurs (optionnel)
 
 + Un câble ethernet (optionnel)
 
-### Logiciel
+### Software
 
 + Raspbian, installé via NOOBS
 
