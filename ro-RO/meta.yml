@@ -1,12 +1,12 @@
 ---
-hero_image: images / obtinerea-a început-cu-zmeura-pi.png
+hero_image: images/getting-started-with-raspberry-pi.png
 theme: roșu
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programare-0, fiz-comp-1, fabricare-0, comunitate-0
-title: Noțiuni de bază cu Zmeura Pi
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
+title: Noțiuni de bază ale Raspberry Pi
 description: Înființați Raspberry Pi și explorați ce poate face
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
@@ -24,9 +24,9 @@ steps:
   - 
     title: Faceți cunoștință cu Zmeura Pi
   - 
-    title: Connect your Raspberry Pi
+    title: Conecteaza Raspberry Pi
   - 
-    title: Finish the setup
+    title: Finalizează configurarea
   - 
     title: Un tur al Zmei Pi
   - 
