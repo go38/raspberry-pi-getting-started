@@ -1,4 +1,4 @@
-## Finish the setup
+## Finalizează configurarea
 
 When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
