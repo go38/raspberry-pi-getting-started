@@ -1,35 +1,43 @@
 ## वेब ब्राउज़ करना
 
-आप अपने रास्पबेरी पीआई को इंटरनेट से कनेक्ट करना चाहते हैं। यदि आपने ईथरनेट केबल प्लग नहीं किया है, तो आपको वायरलेस नेटवर्क से कनेक्ट करने की आवश्यकता होगी।
+आप अपने Raspberry Pi को इंटरनेट से जोड़ना चाहते हैं। If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-अपने रास्पबेरी पीआई पर वाई-फाई सक्षम करने के लिए आपको एक वाई-फाई देश सेट करने की आवश्यकता होगी।
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![वाईफाई देश सेट करें](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ मेनू से **प्राथमिकताएं**, **रास्पबेरी पीआई कॉन्फ़िगरेशन** चुनें।
+\--- collapse \---
 
-+ **स्थानीयकरण** टैब पर क्लिक करें।
+* * *
 
-+ **वाईफाई देश** बटन पर क्लिक करें।
+## title: Set Wi-Fi Country
 
-![वाईफाई देश का चयन करें](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ सूची से अपने देश का चयन करें और **ठीक** पर क्लिक करें।
+![set wifi country](images/pi-set-wifi-country.png)
 
-एक बार जब आप वाई-फाई देश सेट हो जाते हैं तो आप वायरलेस नेटवर्क से कनेक्ट कर सकते हैं।
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ स्क्रीन के ऊपरी दाएं कोने में लाल क्रॉस वाले आइकन पर क्लिक करें और ड्रॉप-डाउन मेनू से अपना नेटवर्क चुनें। आपको वयस्क से पूछना पड़ सकता है कि आपको कौन सा नेटवर्क चुनना चाहिए।
++ Go to the **Localisation** tab.
 
-![कोई Wifi नहीं](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
 
-+ अपने वायरलेस नेटवर्क के लिए पासवर्ड टाइप करें, या किसी वयस्क से इसे टाइप करने के लिए कहें, फिर **ठीक** पर क्लिक करें।
+![select wifi country](images/pi-select-wifi-country.png)
 
-![पासवर्ड में टाइप करें](images/type-password.png)
++ Select your country from the list and click **OK**.
 
-+ जब आपका पीआई इंटरनेट से कनेक्ट होता है, तो आपको लाल क्रॉस के बजाय एक वायरलेस लैन प्रतीक दिखाई देगा।
+Once you Wi-Fi country is set, you can connect to a wireless network.
 
-![स्क्रीनशॉट](images/pi-wifi.png)
+\--- /collapse \---
 
-+ वेब ब्राउज़र आइकन पर क्लिक करें और `रास्पबेरी पाई` खोजें।
++ अपने वायरलेस नेटवर्क के लिए पासवर्ड टाइप करें, या किसी वयस्क से इसे टाइप करने के लिए कहें, फिर **OK** पर क्लिक करें।
 
-![स्क्रीनशॉट](images/pi-browser.png)
+![Type in password](images/type-password.png)
+
++ जब आपका Pi इंटरनेट से कनेक्ट होता है, तब आपको लाल क्रॉस के बजाय एक वायरलेस लैन प्रतीक दिखाई देगा।
+
+![screenshot](images/pi-wifi.png)
+
++ वेब ब्राउज़र आइकन पर क्लिक करें और `raspberry pi` खोजें।
+
+![screenshot](images/pi-browser.png)
