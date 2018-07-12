@@ -16,7 +16,7 @@ Veľa SD kariet je dodávaných vo vnútri väčšieho adaptéra. SD kartu vtedy
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Klávesnicu pripojte rovnakým spôsobom.
     
     ![screenshot](images/pi-keyboard.png)
 
@@ -30,7 +30,7 @@ Uistite sa, že je váš monitor zapojený do zásuvky, a že je zapnutý.
 
 Zatiaľ sa nič nezobrazí.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Ak chcete pripojiť Pi do siete internet cez ethernet, použite ethernetový kábel na pripojenie ethernetového portu na Raspberry Pi do ethernetovej zásuvky na stene alebo do vášho smerovača. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
 
 ![ethernet](images/pi-ethernet.png)
 
