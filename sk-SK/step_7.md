@@ -2,7 +2,7 @@
 
 Možno budete chcieť pripojiť svoje Raspberry Pi na internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Kliknite na ikonu s červenými krížikmi v pravom hornom rohu obrazovky a z rozbaľovacej ponuky vyberte svoju sieť. Možno sa budete potrebovať opýtať príslušnej zodpovednej osoby, ku ktorej sieti sa môžete pripojiť.
 
 ![No wifi](images/no-wifi.png)
 
@@ -26,7 +26,7 @@ If you see the message "Set Wi-Fi Country on Localisation tab" when trying to co
 
 + Select your country from the list and click **OK**.
 
-Once you Wi-Fi country is set, you can connect to a wireless network.
+Po nastavení krajiny Wi-Fi sa môžete pripojiť k bezdrôtovej sieti.
 
 \--- /collapse \---
 
