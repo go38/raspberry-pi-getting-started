@@ -28,7 +28,7 @@
 
 + 當Pi重新啟動時，你的文件應該仍然在那裡。
 
-+ Raspberry Pi運行稱為Linux的操作系統版本（Windows和MacOS是其他操作系統）。 它允許你通過輸入命令而不是點擊菜單選項來實現。 點擊屏幕頂部的 **終端**：
++ Raspberry Pi運行稱為Linux的操作系統版本（Windows和MacOS是其他操作系統）。 It allows you to make things happen by typing commands instead of clicking on menu options. 點擊屏幕頂部的 **終端**：
 
 ![截圖](images/pi-command-prompt.png)
 
