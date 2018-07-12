@@ -18,14 +18,14 @@ Keď vaše Raspberry Pi spustíte prvýkrát, spustí sa aplikácia **Welcome to
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Poznámka:** Ak vaše Raspberry Pi nemá WiFi, túto obrazovku neuvidíte.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Kliknite na tlačidlo **Next** a nechajte sprievodcu skontrolovať dostupné aktualizácie pre Raspbian (tento krok môže chvíľu trvať).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Pre dokončenie inštalácie kliknite na tlačidlo **Done** alebo **Reboot**.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Poznámka:** reštart bude potrebný len vtedy, ak je nevyhnutný pre dokončenie aktualizácie.
 
 ![pi wizard complete](images/piwiz7.PNG)
