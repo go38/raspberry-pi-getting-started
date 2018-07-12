@@ -1,21 +1,21 @@
 ## Introducción
 
-En este proyecto, conectará una computadora Raspberry Pi y descubrirá qué puede hacer.
+En este proyecto, conectarás un ordenador Raspberry Pi y descubrirás qué puede hacer.
 
-### Lo que harás
+### Lo que crearás
 
-La Raspberry Pi es una computadora pequeña que puede hacer muchas cosas. Lo conecta a un monitor y conecta un teclado y mouse.
+El Raspberry Pi es un ordenador pequeño que puede hacer muchas cosas. Lo conectas a un monitor, un teclado y un ratón.
 
 ![captura de pantalla](images/pi-plug-in.gif)
 
-### Lo que vas a aprender
+### Lo que aprenderás
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Usar componentes digitales, analógicos y electromecánicos básicos](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [A usar componentes digitales, analógicos y electromecánicos básicos](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
-### Información adicional para educadores
+### Información adicional para los educadores
 
-Si necesita imprimir este proyecto, utilice la [versión para impresión](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Use el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluido un proyecto terminado de ejemplo) en la carpeta 'en / resources'.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.
