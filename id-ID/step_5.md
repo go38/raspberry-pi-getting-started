@@ -1,43 +1,31 @@
-## Hubungkan Raspberry Pi Anda
+## Finish the setup
 
-Mari kita menghubungkan Raspberry Pi Anda dan menjalankannya.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Periksa apakah Raspberry Pi Anda sudah memiliki kartu SD di slot di bagian bawah, dan jika tidak, masukkan kartu SD dengan Raspbian diinstal (melalui NOOBS). Banyak kartu SD akan masuk ke adaptor yang lebih besar, dan Anda dapat mengeluarkan kartu dari ini menggunakan bibir di bagian bawah.
-    
-    ![tangkapan layar](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Temukan konektor USB untuk mouse Anda, dan hubungkan mouse ke salah satu port USB pada Raspberry Pi (tidak masalah yang mana).
-    
-    ![tangkapan layar](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Hubungkan keyboard dengan cara yang sama.
-    
-    ![tangkapan layar](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Lihatlah port HDMI pada Raspberry Pi - perhatikan bahwa ia memiliki sisi datar yang besar di atas.
-    
-    ![tangkapan layar](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Pastikan monitor Anda dicolokkan ke stopkontak dinding dan dinyalakan.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Sambungkan kabel monitor ke port HDMI Pi - gunakan adaptor jika perlu.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Tidak ada yang akan ditampilkan.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Hubungkan headphone atau speaker ke jack audio jika Anda memilikinya.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Jika Anda memilikinya, gunakan kabel ethernet untuk menghubungkan port ethernet pada Raspberry Pi ke soket ethernet di dinding atau di router Anda. (Anda tidak perlu melakukan ini jika Anda akan menggunakan LAN nirkabel atau jika Anda tidak ingin terhubung ke internet.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Perhatikan bahwa port daya USB mikro memiliki sisi datar yang lebih panjang di atas.
+![pi wizard updating](images/piwiz6.PNG)
 
-Colokkan catu daya ke soket dan hubungkan ke port daya USB mikro.
++ Click **Done** or **Reboot** to finish the setup.
 
-![tangkapan layar](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Anda akan melihat lampu merah pada Raspberry Pi dan raspberry di monitor.
-
-The Pi akan boot ke desktop grafis.
-
-![tangkapan layar](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
