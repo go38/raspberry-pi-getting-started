@@ -1,43 +1,31 @@
-## আপনার রাস্পবেরি পাই সংযুক্ত করুন
+## Finish the setup
 
-চলুন শুরু করি আপনার রাস্পবেরি পাই এবং সাথে সাথে এটি চলছে।
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ আপনার রাস্পবেরি পিইটির ইতিমধ্যেই স্লটের নীচে একটি এসডি কার্ড থাকে কিনা তা পরীক্ষা করুন, এবং যদি না করেন, তাহলে Raspbian ইনস্টল করে একটি এসডি কার্ড সন্নিবেশ করুন (NOOBS এর মাধ্যমে)। এসডি কার্ডগুলি অনেক বড় অ্যাডাপ্টারের ভিতরে আসবে, এবং আপনি নীচের অংশে ঠোঁট ব্যবহার করে এই কার্ডটি স্লাইড করতে পারেন।
-    
-    ![স্ক্রিনশট](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ আপনার মাউসের জন্য USB সংযোগকারী খুঁজুন এবং রাশবেরি পাইতে ইউএসবি পোর্টের একটিতে মাউসকে সংযুক্ত করুন (এটি কোন ব্যাপার না)।
-    
-    ![স্ক্রিনশট](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ একই ভাবে কীবোর্ড সংযুক্ত করুন
-    
-    ![স্ক্রিনশট](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ রাস্পবেরি পাই এ HDMI পোর্টটি দেখুন - এটি উপরের একটি বড় ফ্ল্যাট দিকে আছে লক্ষ্য করুন।
-    
-    ![স্ক্রিনশট](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-নিশ্চিত করুন যে আপনার নিরীক্ষণ একটি প্রাচীর সকেট মধ্যে প্লাগ হয় এবং চালু।
+![pi wizard password](images/piwiz3.PNG)
 
-+ মনিটর ক্যাবলটি Pi এর HDMI পোর্টের সাথে সংযুক্ত করুন - প্রয়োজন হলে একটি অ্যাডাপ্টার ব্যবহার করুন।
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-কিছুই এখনো প্রদর্শন করা হবে।
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ আপনি কিছু আছে যদি অডিও জ্যাক হেডফোন বা স্পিকার সংযুক্ত করুন।
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ যদি আপনার কাছে থাকে, তাহলে রাস্তবেরি পাইতে ইথারনেট পোর্টটি সংযোগের জন্য একটি ইথারনেট ক্যাবল ব্যবহার করুন, প্রাচীর বা আপনার রাউটারের একটি ইথারনেট সকেটে। (আপনি যদি এটি ব্যবহার করতে চান তবে আপনি যদি বেতার LAN ব্যবহার করেন তবে আপনি ইন্টারনেট সংযোগ করতে না চান।)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ লক্ষ্য করুন যে মাইক্রো ইউএসবি পাওয়ার পোর্টের শীর্ষে একটি দীর্ঘ সমতল অংশ আছে।
+![pi wizard updating](images/piwiz6.PNG)
 
-বিদ্যুত সরবরাহটি একটি সকেটে প্লাগ করুন এবং এটি মাইক্রো ইউএসবি পাওয়ার পোর্টে সংযুক্ত করুন।
++ Click **Done** or **Reboot** to finish the setup.
 
-![স্ক্রিনশট](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-আপনি মনিটর নেভিগেশন রাস্পবেরি Pi এবং রাস্পবেরি একটি লাল আলো দেখতে হবে।
-
-পাই একটি গ্রাফিকাল ডেস্কটপে বুট হবে।
-
-![স্ক্রিনশট](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
