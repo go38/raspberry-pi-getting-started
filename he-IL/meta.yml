@@ -1,35 +1,35 @@
 ---
-hero_image: תמונות / התחלת- with-raspberry-pi.png
-theme: אָדוֹם
+hero_image: images/getting-started-with-raspberry-pi.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
-title: תחילת העבודה עם פטל פטל
-description: הגדרת Pi שלך פספל ולחקור מה זה יכול לעשות
+title: תחילת העבודה עם הראספברי פאי
+description: הגדר את הרספברי פאי וחקור מה הוא יכול לעשות
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: פאי פטל
-site_areas: פרויקטים
-hardware: פאי פטל
+technologies: raspberry-pi
+site_areas: projects
+hardware: raspberry-pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
-    title: מבוא
+    title: הקדמה
   - 
-    title: מה שאתה תצטרך
+    title: מה תצטרך
   - 
-    title: פגוש את פטל פטל
+    title: פגוש את הראספברי פאי
   - 
-    title: 'האתגר: להסביר את פי פטל'
+    title: Connect your Raspberry Pi
   - 
-    title: לחבר את פי פטל שלך
+    title: Finish the setup
   - 
-    title: סיור של פטל פטל
+    title: גלה את הראספברי פאי שלך
   - 
     title: גלישה באינטרנט
   - 
-    title: 'האתגר: לחקור את פי פטל'
+    title: 'האתגר: לחקור את הראספברי פאי'
