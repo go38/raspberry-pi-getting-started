@@ -1,14 +1,14 @@
-## Was wirst du brauchen
+## Was du brauchen wirst
 
 ### Hardware
 
-+ Ein Raspberry Pi Computer mit einer SD-Karte
++ Einen Raspberry Pi-Computer mit einer SD-Karte
 
-+ Ein Monitor mit einem Kabel (und, falls erforderlich, ein HDMI-Adapter)
++ Einen Monitor mit Anschlusskabel (und, falls erforderlich, einen HDMI-Adapter)
 
 + Eine USB-Tastatur und eine Maus
 
-+ Eine Stromversorgung
++ Ein Netzteil
 
 + Kopfhörer oder Lautsprecher (optional)
 
@@ -16,6 +16,6 @@
 
 ### Software
 
-+ Raspbian, installiert über NOOBS
++ Raspbian, installiert mit NOOBS
 
 [[[noobs-install]]]
