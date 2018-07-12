@@ -1,43 +1,31 @@
-## Yhdistä Raspberry Pi
+## Finish the setup
 
-Liitämme vadelmasi Pi ja saat sen käynnissä.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Tarkista, että Raspberry Pi -laitteessa on jo SD-kortti alapuolella olevassa korttipaikassa, ja jos ei, aseta SD-kortti Raspbian asennettuna (NOOBS). Paljon SD-kortteja tulee suuremman sovittimen sisään, ja voit vetää kortin pois tästä käyttämällä huuli alhaalta.
-    
-    ![kuvakaappaus](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Etsi hiiren USB-liitin ja liitä hiiri yhteen Vadelma Pi -sovittimen USB-porttiin (ei ole väliä, mikä).
-    
-    ![kuvakaappaus](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Liitä näppäimistö samalla tavalla.
-    
-    ![kuvakaappaus](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Katso Raspberry Pi: n HDMI-portti - huomaa, että siinä on suuri litteä puoli ylhäällä.
-    
-    ![kuvakaappaus](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Varmista, että näyttösi on kytketty pistorasiaan ja kytketty päälle.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Liitä näyttökaapeli Pi: n HDMI-porttiin - käytä tarvittaessa sovitinta.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Mikään ei vielä näy.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Liitä kuulokkeet tai kaiuttimet ääniliitäntään, jos sinulla on joitain.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Jos sinulla on yksi, käytä ethernet-kaapelia Raspberry Pi: n ethernet-portin kytkemiseen seinässä tai reitittimessä olevaan Ethernet-liitäntään. (Sinun ei tarvitse tehdä tätä, jos käytät langatonta lähiverkkoa tai jos et halua muodostaa yhteyden Internetiin.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Huomaa, että mikro-USB-virtalähteessä on pidempi tasainen puoli ylhäällä.
+![pi wizard updating](images/piwiz6.PNG)
 
-Kytke virtalähde pistorasiaan ja liitä se mikro-USB-virtalähteeseen.
++ Click **Done** or **Reboot** to finish the setup.
 
-![kuvakaappaus](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Sinun pitäisi nähdä punainen valo Vadelma Pi ja vadelmia näytöllä.
-
-Pi käynnistyy graafiseen työpöytään.
-
-![kuvakaappaus](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
