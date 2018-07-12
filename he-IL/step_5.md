@@ -1,43 +1,31 @@
-## לחבר את פי פטל שלך
+## Finish the setup
 
-ללא שם: בואו לחבר את Pippberry Pi ולקבל אותו פועל.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ בדוק אם יש לך כרטיס ה- SD כבר יש כרטיס SD בחריץ בצד התחתון, ואם לא, הכנס כרטיס SD עם Raspbian מותקן (דרך NOOBS). הרבה כרטיסי SD יבואו בתוך מתאם גדול יותר, ואתה יכול להחליק את הכרטיס מתוך זה באמצעות השפה בתחתית.
-    
-    ![צילום מסך](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ מצא את מחבר ה- USB עבור העכבר, ולחבר את העכבר לאחת יציאת ה- USB על פי פטל (זה לא משנה איזה).
-    
-    ![צילום מסך](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ חבר את המקלדת באותו אופן.
-    
-    ![צילום מסך](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ תסתכל על יציאת HDMI על פי פטל - שים לב כי יש צד שטוח גדול על גבי.
-    
-    ![צילום מסך](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-ודא שהצג מחובר לשקע חשמל והפעל אותו.
+![pi wizard password](images/piwiz3.PNG)
 
-+ חבר את כבל הצג ליציאת -ה HDMI של HDMI - השתמש במתאם במידת הצורך.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-עדיין לא יוצג דבר.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ חבר אוזניות או רמקולים לשקע השמע אם יש לך כמה.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ אם יש לך אחד, השתמש כבל Ethernet כדי לחבר את יציאת Ethernet על פי פספסת לשקע Ethernet על הקיר או על הנתב. (אתה לא צריך לעשות את זה אם אתה משתמש LAN אלחוטי או אם אתה לא רוצה להתחבר לאינטרנט.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ שים לב כי יציאת USB מיקרו USB יש צד שטוח יותר על גבי.
+![pi wizard updating](images/piwiz6.PNG)
 
-חבר את ספק הכוח לשקע וחבר אותו ליציאת המתח של מיקרו USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![צילום מסך](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-אתה צריך לראות אור אדום על פי פטל פטל על הצג.
-
-פי יהיה אתחול לתוך שולחן העבודה הגרפי.
-
-![צילום מסך](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
