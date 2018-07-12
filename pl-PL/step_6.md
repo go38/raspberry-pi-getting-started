@@ -28,7 +28,7 @@ Twój plik został zapisany na karcie SD Raspberry Pi.
 
 + Po ponownym uruchomieniu Pi plik powinien nadal tam być.
 
-+ Raspberry Pi uruchamia wersję systemu operacyjnego o nazwie Linux (Windows i macOS to inne systemy operacyjne). Pozwala to na wykonanie poleceń wpisując polecenia zamiast klikając na opcje menu. Kliknij **Terminal** u góry ekranu:
++ Raspberry Pi uruchamia wersję systemu operacyjnego o nazwie Linux (Windows i macOS to inne systemy operacyjne). It allows you to make things happen by typing commands instead of clicking on menu options. Kliknij **Terminal** u góry ekranu:
 
 ![zrzut ekranu](images/pi-command-prompt.png)
 
