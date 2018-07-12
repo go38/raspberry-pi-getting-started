@@ -1,62 +1,62 @@
-## Eine Tour durch den Raspberry Pi
+## Rund um den Raspberry Pi
 
-Jetzt ist es Zeit für eine Tour durch den Raspberry Pi.
+Jetzt ist es Zeit für eine Tour durch die Funktionen des Raspberry Pi.
 
-+ Sehen Sie, dass Raspberry in der oberen linken Ecke? Dort greifen Sie auf das Menü zu: Klicken Sie darauf und Sie finden viele Anwendungen.
++ Siehst Du die Himbeere in der oberen linken Ecke? Dort greifst Du auf das Menü zu: Klicke darauf und Du findest viele Anwendungen.
 
-+ Klicken Sie auf **Zubehör** und wählen Sie **Texteditor**.
++ Klicke auf **Zubehör** und wähle **Texteditor**.
 
-![Bildschirmfoto](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ Type `Ich habe gerade ein Raspberry Pi` im erscheinenden Fenster erstellt.
++ In das Fenster, das sich nun öffnet, tippe `Ich habe gerade einen Raspberry Pi zusammengebaut.`
 
-![Bildschirmfoto](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ Klicken Sie auf **Datei**, wählen Sie dann **Speichern**, und klicken Sie dann auf **Desktop** und speichern Sie die Datei als `rp.txt`.
++ Klicke auf **Datei**, wähle dann **Speichern**, klicke auf **Desktop** und speichere die Datei als `rp.txt`.
 
-![Bildschirmfoto](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
 + Auf dem Desktop sollte ein Symbol mit dem Namen `rp.txt` angezeigt werden.
 
-![Bildschirmfoto](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-Ihre Datei wurde auf der SD-Karte des Raspberry Pi gespeichert.
+Deine Datei wurde auf der SD-Karte des Raspberry Pi gespeichert.
 
-+ Schließen Sie den Texteditor, indem Sie auf **X** in der oberen rechten Ecke des Fensters klicken.
++ Schließe den Texteditor, indem Du auf **X** in der oberen rechten Ecke des Fensters klickst.
 
-+ Kehren Sie zum Menü "Raspberry" zurück, wählen Sie " **Shutdown**" und dann " **Reboot**".
++ Öffne erneut das "Himbeermenü", klicke auf " **Shutdown**" und dann " **Reboot**".
 
-+ Wenn der Pi neu gestartet wurde, sollte Ihre Datei immer noch da sein.
++ Wenn der Pi neu gestartet wurde, sollte Deine Datei immer noch da sein.
 
-+ Der Raspberry Pi betreibt eine Version eines Betriebssystems namens Linux (Windows und Mac OS sind andere Betriebssysteme). Sie können dies tun, indem Sie Befehle eingeben, anstatt auf die Menüoptionen zu klicken. Klicken Sie auf das **Terminal** oben auf dem Bildschirm:
++ Der Raspberry Pi läuft mit einer Version eines Betriebssystems namens Linux (Windows und Mac OS sind andere Betriebssysteme). It allows you to make things happen by typing commands instead of clicking on menu options. Klicke auf das **Terminal** oben auf dem Bildschirm:
 
-![Bildschirmfoto](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
-+ Geben Sie im folgenden Fenster ein:
-
-    ls
-    
-
-und drücken Sie dann <kbd>Geben Sie</kbd> auf der Tastatur ein.
-
-Dadurch werden die Dateien in Ihrem Verzeichnis `home` aufgelistet.
-
-+ Geben Sie diesen Befehl jetzt **c**hange **d**-Verzeichnis zum Desktop ein:
-
-    CD-Desktop
-    
-
-Sie müssen nach jedem Befehl die Taste <kbd>Enter</kbd> drücken.
-
-Art:
++ Gib in dem sich öffnenden Fenster ein:
 
     ls
     
 
-Können Sie die von Ihnen erstellte Datei sehen?
+und drücke dann <kbd>Enter</kbd> auf der Tastatur.
 
-+ Schließen Sie das Terminalfenster, indem Sie auf **X** klicken.
+Dadurch werden die Dateien in deinem `home`-Verzeichnis aufgelistet.
 
-+ Ziehen Sie nun `rp.txt` in den Papierkorb auf dem Desktop, damit das Pi für die nächste Person bereit ist.
++ Gib jetzt diesen Befehl ein und wechsele in das Verzeichnis (engl: **c**hange **d**irectory) Desktop:
+
+    cd Desktop
     
-    ![Bildschirmfoto](images/pi-waste.png)
+
+Du musst nach jedem Befehl die <kbd>Enter</kbd>-Taste drücken.
+
+Tippe:
+
+    ls
+    
+
+Kannst Du die Datei sehen, die Du vorhin gespeichert hast?
+
++ Schließe das Terminalfenster, indem Du auf **X** klickst.
+
++ Ziehe nun `rp.txt` in den Papierkorb auf dem Desktop, damit der Pi für die nächste Person bereit ist.
+    
+    ![screenshot](images/pi-waste.png)
