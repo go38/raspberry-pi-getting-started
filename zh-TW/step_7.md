@@ -1,35 +1,43 @@
 ## 瀏覽網頁
 
-您可能想要將您的Raspberry Pi連接到互聯網。 如果您沒有插入以太網電纜，則需要連接到無線網絡。
+您可能想要將您的Raspberry Pi連接到互聯網。 If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-要在Raspberry Pi上啟用Wi-Fi，您需要設置Wi-Fi國家/地區。
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![設置wifi國家](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ 從菜單中選擇 **首選項**， **Raspberry Pi配置**。
+\--- collapse \---
 
-+ 點擊 **本地化** 標籤。
+* * *
 
-+ 點擊 **設置WiFi國家** 按鈕。
+## title: Set Wi-Fi Country
 
-![選擇wifi國家](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ 從列表中選擇您的國家，然後點擊 **確定**。
+![set wifi country](images/pi-set-wifi-country.png)
 
-一旦您設置了Wi-Fi國家，您就可以連接到無線網絡。
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ 點擊屏幕右上角紅色十字的圖標，然後從下拉菜單中選擇您的網絡。 您可能需要向成人諮詢您應該選擇哪個網絡。
++ Go to the **Localisation** tab.
 
-![沒有wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + 輸入您的無線網絡密碼，或要求成人為您輸入密碼，然後點擊 **確定**。
 
-![輸入密碼](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + 當您的Pi連接到互聯網時，您將看到無線LAN符號，而不是紅色十字。
 
-![截圖](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + 點擊網頁瀏覽器圖標並蒐索 `樹莓派`。
 
-![截圖](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
