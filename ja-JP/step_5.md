@@ -1,43 +1,31 @@
-## ラズベリーパイを接続します。
+## Finish the setup
 
-ラズベリーパイを接続し、実行させましょう。
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ 既にラズベリーパイが下部のスロットにSDカードがあるかどうかを確認し、なければNOOBSでインストールされたRaspbianのSDカードを挿入してください。 SDカードが大型のアダプター内に含まれている場合、下部からカードを引き出すことができます。
-    
-    ![スクリーンショット](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ マウスのUSBコネクターを見つけて、マウスをラズベリーパイのUSBポートの1つに接続します（どのUSBポートでも大丈夫です）。
-    
-    ![スクリーンショット](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ 同じ方法でキーボードを接続してください。
-    
-    ![スクリーンショット](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ ラズベリーパイのHDMIポートを見てください - 上に大きな平らな側面があります。
-    
-    ![スクリーンショット](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-モニターを壁のコンセントに接続され、電源が入っていることを確認してください。
+![pi wizard password](images/piwiz3.PNG)
 
-+ モニタ－ケーブルをパイのHDMIポートに接続します。必要に応じてアダプターを使用します。
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-まだ画面には何も表示されません。
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ ヘッドフォン、またはスピーカーをオーディオジャックに接続してください。
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ 持っている場合、イーサネットケーブルを使用して、ラズベリーパイのイーサネットポートを壁、またはルーターのイーサネットソケットに接続します。 （無線LANを使用する場合や、インターネットに接続したくない場合は、これを行う必要はありません）。
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ マイクロUSB電源ポートの上部には平らな側面があります。
+![pi wizard updating](images/piwiz6.PNG)
 
-電源をコンセントに差し込み、マイクロUSB電源ポートに接続します。
++ Click **Done** or **Reboot** to finish the setup.
 
-![スクリーンショット](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-ラズベリーパイに赤い光と画面にラズベリーパイが表示されます。
-
-パイは、グラフィカルデスクトップに起動します。
-
-![スクリーンショット](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
