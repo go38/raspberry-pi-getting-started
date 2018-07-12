@@ -28,7 +28,7 @@ Vaša je datoteka spremljena na SD karticu Raspberry Pi.
 
 + Kada se Pi ponovo pokrenuo, datoteka bi trebala ostati tamo.
 
-+ Raspberry Pi pokreće verziju operacijskog sustava pod nazivom Linux (Windows i MacOS su drugi operacijski sustavi). To vam omogućuje da se dogodi tako da upišete naredbe umjesto da kliknete na opcije izbornika. Kliknite na **terminala** pri vrhu zaslona:
++ Raspberry Pi pokreće verziju operacijskog sustava pod nazivom Linux (Windows i MacOS su drugi operacijski sustavi). It allows you to make things happen by typing commands instead of clicking on menu options. Kliknite na **terminala** pri vrhu zaslona:
 
 ![zaslona](images/pi-command-prompt.png)
 
