@@ -10,7 +10,7 @@ Să aruncăm o privire la Raspberry Pi. Pentru asta vei avea nevoie de un calcul
 
 + **SD card slot** — bagă cardul SD aici. Aici este locul unde se găsesc stocate, programul si fișierele tale.
 
-+ **Portul Ethernet** - acesta se utilizează pentru a conecta Raspberry Pi la o rețea cu un cablu. Raspberry Pi se poate conecta, de asemenea, la o rețea prin LAN fără fir.
++ **Portul Ethernet** - acesta se utilizează pentru a conecta Raspberry Pi la o rețeaua de internet prin cablu. Raspberry Pi se poate conecta, de asemenea, la o rețea internet LAN, fără fir.
 
 + **Mufă audio** - puteți conecta aici căști sau difuzoare.
 
