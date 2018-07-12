@@ -1,43 +1,31 @@
-## Cysylltwch eich Pi Mws
+## Finish the setup
 
-Gadewch i ni gysylltu â'ch Mws Mws a'i roi ar waith.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Gwiriwch a oes gan eich Mwg Môr cerdyn SD eisoes yn y slot ar y llawr, ac os nad ydyw, rhowch gerdyn SD gyda Raspbian wedi'i osod (trwy NOOBS). Bydd llawer o gardiau SD yn dod i mewn i addasydd mwy, a gallwch chi sleidio'r cerdyn allan o hyn gan ddefnyddio'r gwefus ar y gwaelod.
-    
-    ![screenshot](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Dod o hyd i'r cysylltydd USB ar gyfer eich llygoden, a chysylltwch y llygoden i un o'r porthladd USB ar y Mws Mws (nid yw'n bwysig pa un).
-    
-    ![screenshot](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Cysylltwch y bysellfwrdd yn yr un modd.
-    
-    ![screenshot](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Edrychwch ar y porthladd HDMI ar y Mws Môr - rhowch wybod bod ganddo ochr fawr fflat ar ei ben.
-    
-    ![screenshot](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Gwnewch yn siŵr fod eich monitor wedi'i blygio i mewn i soced wal a'i droi ymlaen.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Cysylltwch y cebl monitor i'r porthladd Pi's HDMI - defnyddiwch addasydd os oes angen.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Ni fydd dim yn arddangos eto.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Cysylltwch glustffonau neu siaradwyr â'r jack sain os oes gennych rai.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Os oes gennych chi un, defnyddiwch gebl ethernet i gysylltu porthladd ethernet ar y Mws Mws i soced ethernet ar y wal neu ar eich llwybrydd. (Nid oes angen i chi wneud hyn os byddwch chi'n defnyddio LAN diwifr neu os nad ydych am gysylltu â'r rhyngrwyd.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Rhowch wybod bod gan y porthladd pŵer USB micro ochr fwy gwastad ar ei ben.
+![pi wizard updating](images/piwiz6.PNG)
 
-Ychwanegwch y cyflenwad pŵer i mewn i soced a'i gysylltu â'r porthladd pŵer USB micro.
++ Click **Done** or **Reboot** to finish the setup.
 
-![screenshot](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Dylech chi weld golau coch ar y Mwg Môr a mafon ar y monitor.
-
-Bydd y Pi yn cychwyn mewn bwrdd gwaith graffigol.
-
-![screenshot](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
