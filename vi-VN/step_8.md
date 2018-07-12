@@ -1,8 +1,8 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: khám phá Raspberry Pi
+## Thử thách: khám phá Raspberry Pi
 
-Tham quan thực đơn - bạn có thể tìm thấy:
+Khám phá menu - bạn có thể tìm thấy:
 
 + Một phiên bản của Scratch?
 
@@ -10,4 +10,4 @@ Tham quan thực đơn - bạn có thể tìm thấy:
 
 + Một phiên bản Minecraft mà bạn có thể lập trình?
 
-\--- /thử thách \---
+\--- /challenge \---
