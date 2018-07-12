@@ -2,7 +2,7 @@
 
 ### Hardware
 
-+ Un computer Raspberry Pi con una scheda SD
++ Un computer Raspberry Pi con una scheda di memoria SD
 
 + Un monitor con un cavo (e, se necessario, un adattatore HDMI)
 
