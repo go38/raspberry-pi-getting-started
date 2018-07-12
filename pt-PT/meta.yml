@@ -14,7 +14,7 @@ technologies: Raspberry Pi
 site_areas: projetos
 hardware: Raspberry Pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: Conheça o Raspberry Pi
   - 
-    title: 'Desafio: explique o Raspberry Pi'
+    title: Connect your Raspberry Pi
   - 
-    title: Ligue o seu Raspberry Pi
+    title: Finish the setup
   - 
     title: Um passeio pelo Raspberry Pi
   - 
