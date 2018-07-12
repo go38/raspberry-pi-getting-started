@@ -1,26 +1,26 @@
-## Connect your Raspberry Pi
+## Kết nối Raspberry Pi của bạn
 
-Let's connect up your Raspberry Pi and get it running.
+Hãy kết nối Raspberry Pi của bạn và khởi động nó.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
++ Kiểm tra xem Raspberry Pi của bạn đã có thẻ SD trong khe cắm ở mặt dưới chưa và nếu không, hãy lắp thẻ SD có cài đặt Raspbian (qua NOOBS).
     
     ![screenshot](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Lưu ý:** Rất nhiều thẻ micro SD sẽ nằm bên trong một thẻ chuyển đổi lớn hơn - bạn có thể trượt thẻ ra ở phía dưới.
 
 ![sd card holder](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Tìm cáp USB cho chuột của bạn và kết nối chuột với cổng USB trên Raspberry Pi (không quan trọng cái nào).
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Tương tự, kết nối bàn phím.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Nhìn vào cổng HDMI trên Raspberry Pi - chú ý rằng nó có một mặt phẳng lớn ở trên cùng.
     
     ![screenshot](images/pi-hdmi.png)
 
