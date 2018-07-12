@@ -1,35 +1,35 @@
 ---
-hero_image: images / Začíname s-s-malinovou-pi.png
-theme: červená
+hero_image: images/getting-started-with-raspberry-pi.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, dizajn-0, programovanie-0, phys-comp-1, výroba-0, komunita-0
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
 title: Začíname s Raspberry Pi
-description: Nastavte si Raspberry Pi a preskúmajte, čo môže urobiť
+description: Spojazdnite si vaše Raspberry Pi a preskúmajte, čo všetko dokáže
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: malinový koláč
-site_areas: projekty
-hardware: malinový koláč
+technologies: raspberry-pi
+site_areas: projects
+hardware: raspberry-pi
 software: ''
-version: 3
-last_tested: 01.1.2017
+version: 4.1.0
+last_tested: 2017-01-01
 steps:
   - 
-    title: úvod
+    title: Úvod
   - 
     title: Čo budete potrebovať
   - 
     title: Zoznámte sa s Raspberry Pi
   - 
-    title: 'Výzva: vysvetliť Raspberry Pi'
+    title: Connect your Raspberry Pi
   - 
-    title: Pripojte svoje Raspberry Pi
+    title: Finish the setup
   - 
     title: Prehliadka Raspberry Pi
   - 
     title: Prehliadanie webu
   - 
-    title: 'Výzva: preskúmajte Raspberry Pi'
+    title: 'Úloha: Preskúmajte Raspberry Pi'
