@@ -1,18 +1,18 @@
-## Connect your Raspberry Pi
+## Zapojte svoje Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Poďme zapojiť a spustiť vaše Raspberry Pi.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
++ Skontrolujte, či vaše Raspberry Pi už má SD kartu v slote na spodnej strane a ak nie, tak do neho zasuňte SD kartu s nainštalovaným systémom Raspbian (cez NOOBS).
     
     ![screenshot](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+Veľa SD kariet je dodávaných vo vnútri väčšieho adaptéra. SD kartu vtedy musíte vytiahnuť von ťahaním za jej okraj.
 
 ![sd card holder](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Vezmite USB konektor vašej myši a pripojte ho k niektorému z USB portov na Raspberry Pi (nezáleží na tom, do ktorého z nich).
     
     ![screenshot](images/pi-mouse.png)
 
@@ -20,15 +20,15 @@ Let's connect up your Raspberry Pi and get it running.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Pozrite sa na HDMI port na Raspberry Pi - všimnite si, že má širšiu stranu hore.
     
     ![screenshot](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Uistite sa, že je váš monitor zapojený do zásuvky, a že je zapnutý.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Pripojte kábel monitora do HDMI portu Raspberry Pi - v prípade potreby použite adaptér.
 
-Nothing will display yet.
+Zatiaľ sa nič nezobrazí.
 
 + If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
 
@@ -38,14 +38,14 @@ Nothing will display yet.
 
 ![headphones](images/pi-headphones.png)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Všimnite si, že napájací port micro USB má širšiu rovnú stranu hore.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Zapojte napájací zdroj do zásuvky a pripojte ho do napájacieho micro USB portu.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Na Raspberry Pi by ste mali vidieť svietiť červené svetlo a na monitore maliny.
 
-The Pi will boot up into a graphical desktop.
+Raspberry Pi sa spustí do grafického používateľského rozhrania.
 
 ![screenshot](images/pi-desktop.png)
