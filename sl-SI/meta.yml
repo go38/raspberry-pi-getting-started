@@ -14,7 +14,7 @@ technologies: malina-pi
 site_areas: projektov
 hardware: malina-pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: Spoznajte Malinko Pi
   - 
-    title: 'Izziv: pojasnite Raspberry Pi'
+    title: Connect your Raspberry Pi
   - 
-    title: Povežite svojo Raspberry Pi
+    title: Finish the setup
   - 
     title: Ogled Raspberry Pi
   - 
