@@ -30,11 +30,11 @@ Uistite sa, že je váš monitor zapojený do zásuvky, a že je zapnutý.
 
 Zatiaľ sa nič nezobrazí.
 
-+ Ak chcete pripojiť Pi do siete internet cez ethernet, použite ethernetový kábel na pripojenie ethernetového portu na Raspberry Pi do ethernetovej zásuvky na stene alebo do vášho smerovača. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Ak chcete pripojiť Pi do siete internet cez ethernet, použite ethernetový kábel na pripojenie ethernetového portu na Raspberry Pi do ethernetovej zásuvky na stene alebo do vášho smerovača. Nemusíte to však urobiť, ak budete používať WiFi alebo ak sa do internetu nechcete pripojiť.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Zvuk bude vychádzať z reproduktorov vašej obrazovky ak ich má, alebo ak máte nejaké slúchadlá alebo reproduktory, môžete ich zapojiť do audio konektora.
 
 ![headphones](images/pi-headphones.png)
 
