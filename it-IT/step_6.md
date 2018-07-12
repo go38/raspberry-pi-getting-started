@@ -1,62 +1,62 @@
-## Un tour del Raspberry Pi
+## Dentro il Raspberry Pi
 
-Ora è il momento di fare un tour del Raspberry Pi.
+Facciamo un giro all'interno del Raspberry Pi.
 
-+ Vedi che Raspberry in alto nell'angolo in alto a sinistra? È lì che accedi al menu: fai clic su di esso e troverai molte applicazioni.
++ Vedi l'icona a forma di lampone (in inglese raspberry!) nell'angolo in alto a sinistra dello schermo? È lì che puoi accedere al menu del desktop: fai clic sull'icona per visualizzare le applicazioni.
 
-+ Fare clic su **Accessori** e selezionare **Editor di testo**.
++ Fai click su **Accessori** e seleziona **Editor di testo**.
 
-![immagine dello schermo](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ Digita `Ho appena creato un Raspberry Pi` nella finestra che appare.
++ Digita `Ho appena assemblato un computer Raspberry Pi` nella finestra che appare.
 
-![immagine dello schermo](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ Fare clic su **File**, quindi selezionare **Salva**, quindi fare clic su **Desktop** e salvare il file come `rp.txt`.
++ Fai click su **File**, seleziona **Salva**, e poi fai click su **Desktop**. Salva il file come `rp.txt`.
 
-![immagine dello schermo](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
-+ Dovresti vedere un'icona chiamata `rp.txt` apparire sul desktop.
++ Una nuova icona chiamata `rp.txt` dovrebbe apparire sul desktop.
 
-![immagine dello schermo](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-Il tuo file è stato salvato nella scheda SD di Raspberry Pi.
+Il tuo file è stato salvato nella scheda di memoria SD del Raspberry Pi.
 
-+ Chiudi l'editor di testo facendo clic su **X** nell'angolo in alto a destra della finestra.
++ Chiudi l'editor di testo facendo clic sulla **x** che si trova nell'angolo in alto a destra della finestra.
 
-+ Ritorna al menu Raspberry, scegli **Shutdown**, quindi scegli **Riavvia**.
++ Ritorna al menu principale, clicca su **Spegni**, e seleziona **Riavvia**.
 
-+ Quando il Pi si è riavviato, il tuo file dovrebbe essere ancora lì.
++ Dopo aver riavviato il computer, il tuo file dovrebbe essere ancora lì.
 
-+ Il Raspberry Pi esegue una versione di un sistema operativo chiamato Linux (Windows e macOS sono altri sistemi operativi). Ti consente di farlo digitando i comandi invece di fare clic sulle opzioni di menu. Fai clic sul **Terminal** nella parte superiore dello schermo:
++ Il Raspberry Pi funziona con una particolare versione di un sistema operativo chiamato Linux (Windows e macOS sono altri sistemi operativi). It allows you to make things happen by typing commands instead of clicking on menu options. Fai clic sul **Terminale** nella parte superiore dello schermo:
 
-![immagine dello schermo](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
 + Nella finestra che appare, digita:
 
     ls
     
 
-quindi premi <kbd>Inserisci</kbd> sulla tastiera.
+e premi il tasto <kbd>Invio</kbd> sulla tastiera.
 
-Questo elencherà i file nella tua `directory home`.
+Questo comando ti mostrerà l'elenco dei file presenti nella tua `cartella home`.
 
-+ Ora scrivi questo comando su **c**hange **d**irectory sul desktop:
++ Ora scrivi questo comando per cambiare cartella, ad esempio passando al desktop:
 
     cd Desktop
     
 
-È necessario premere il <kbd>Immettere</kbd> chiave dopo ogni comando.
+<kbd>cd</kbd> sta per <0>c</0>hange <0>d</0>irectory, ovvero <0>cambia cartella</0>. Ricorda di premere il tasto <0>Invio</0> dopo ogni comando.
 
-Genere:
+Scrivi:
 
     ls
     
 
 Riesci a vedere il file che hai creato?
 
-+ Chiudere la finestra del terminale facendo clic su **X**.
++ Chiudi la finestra del terminale facendo clic sulla **x** in alto a destra.
 
-+ Ora trascina `rp.txt` nel cestino dei rifiuti sul desktop in modo che il Pi sia pronto per la persona successiva.
++ Ora trascina `rp.txt` nel Cestino che si trova sul desktop, per lasciare libero il Raspberry Pi per il prossimo utente.
     
-    ![immagine dello schermo](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
