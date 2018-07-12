@@ -1,43 +1,31 @@
-## Verbinde deinen Raspberry Pi
+## Finish the setup
 
-Lass uns deinen Raspberry Pi anschließen und ihn zum Laufen bringen.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Prüfen Sie, ob Ihr Raspberry Pi bereits eine SD-Karte im Steckplatz an der Unterseite hat und falls nicht, stecken Sie eine SD-Karte mit installiertem Raspbian (via NOOBS) ein. Viele SD-Karten kommen in einen größeren Adapter, und Sie können die Karte mit der Lippe unten herausziehen.
-    
-    ![Bildschirmfoto](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Suchen Sie den USB-Anschluss für Ihre Maus und verbinden Sie die Maus mit einem der USB-Anschlüsse am Raspberry Pi (egal welcher).
-    
-    ![Bildschirmfoto](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Schließen Sie die Tastatur auf die gleiche Weise an.
-    
-    ![Bildschirmfoto](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Sehen Sie sich den HDMI-Anschluss des Raspberry Pi an - beachten Sie, dass er oben eine große flache Seite hat.
-    
-    ![Bildschirmfoto](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Stellen Sie sicher, dass Ihr Monitor an eine Steckdose angeschlossen und eingeschaltet ist.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Verbinden Sie das Monitorkabel mit dem HDMI-Anschluss des Pi - verwenden Sie bei Bedarf einen Adapter.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Nichts wird noch angezeigt.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Schließen Sie Kopfhörer oder Lautsprecher an die Audiobuchse an, wenn Sie welche haben.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Wenn Sie eines haben, verwenden Sie ein Ethernet-Kabel, um den Ethernet-Port des Raspberry Pi mit einer Ethernet-Buchse an der Wand oder an Ihrem Router zu verbinden. (Sie müssen dies nicht tun, wenn Sie WLAN verwenden oder wenn Sie keine Verbindung zum Internet herstellen möchten.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Beachten Sie, dass der Micro-USB-Stromanschluss eine längere flache Seite oben hat.
+![pi wizard updating](images/piwiz6.PNG)
 
-Stecken Sie das Netzteil in eine Steckdose und verbinden Sie es mit dem Micro-USB-Stromanschluss.
++ Click **Done** or **Reboot** to finish the setup.
 
-![Bildschirmfoto](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Sie sollten ein rotes Licht auf dem Raspberry Pi und Himbeeren auf dem Monitor sehen.
-
-Das Pi bootet in einen grafischen Desktop.
-
-![Bildschirmfoto](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
