@@ -1,43 +1,31 @@
-## अपने रास्पबेरी पीआई कनेक्ट करें
+## Finish the setup
 
-आइए अपने रास्पबेरी पीआई को कनेक्ट करें और इसे चलें।
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ जांचें कि क्या आपके रास्पबेरी पीआई के पास पहले से ही स्लॉट में एक एसडी कार्ड है, और यदि नहीं, तो रास्पियन स्थापित (एनओबीबीएस के माध्यम से) के साथ एक एसडी कार्ड डालें। बहुत से एसडी कार्ड एक बड़े एडाप्टर के अंदर आ जाएंगे, और आप नीचे से होंठ का उपयोग कर कार्ड को स्लाइड कर सकते हैं।
-    
-    ![स्क्रीनशॉट](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ अपने माउस के लिए यूएसबी कनेक्टर पाएं, और माउस को रास्पबेरी पीआई पर यूएसबी पोर्ट में से एक से कनेक्ट करें (इससे कोई फर्क नहीं पड़ता)।
-    
-    ![स्क्रीनशॉट](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ कीबोर्ड को उसी तरह से कनेक्ट करें।
-    
-    ![स्क्रीनशॉट](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ रास्पबेरी पीआई पर एचडीएमआई पोर्ट देखें - ध्यान दें कि इसकी शीर्ष पर एक बड़ी फ्लैट पक्ष है।
-    
-    ![स्क्रीनशॉट](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-सुनिश्चित करें कि आपका मॉनीटर दीवार सॉकेट में प्लग हो गया है और चालू है।
+![pi wizard password](images/piwiz3.PNG)
 
-+ मॉनिटर केबल को पीआई के एचडीएमआई पोर्ट से कनेक्ट करें - यदि आवश्यक हो तो एडाप्टर का उपयोग करें।
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-अभी तक कुछ भी प्रदर्शित नहीं होगा।
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ यदि आपके पास कुछ है तो ऑडियो जैक से हेडफ़ोन या स्पीकर कनेक्ट करें।
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ यदि आपके पास कोई है, तो ईथरनेट केबल का उपयोग रास्पबेरी पीआई पर दीवार पर या अपने राउटर पर ईथरनेट सॉकेट से कनेक्ट करने के लिए करें। (यदि आप वायरलेस लैन का उपयोग करेंगे या आप इंटरनेट से कनेक्ट नहीं करना चाहते हैं तो आपको ऐसा करने की आवश्यकता नहीं है।)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ ध्यान दें कि माइक्रो यूएसबी पावर पोर्ट में शीर्ष पर एक लंबा फ्लैट पक्ष है।
+![pi wizard updating](images/piwiz6.PNG)
 
-बिजली की आपूर्ति को सॉकेट में प्लग करें और इसे माइक्रो यूएसबी पावर पोर्ट से कनेक्ट करें।
++ Click **Done** or **Reboot** to finish the setup.
 
-![स्क्रीनशॉट](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-आपको मॉनिटर पर रास्पबेरी पाई और रास्पबेरी पर लाल रोशनी दिखाई देनी चाहिए।
-
-पीआई एक ग्राफिकल डेस्कटॉप में बूट हो जाएगा।
-
-![स्क्रीनशॉट](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
