@@ -16,6 +16,6 @@ Acest proiect acoperă elemente din următoarele componente [Raspberry Pi Digita
 
 ### Informații suplimentare pentru educatori
 
-Dacă aveți nevoie să imprimați acest proiect, vă rugăm să utilizați [versiunea prietenă pentru imprimantă](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
+Dacă aveți nevoie să imprimați acest proiect, vă rugăm să utilizați [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Utilizați link-ul din subsolul paginii pentru a accesa depozitul GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul "en / resources".
+Utilizați link-ul din subsolul paginii pentru a accesa depozitul GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul "en/resources".
