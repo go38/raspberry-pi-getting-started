@@ -1,6 +1,6 @@
 ## Prehliadanie webu
 
-Možno budete chcieť pripojiť svoje Raspberry Pi na internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+Možno budete chcieť pripojiť svoje Raspberry Pi na internet. Ak ste počas inštalácie nepripojili ethernetový kábel alebo ste sa nepripojili na WiFi sieť, môžete sa pripojiť teraz.
 
 + Kliknite na ikonu s červenými krížikmi v pravom hornom rohu obrazovky a z rozbaľovacej ponuky vyberte svoju sieť. Možno sa budete potrebovať opýtať príslušnej zodpovednej osoby, ku ktorej sieti sa môžete pripojiť.
 
