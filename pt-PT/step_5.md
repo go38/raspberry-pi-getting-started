@@ -1,43 +1,31 @@
-## Ligue o seu Raspberry Pi
+## Finish the setup
 
-Vamos conectar seu Raspberry Pi e colocá-lo em funcionamento.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Verifique se o seu Raspberry Pi já tem um cartão SD no slot na parte inferior, e se não, insira um cartão SD com Raspbian instalado (via NOOBS). Muitos cartões SD vêm dentro de um adaptador maior, e você pode deslizar o cartão para fora usando o lábio na parte inferior.
-    
-    ![captura de tela](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Encontre o conector USB para o mouse e conecte o mouse a uma das portas USB do Raspberry Pi (não importa qual delas).
-    
-    ![captura de tela](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Conecte o teclado da mesma maneira.
-    
-    ![captura de tela](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Olhe para a porta HDMI no Raspberry Pi - observe que ele tem um grande lado plano no topo.
-    
-    ![captura de tela](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Certifique-se de que seu monitor esteja conectado a uma tomada de parede e ligado.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Conecte o cabo do monitor à porta HDMI do Pi - use um adaptador, se necessário.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Nada será exibido ainda.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Conecte fones de ouvido ou alto-falantes ao conector de áudio, se houver algum.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Se você tiver um, use um cabo ethernet para conectar a porta ethernet do Raspberry Pi a um soquete ethernet na parede ou no roteador. (Você não precisa fazer isso se estiver usando LAN sem fio ou se não quiser se conectar à Internet.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Observe que a porta de energia micro USB tem um lado plano mais longo na parte superior.
+![pi wizard updating](images/piwiz6.PNG)
 
-Conecte a fonte de alimentação a um soquete e conecte-a à porta de energia micro USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![captura de tela](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Você deve ver uma luz vermelha no Raspberry Pi e framboesas no monitor.
-
-O Pi será inicializado em um desktop gráfico.
-
-![captura de tela](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
