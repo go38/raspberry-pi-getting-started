@@ -6,15 +6,15 @@ Keď vaše Raspberry Pi spustíte prvýkrát, spustí sa aplikácia **Welcome to
 
 + Kliknutím na tlačidlo **Next** sa spustí nastavenie.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Nastavte svoju krajinu (**Country**), jazyk (**Language**), a časovú zónu (**Timezone**) a znovu kliknite na tlačidlo **Next**.
 
 ![pi wizard country](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Zadajte nové heslo pre vaše Raspberry Pi a kliknite na tlačidlo **Next**.
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Pripojte sa k vašej WiFi siete zvolením jej názvu, zadaním hesla a kliknite na tlačidlo **Next**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
