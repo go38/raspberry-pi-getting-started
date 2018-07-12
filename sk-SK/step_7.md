@@ -1,35 +1,43 @@
 ## Prehliadanie webu
 
-Možno budete chcieť pripojiť svoje Raspberry Pi na internet. Ak ste nepripojili ethernetový kábel, budete sa musieť pripojiť k bezdrôtovej sieti.
+Možno budete chcieť pripojiť svoje Raspberry Pi na internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Ak chcete povoliť Wi-Fi na vašom Raspberry Pi, musíte nastaviť krajinu Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![nastaviť wifi krajinu](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ V ponuke vyberte **Predvoľby**, **Konfigurácia maliny Pi**.
+\--- collapse \---
 
-+ Kliknite na kartu **Lokalizácia**.
+* * *
 
-+ Kliknite na tlačidlo **Nastavenie tlačidla WiFi krajiny**.
+## title: Set Wi-Fi Country
 
-![vyberte krajinu wifi](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ Vyberte svoju krajinu zo zoznamu a kliknite na **OK**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-Po nastavení siete Wi-Fi sa môžete pripojiť k bezdrôtovej sieti.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Kliknite na ikonu s červenými krížikmi v pravom hornom rohu obrazovky av rozbaľovacej ponuke vyberte svoju sieť. Možno budete musieť požiadať dospelú, ktorú sieť by ste si mali vybrať.
++ Go to the **Localisation** tab.
 
-![Bez wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
 
-+ Zadajte heslo pre bezdrôtovú sieť alebo požiadajte dospelého, aby ho zadal, a potom kliknite na **OK**.
+![select wifi country](images/pi-select-wifi-country.png)
 
-![Zadajte heslo](images/type-password.png)
++ Select your country from the list and click **OK**.
 
-+ Keď je vaše zariadenie Pi pripojené k internetu, namiesto červených krížikov sa zobrazí symbol bezdrôtovej siete LAN.
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
+
++ Zadajte heslo pre prístup do vašej bezdrôrovej siete alebo o to poproste príslušnú zodpovednú osobu a následne kliknite na **OK**.
+
+![Type in password](images/type-password.png)
+
++ Keď sa vaše Pi pripojí do internetu, namiesto červených krížikov uvidíte symbol bezdrôtovej LAN siete.
 
 ![screenshot](images/pi-wifi.png)
 
-+ Kliknite na ikonu webového prehliadača a vyhľadajte `malinový pi`.
++ Kliknite na ikonu webového prehliadača a vyhľadajte `raspberry pi`.
 
 ![screenshot](images/pi-browser.png)
