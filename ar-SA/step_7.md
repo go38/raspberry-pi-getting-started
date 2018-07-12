@@ -1,35 +1,43 @@
 ## تصفح الإنترنت
 
-قد ترغب في توصيل جهاز Raspberry Pi بالإنترنت. إذا لم تقم بتوصيل كابل Ethernet ، فستحتاج إلى الاتصال بشبكة لاسلكية.
+قد ترغب في توصيل جهاز Raspberry Pi بالإنترنت. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-لتمكين Wi-Fi على جهاز Raspberry Pi ، ستحتاج إلى تعيين بلد Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![مجموعة واي فاي بلد](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ حدد **Preferences**، **Raspberry Pi Configuration** من القائمة.
+\--- collapse \---
 
-+ انقر فوق علامة التبويب **الترجمة**.
+* * *
 
-+ انقر فوق الزر **Set WiFi Country**.
+## title: Set Wi-Fi Country
 
-![حدد دولة واي فاي](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ حدد بلدك من القائمة وانقر فوق **موافق**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-بمجرد تعيين بلد Wi-Fi ، يمكنك الاتصال بشبكة لاسلكية.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ انقر على الرمز الذي يحتوي على علامات حمراء في الجانب العلوي الأيسر من الشاشة ، وحدد شبكتك من القائمة المنسدلة. قد تحتاج أن تطلب من شخص بالغ أي شبكة يجب أن تختارها.
++ Go to the **Localisation** tab.
 
-![لا واي فاي](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + اكتب كلمة المرور الخاصة بشبكتك اللاسلكية ، أو اطلب من شخص بالغ أن يكتبها لك ، ثم انقر فوق **موافق**.
 
-![اكتب كلمة المرور](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + عندما يتم توصيل جهاز Pi الخاص بك بالإنترنت ، سترى رمز الشبكة المحلية اللاسلكية بدلاً من علامات الصليب الأحمر.
 
-![لقطة شاشة](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + انقر فوق رمز متصفح الويب وابحث عن `raspberry pi`.
 
-![لقطة شاشة](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
