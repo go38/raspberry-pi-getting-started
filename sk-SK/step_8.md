@@ -1,13 +1,13 @@
-\--- výzva \---
+\--- challenge \---
 
-## Výzva: preskúmajte Raspberry Pi
+## Úloha: Preskúmajte Raspberry Pi
 
-Prehliadnite si ponuku - môžete nájsť:
+Spravte si prehliadku menu a zistite:
 
-+ Verzia Scratch?
++ Akú verziu má Scratch?
 
-+ Python hra hrať?
++ Akú hru v jazyku Python si môžete zahrať?
 
-+ Verziu programu Minecraft, ktorú môžete naprogramovať?
++ Aká je verzia programu Minecraft, ktorý môžete programovať?
 
-\--- /výzva \---
+\--- /challenge \---
