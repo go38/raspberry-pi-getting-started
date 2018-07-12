@@ -1,6 +1,6 @@
 ---
 hero_image: images/getting-started-with-raspberry-pi.png
-theme: 红
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -14,7 +14,7 @@ technologies: 树莓派
 site_areas: 项目
 hardware: 树莓派
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017年1月1日
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: 认识树莓派
   - 
-    title: '挑战：解释树莓派'
+    title: Connect your Raspberry Pi
   - 
-    title: 连接你的树莓派
+    title: Finish the setup
   - 
     title: 树莓派导览
   - 
