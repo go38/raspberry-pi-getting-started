@@ -1,8 +1,8 @@
 ## Ce vei avea nevoie
 
-### Hardware
+### Diapozitive
 
-+ Un computer de zmeură Pi cu un card SD
++ Un calculator Raspberry Pi și un card de memorie SD
 
 + Un monitor cu un cablu (și, dacă este necesar, un adaptor HDMI)
 
@@ -14,7 +14,7 @@
 
 + Un cablu ethernet (opțional)
 
-### Software-ul
+### Programul
 
 + Raspbian, instalat prin NOOBS
 
