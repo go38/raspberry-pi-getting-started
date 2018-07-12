@@ -1,26 +1,26 @@
-## Connect your Raspberry Pi
+## Conectează-ți Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Haide să ne conectăm la Raspberry Pi și să-i dăm drumul.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
++ Verificați dacă Raspberry Pi are deja o cartelă SD în slotul din partea inferioară și, dacă nu, introduceți un card SD cu Raspbian instalat (prin intermediul NOOBS).
     
     ![screenshot](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Note:** Majoritatea cardurilor de memorie micro SD cards se livrează în interiorul adaptorului mare — poti scoate cardul afara trăgând de buza de la capat.
 
 ![sd card holder](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Găsește portul USB pentru mouse, și conectează-l la unul din porturile USB din Raspberry Pi (nu contează care).
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Conectează tastatura exact în același mod.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Uită-te cu atenție la portul HDMI din Raspberry Pi - observă partea dreapta lungă de sus.
     
     ![screenshot](images/pi-hdmi.png)
 
