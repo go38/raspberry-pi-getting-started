@@ -14,7 +14,7 @@ technologies: raspberry-pi
 site_areas: projecten
 hardware: raspberry-pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: Maak kennis met de Raspberry Pi
   - 
-    title: 'Uitdaging: leg uit wat de Raspberry Pi is'
+    title: Connect your Raspberry Pi
   - 
-    title: Verbind je Raspberry Pi
+    title: Finish the setup
   - 
     title: Een Raspberry Pi rondleiding
   - 
