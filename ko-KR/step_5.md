@@ -1,43 +1,31 @@
-## 라즈베리 파이 연결
+## Finish the setup
 
-라즈베리 파이를 연결하고 실행 해 봅시다.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Raspberry Pi에 이미 밑면의 슬롯에 SD 카드가 있는지 확인하고 그렇지 않은 경우 Raspbian이 설치된 SD 카드를 삽입하십시오 (NOOBS를 통해). 더 큰 어댑터 안에는 많은 SD 카드가 들어가고 하단의 립을 사용하여 카드를 밀어 낼 수 있습니다.
-    
-    ![스크린 샷](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ 마우스의 USB 커넥터를 찾고 마우스를 Raspberry Pi의 USB 포트 중 하나에 연결하십시오 (어느 것이 든 상관 없습니다).
-    
-    ![스크린 샷](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ 동일한 방법으로 키보드를 연결하십시오.
-    
-    ![스크린 샷](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Raspberry Pi의 HDMI 포트를 살펴보십시오. 상단에 대형 평평한면이 있습니다.
-    
-    ![스크린 샷](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-모니터가 콘센트에 꽂혀 있고 전원이 켜져 있는지 확인하십시오.
+![pi wizard password](images/piwiz3.PNG)
 
-+ 모니터 케이블을 Pi의 HDMI 포트에 연결하십시오 - 필요한 경우 어댑터를 사용하십시오.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-아무것도 표시되지 않습니다.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ 헤드폰이나 스피커를 오디오 잭에 연결하십시오.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ 가지고있는 경우, 이더넷 케이블을 사용하여 라즈베리 파이의 이더넷 포트를 벽이나 라우터의 이더넷 소켓에 연결하십시오. 무선 LAN을 사용하거나 인터넷에 연결하지 않으려는 경우에는이 작업을 수행 할 필요가 없습니다.
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ 마이크로 USB 전원 포트는 평평한 쪽이 길게되어 있습니다.
+![pi wizard updating](images/piwiz6.PNG)
 
-전원 공급 장치를 소켓에 꽂고 마이크로 USB 전원 포트에 연결하십시오.
++ Click **Done** or **Reboot** to finish the setup.
 
-![스크린 샷](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-모니터의 라스베리 파이와 라스베리에 빨간색 표시등이 켜져 있어야합니다.
-
-Pi는 그래픽 데스크탑으로 부팅됩니다.
-
-![스크린 샷](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
