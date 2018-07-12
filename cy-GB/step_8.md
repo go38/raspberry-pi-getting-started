@@ -1,13 +1,13 @@
-\--- her \---
+\--- challenge \---
 
-## Her: archwiliwch y Mws Mws
+## Her: mynd i'r afael â'r Raspberry Pi
 
-Ewch ar daith o gwmpas y fwydlen - a allwch chi ddod o hyd i:
+Edrycha ar y ddewislen - wyt ti'n gallu gweld:
 
 + Fersiwn o Scratch?
 
-+ Gêm Python i chwarae?
++ Gêm Python i'w chwarae?
 
-+ Fersiwn o Minecraft y gallwch chi ei raglennu?
++ Fersiwn o Minecraft y gelli di ei raglennu?
 
-\--- / her \---
+\--- /challenge \---
