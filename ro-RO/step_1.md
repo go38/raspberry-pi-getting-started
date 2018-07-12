@@ -1,18 +1,18 @@
 ## Introducere
 
-În acest proiect veți conecta un computer de Raspberry Pi și veți afla ce poate face.
+În acest proiect te vei conecta la un calculator Raspberry Pi și vei afla ce poate face.
 
-### Ce veți face
+### Ce vei face
 
-Raspberry Pi este un mic computer care poate face multe lucruri. Conectați-l într-un monitor și atașați o tastatură și un mouse.
+Raspberry Pi este un mic calculator care poate face multe lucruri. Conectează-i un monitor și atașează-i o tastatură și un mouse.
 
 ![captură de ecran](images/pi-plug-in.gif)
 
 ### Ce veți învăța
 
-Acest proiect acoperă elemente din următoarele componente ale Curriculum [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
+Acest proiect acoperă elemente din următoarele componente [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Utilizați componente de bază digitale, analogice și electromecanice](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [Utilizați componente digitale, analogice și electromecanice de bază](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
 ### Informații suplimentare pentru educatori
 
