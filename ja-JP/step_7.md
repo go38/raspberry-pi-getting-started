@@ -1,35 +1,43 @@
 ## ウェブの閲覧
 
-ラズベリーパイをインターネットに接続したい場合もあります。 イーサネットケーブルを接続していない場合は、無線ネットワーク（Wi-Fi）に接続する必要があります。
+ラズベリーパイをインターネットに接続したい場合もあります。 If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-ラズベリーパイでWi-Fiを使用する前、Wi-Fiの国を設定する必要があります。
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![Wi-Fi国を設定する](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ メニューから **Preferences**、 **Raspberry Pi Configuration** を選択します。
+\--- collapse \---
 
-+ **Localisation** タブをクリックします。
+* * *
 
-+ **Set WiFi Country** ボタンをクリックします。
+## title: Set Wi-Fi Country
 
-![Wi-Fi国を選択する](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ リストから国を選択し、**OK** をクリックします。
+![set wifi country](images/pi-set-wifi-country.png)
 
-Wi-Fi国が設定されると、ネットワークに接続できます。
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ 画面の右上隅にある赤い十字のアイコンをクリックし、ドロップダウンメニューからネットワークを選択します。 どのネットワークを選ぶべきか大人に質問する必要があるかもしれません。
++ Go to the **Localisation** tab.
 
-![W-Fiなし](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + 自分でWi-Fiネットワークのパスワードを入力した後、もしくは大人に入力してもらった後、 **OK**をクリックしてください。
 
-![パスワードを入力してください](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + ラズベリーパイがインターネットに接続されると、赤い十字の代わりにWi-Fiのアイコンが表示されます。
 
-![スクリーンショット](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + Webブラウザのアイコンをクリックして、 `raspberry pi`を検索します。
 
-![スクリーンショット](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
