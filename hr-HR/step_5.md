@@ -1,43 +1,31 @@
-## Povežite svoj Raspberry Pi
+## Finish the setup
 
-Povežimo vašu malinu Pi i pokrenite ga.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Provjerite posjeduje li vaš Raspberry Pi SD karticu u utoru na donjoj strani, a ako ne, umetnite SD karticu instaliranom Raspbian (preko NOOBS). Mnogo SD kartica će doći unutar većeg adaptera, a karticu možete izvući iz ove pomoću usnice na dnu.
-    
-    ![zaslona](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Pronađite USB konektor za miša i povežite miš s USB priključkom na Raspberry Pi (nije važno).
-    
-    ![zaslona](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Povežite tipkovnicu na isti način.
-    
-    ![zaslona](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Pogledajte HDMI priključak na maline Pi - obavijestite da ima veliku ravnu stranu na vrhu.
-    
-    ![zaslona](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Provjerite je li monitor priključen u zidnu utičnicu i uključen.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Priključite kabel monitora na HDMI priključak Pi-a - po potrebi upotrijebite adapter.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Ništa se neće prikazivati.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Spojite slušalice ili zvučnike na audio priključnicu ako ih imate.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Ako ga imate, upotrijebite ethernet kabel za spajanje ethernet priključka na Raspberry Pi na ethernet utičnicu na zidu ili routeru. (Ne morate to učiniti ako koristite bežični LAN ili ako se ne želite povezati s internetom.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Imajte na umu da mikro USB utičnica ima dužu ravnu stranu na vrhu.
+![pi wizard updating](images/piwiz6.PNG)
 
-Priključite napajanje u utičnicu i spojite ga na mikro USB priključak.
++ Click **Done** or **Reboot** to finish the setup.
 
-![zaslona](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Na monitoru biste trebali vidjeti crveno svjetlo na maline i maline.
-
-Pi će se dizati na grafičku radnu površinu.
-
-![zaslona](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
