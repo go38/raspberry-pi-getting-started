@@ -1,14 +1,14 @@
-## Apa yang Anda butuhkan
+## Apa yang Kamu butuhkan
 
 ### Perangkat keras
 
 + Komputer Raspberry Pi dengan kartu SD
 
-+ Monitor dengan kabel (dan, jika diperlukan, adaptor HDMI)
++ Monitor dengan kabel (dan, jika diperlukan, sebuah adaptor HDMI)
 
 + Keyboard dan mouse USB
 
-+ Catu daya
++ Sumber tegangan listrik DC
 
 + Headphone atau speaker (opsional)
 
@@ -16,6 +16,6 @@
 
 ### Perangkat lunak
 
-+ Raspbian, dipasang melalui NOOBS
++ Raspbian, diinstall melalui NOOBS
 
 [[[noobs-install]]]
