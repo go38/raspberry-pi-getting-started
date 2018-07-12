@@ -1,21 +1,21 @@
-## pengantar
+## Pengantar
 
-Dalam proyek ini Anda akan menghubungkan komputer Raspberry Pi dan mencari tahu apa yang bisa dilakukan.
+Dalam proyek ini Kamu akan menghubungkan komputer Raspberry Pi dan mencari tahu apa yang bisa dilakukan.
 
-### Apa yang akan Anda buat
+### Apa yang akan Kamu buat
 
-Raspberry Pi adalah komputer kecil yang dapat melakukan banyak hal. Anda hubungkan ke monitor dan pasang keyboard dan mouse.
+Raspberry Pi adalah komputer kecil yang dapat melakukan banyak hal. Kamu menghubungkannya ke monitor dan pasang keyboard dan mouse.
 
-![tangkapan layar](images/pi-plug-in.gif)
+![screenshot](images/pi-plug-in.gif)
 
-### Apa yang akan Anda pelajari
+### Apa yang akan Kamu pelajari
 
-Proyek ini mencakup unsur-unsur dari rangkaian berikut [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+Proyek ini mencakup elemen dari rangkaian [Kurikulum Digital Making Raspberry Pi](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Gunakan komponen dasar digital, analog, dan elektromekanis](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [Menggunakan komponen digital, analog, dan elektromekanis dasar](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
 
 ### Informasi tambahan untuk pendidik
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan [versi ramah-printer](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
+Jika Kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
 
-Gunakan tautan di footer untuk mengakses repositori GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek selesai) di folder 'en / resources'.
+Gunakan tautan di bagian kaki halaman untuk mengakses repositori GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek yang lengkap) di folder 'en/resources'.
