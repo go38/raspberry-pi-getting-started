@@ -1,35 +1,43 @@
 ## Duyệt web
 
-Bạn có thể muốn kết nối Raspberry Pi của bạn với internet. Nếu bạn không cắm cáp ethernet, bạn sẽ cần phải kết nối với mạng không dây.
+Bạn có thể muốn kết nối Raspberry Pi của bạn với internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Để bật Wi-Fi trên Raspberry Pi, bạn cần đặt quốc gia Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![đặt quốc gia wifi](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ Chọn **Tuỳ chọn**, **Cấu hình Raspberry Pi** từ trình đơn.
+\--- collapse \---
 
-+ Nhấp vào tab **Bản địa hóa**.
+* * *
 
-+ Nhấp vào nút **Đặt quốc gia WiFi**.
+## title: Set Wi-Fi Country
 
-![chọn quốc gia wifi](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ Chọn quốc gia của bạn từ danh sách và nhấp vào **OK**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-Sau khi quốc gia Wi-Fi được đặt, bạn có thể kết nối với mạng không dây.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Nhấp vào biểu tượng có chữ thập đỏ ở góc trên cùng bên phải của màn hình và chọn mạng của bạn từ trình đơn thả xuống. Bạn có thể cần phải hỏi một người lớn mà mạng bạn nên chọn.
++ Go to the **Localisation** tab.
 
-![Không có wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + Nhập mật khẩu cho mạng không dây của bạn hoặc yêu cầu người lớn nhập mật khẩu cho bạn, sau đó nhấp vào **OK**.
 
-![Nhập mật khẩu](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + Khi Pi của bạn được kết nối với internet, bạn sẽ thấy một biểu tượng mạng LAN không dây thay vì các chữ thập đỏ.
 
-![ảnh chụp màn hình](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + Nhấp vào biểu tượng trình duyệt web và tìm `mâm xôi pi`.
 
-![ảnh chụp màn hình](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
