@@ -1,35 +1,43 @@
 ## Przeglądanie sieci
 
-Możesz połączyć swoje Raspberry Pi z Internetem. Jeśli nie podłączyłeś kabla ethernetowego, będziesz musiał połączyć się z siecią bezprzewodową.
+Możesz połączyć swoje Raspberry Pi z Internetem. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Aby włączyć Wi-Fi w Raspberry Pi, musisz ustawić kraj Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![ustawić kraj wifi](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ Wybierz **Preferencje**, **Konfiguracja Raspberry Pi** z menu.
+\--- collapse \---
 
-+ Kliknij kartę **Lokalizacja**.
+* * *
 
-+ Kliknij **Ustaw przycisk WiFi Country**.
+## title: Set Wi-Fi Country
 
-![wybierz kraj Wi-Fi](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ Wybierz swój kraj z listy i kliknij **OK**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-Po ustawieniu kraju Wi-Fi możesz połączyć się z siecią bezprzewodową.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Kliknij ikonę z czerwonymi krzyżykami w prawym górnym rogu ekranu i wybierz sieć z menu rozwijanego. Być może trzeba poprosić osobę dorosłą, którą sieć należy wybrać.
++ Go to the **Localisation** tab.
 
-![Brak wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + Wpisz hasło do swojej sieci bezprzewodowej lub poproś osobę dorosłą, aby ją wpisała, a następnie kliknij **OK**.
 
-![Wpisz hasło](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + Kiedy twoje Pi jest podłączone do Internetu, zamiast czerwonych krzyżyków zobaczysz symbol bezprzewodowej sieci LAN.
 
-![zrzut ekranu](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + Kliknij ikonę przeglądarki internetowej i wyszukaj `raspberry pi`.
 
-![zrzut ekranu](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
