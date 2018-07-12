@@ -1,43 +1,31 @@
-## Conectează-ți Zmeura Pi
+## Finish the setup
 
-Hai să ne conectăm pe Pi Ză și să o facem să fie difuzată.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Verificați dacă Raspberry Pi are deja o cartelă SD în slotul din partea inferioară și, dacă nu, introduceți un card SD cu Raspbian instalat (prin intermediul NOOBS). O mulțime de carduri SD vor intra într-un adaptor mai mare și puteți glisa cardul din acesta folosind buza din partea inferioară.
-    
-    ![captură de ecran](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Găsiți conectorul USB al mouse-ului și conectați mouse-ul la unul dintre porturile USB de pe Raspberry Pi (nu contează pe care).
-    
-    ![captură de ecran](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Conectați tastatura în același mod.
-    
-    ![captură de ecran](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Uită-te la portul HDMI de pe Raspberry Pi - observați că are o latură mare plat pe partea de sus.
-    
-    ![captură de ecran](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Asigurați-vă că monitorul este conectat la o priză de perete și că este pornit.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Conectați cablul monitorului la portul HDMI al lui Pi - utilizați un adaptor, dacă este necesar.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Nimic nu se va afișa încă.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Conectați căștile sau difuzoarele la mufa audio dacă aveți unele.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Dacă aveți unul, utilizați un cablu Ethernet pentru a conecta portul Ethernet de pe Raspberry Pi la o priză Ethernet de pe perete sau de pe router. (Nu trebuie să faceți acest lucru dacă utilizați o rețea LAN fără fir sau dacă nu doriți să vă conectați la internet.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Observați că portul de alimentare micro USB are o latură plană mai lungă deasupra.
+![pi wizard updating](images/piwiz6.PNG)
 
-Conectați sursa de alimentare la o priză și conectați-o la portul de alimentare micro USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![captură de ecran](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Ar trebui să vedeți o lumină roșie pe Zmeura Pi și zmeura pe monitor.
-
-Pi va porni într-un desktop grafic.
-
-![captură de ecran](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
