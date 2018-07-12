@@ -28,7 +28,7 @@ Votre fichier a été enregistré sur la carte SD du Raspberry Pi.
 
 + Lorsque le Pi a redémarré, votre fichier devrait toujours être là.
 
-+ Le Raspberry Pi exécute une version d'un système d'exploitation appelé Linux (Windows et macOS sont d'autres systèmes d'exploitation). Cela vous permet de le faire en tapant des commandes au lieu de cliquer sur les options du menu. Cliquez sur le **Terminal** en haut de l'écran:
++ Le Raspberry Pi exécute une version d'un système d'exploitation appelé Linux (Windows et macOS sont d'autres systèmes d'exploitation). It allows you to make things happen by typing commands instead of clicking on menu options. Cliquez sur le **Terminal** en haut de l'écran:
 
 ![capture d'écran](images/pi-command-prompt.png)
 
