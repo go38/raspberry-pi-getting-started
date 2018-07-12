@@ -1,43 +1,31 @@
-## Подключите малину Pi
+## Finish the setup
 
-Давайте подключим ваш малиновый Pi и убедимся.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Убедитесь, что у вашей малины Pi уже есть SD-карта в слоте на нижней стороне, а если нет, вставьте SD-карту с установленной Raspbian (через NOOBS). Множество SD-карт появится внутри большего адаптера, и вы можете вытащить карту из нее, используя губу внизу.
-    
-    ![Скриншот](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Найдите USB-разъем для мыши и подключите мышь к одному из USB-портов на малиновом Pi (неважно, какой из них).
-    
-    ![Скриншот](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Подключите клавиатуру таким же образом.
-    
-    ![Скриншот](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Посмотрите на порт HDMI на малине Pi - обратите внимание, что он имеет большую плоскую сторону сверху.
-    
-    ![Скриншот](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Убедитесь, что ваш монитор подключен к розетке и включен.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Подключите кабель монитора к порту HDMI Pi - при необходимости используйте адаптер.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Пока ничего пока не видно.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Подключите наушники или динамики к аудиоразъему, если у вас есть.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Если у вас есть, используйте сетевой кабель, чтобы подключить порт Ethernet к малине Pi к розетке Ethernet на стене или на вашем маршрутизаторе. (Вам не нужно делать это, если вы будете использовать беспроводную локальную сеть или если вы не хотите подключаться к Интернету.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Обратите внимание, что порт питания micro USB имеет более длинную плоскую сторону сверху.
+![pi wizard updating](images/piwiz6.PNG)
 
-Подключите блок питания к гнезду и подключите его к порту питания micro USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![Скриншот](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Вы должны увидеть красный свет на Малиновой Пи и малину на мониторе.
-
-Pi загрузится в графический рабочий стол.
-
-![Скриншот](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
