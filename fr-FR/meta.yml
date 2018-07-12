@@ -1,35 +1,35 @@
 ---
-hero_image: images / getting-started-avec-framboise-pi.png
-theme: rouge
+hero_image: images/getting-started-with-raspberry-pi.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, conception-0, programmation-0, phys-comp-1, fabrication-0, communauté-0
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
 title: Premiers pas avec le Raspberry Pi
 description: Configurez votre Raspberry Pi et explorez ce qu'il peut faire
 original_url: https://codeclubprojects.org/fr-FR/raspberry-pi/getting-started
 interests: ''
-technologies: tarte aux framboises
+technologies: raspberry-pi
 site_areas: projets
-hardware: tarte aux framboises
+hardware: raspberry-pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
-    title: introduction
+    title: Introduction
   - 
     title: Ce dont tu auras besoin
   - 
     title: Rencontrez le Raspberry Pi
   - 
-    title: 'Défi: expliquer le Raspberry Pi'
+    title: Connect your Raspberry Pi
   - 
-    title: Connectez votre Raspberry Pi
+    title: Finish the setup
   - 
     title: Une visite du Raspberry Pi
   - 
     title: Surfer sur le web
   - 
-    title: 'Défi: explorez le Raspberry Pi'
+    title: 'Challenge: explore le Raspberry Pi'
