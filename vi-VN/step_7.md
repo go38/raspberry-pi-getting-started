@@ -4,7 +4,7 @@ Có thể bạn muốn kết nối Raspberry Pi của bạn với internet. Nế
 
 + Nhấp vào biểu tượng có chữ thập đỏ ở góc trên cùng bên phải của màn hình và chọn mạng của bạn từ menu. Bạn có thể cần phải hỏi một người lớn nên chọn mạng nào để kết nối.
 
-![No wifi](images/no-wifi.png)
+![Không có wifi](images/no-wifi.png)
 
 \--- collapse \---
 
@@ -12,32 +12,32 @@ Có thể bạn muốn kết nối Raspberry Pi của bạn với internet. Nế
 
 ## title: Cài đặt quốc gia cho Wi-Fi
 
-If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
+Nếu bạn thấy thông báo "Set Wi-Fi Country on Localisation tab" khi thử kết nối với mạng Wi-Fi của mình:
 
-![set wifi country](images/pi-set-wifi-country.png)
+![đặt quốc gia cho wifi](images/pi-set-wifi-country.png)
 
-+ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
++ Chọn **Preferences** và sau đó **Raspberry Pi Configuration** từ menu.
 
-+ Go to the **Localisation** tab.
++ Đi tới mục **Localisation**.
 
-+ Click the **Set WiFi Country** button.
++ Nhấp vào nút **Set WiFi Country**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![chọn quốc gia cho wifi](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Chọn quốc gia của bạn từ danh sách và nhấp **OK**.
 
-Once you Wi-Fi country is set, you can connect to a wireless network.
+Khi bạn đã đặt quốc gia cho Wi-Fi, bạn có thể kết nối với mạng không dây.
 
 \--- /collapse \---
 
 + Nhập mật khẩu cho mạng không dây của bạn hoặc yêu cầu người lớn nhập mật khẩu cho bạn, sau đó nhấp vào **OK**.
 
-![Type in password](images/type-password.png)
+![Nhập mật khẩu](images/type-password.png)
 
 + Khi Pi của bạn được kết nối với internet, bạn sẽ thấy một biểu tượng mạng LAN không dây thay vì các chữ thập đỏ.
 
-![screenshot](images/pi-wifi.png)
+![ảnh chụp màn hình](images/pi-wifi.png)
 
-+ Nhấp vào biểu tượng trình duyệt web và tìm `mâm xôi pi`.
++ Nhấp vào biểu tượng trình duyệt web và tìm `raspberry pi`.
 
-![screenshot](images/pi-browser.png)
+![ảnh chụp màn hình](images/pi-browser.png)
