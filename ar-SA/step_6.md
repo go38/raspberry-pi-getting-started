@@ -28,7 +28,7 @@
 
 + عند إعادة تشغيل Pi ، يجب أن يكون ملفك موجودًا.
 
-+ يدير Raspberry Pi إصدارًا من نظام تشغيل يُسمى Linux (Windows و MacOS هما نظامان آخران للتشغيل). يسمح لك أن يحدث عن طريق كتابة الأوامر بدلاً من النقر فوق خيارات القائمة. انقر على **محطة** في الجزء العلوي من الشاشة:
++ يدير Raspberry Pi إصدارًا من نظام تشغيل يُسمى Linux (Windows و MacOS هما نظامان آخران للتشغيل). It allows you to make things happen by typing commands instead of clicking on menu options. انقر على **محطة** في الجزء العلوي من الشاشة:
 
 ![لقطة شاشة](images/pi-command-prompt.png)
 
