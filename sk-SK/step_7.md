@@ -10,21 +10,21 @@ Možno budete chcieť pripojiť svoje Raspberry Pi na internet. Ak ste počas in
 
 * * *
 
-## title: Set Wi-Fi Country
+## title: Nastavenie krajiny WiFi
 
-If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
+Ak sa vám zobrazí správa "Nastavte krajinu WiFi na karte Lokalizácia" pri pokuse o pripojenie na WiFi sieť, tak:
 
 ![set wifi country](images/pi-set-wifi-country.png)
 
-+ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
++ Z menu vyberte položku **Predvoľby** a potom **Konfigurácia Raspberry Pi**.
 
-+ Go to the **Localisation** tab.
++ Prejdite na kartu **Lokalizácia**.
 
-+ Click the **Set WiFi Country** button.
++ Kliknite na tlačidlo **Nastaviť krajinu WiFi**.
 
 ![select wifi country](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ Vyberte svoju krajinu zo zoznamu a kliknite na tlačidlo **OK**.
 
 Po nastavení krajiny Wi-Fi sa môžete pripojiť k bezdrôtovej sieti.
 
