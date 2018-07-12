@@ -28,7 +28,7 @@ Fișierul dvs. a fost salvat pe cardul SD al lui Raspberry Pi.
 
 + Când Pi a repornit, fișierul ar trebui să fie acolo.
 
-+ Raspberry Pi rulează o versiune a unui sistem de operare numit Linux (Windows și MacOS sunt alte sisteme de operare). Acesta vă permite să se întâmple prin tastarea comenzilor în loc de a face clic pe opțiunile de meniu. Faceți clic pe **Terminal** din partea de sus a ecranului:
++ Raspberry Pi rulează o versiune a unui sistem de operare numit Linux (Windows și MacOS sunt alte sisteme de operare). It allows you to make things happen by typing commands instead of clicking on menu options. Faceți clic pe **Terminal** din partea de sus a ecranului:
 
 ![captură de ecran](images/pi-command-prompt.png)
 
