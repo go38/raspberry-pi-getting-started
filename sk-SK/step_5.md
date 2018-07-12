@@ -1,43 +1,31 @@
-## Pripojte svoje Raspberry Pi
+## Finish the setup
 
-Pripojme sa k vášmu Raspberry Pi a spustíme ho.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ Skontrolujte, či váš Raspberry Pi už má SD kartu v zásuvke na spodnej strane, a ak nie, vložte SD kartu s nainštalovaným Raspbian (cez NOOBS). Veľa kariet SD sa dostane do väčšieho adaptéra a z karty môžete posunúť kartu pomocou spodnej pery.
-    
-    ![screenshot](images/pi-sd.png)
+![pi wizard](images/piwiz.gif)
 
-[[[noobs-install]]]
++ Click **Next** to start the setup.
 
-+ Nájdite konektor USB pre myš a pripojte myš k portu USB na mape Raspberry Pi (nezáleží na tom, ktorý z nich).
-    
-    ![screenshot](images/pi-mouse.png)
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-+ Klávesnicu pripojte rovnakým spôsobom.
-    
-    ![screenshot](images/pi-keyboard.png)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Pozrite sa na port HDMI na Raspberry Pi - všimnite si, že má veľkú plochú stranu na vrchole.
-    
-    ![screenshot](images/pi-hdmi.png)
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-Uistite sa, že váš monitor je zapojený do sieťovej zásuvky a zapnutý.
+![pi wizard password](images/piwiz3.PNG)
 
-+ Pripojte kábel monitora k portu HDMI portu Pi - v prípade potreby použite adaptér.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-Nič sa nezobrazí.
+![pi wizard wifi](images/piwiz4.PNG)
 
-+ Pripojte slúchadlá alebo reproduktory do zvukovej zásuvky, ak máte nejaké.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Ak ho máte, použite ethernetový kábel na pripojenie ethernetového portu na Raspberry Pi do ethernetovej zásuvky na stene alebo na smerovači. (Nemusíte to robiť, ak budete používať bezdrôtovú sieť LAN alebo ak sa nechcete pripojiť k internetu.)
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-+ Všimnite si, že napájací port micro USB má dlhšiu rovnú stranu na vrchu.
+![pi wizard updating](images/piwiz6.PNG)
 
-Zapojte napájanie do zásuvky a pripojte ho k portu napájania micro USB.
++ Click **Done** or **Reboot** to finish the setup.
 
-![screenshot](images/pi-power.png)
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-Mali by ste vidieť červené svetlo na Raspberry Pi a maliny na monitore.
-
-Pi sa spustí na grafickú plochu.
-
-![screenshot](images/pi-desktop.png)
+![pi wizard complete](images/piwiz7.PNG)
