@@ -1,35 +1,43 @@
 ## Pregledavanje weba
 
-Možda biste htjeli povezati svoje maline Pi s internetom. Ako niste priključili ethernet kabel, morat ćete se povezati s bežičnom mrežom.
+Možda biste htjeli povezati svoje maline Pi s internetom. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-Da biste omogućili Wi-Fi na Raspberry Pi, morat ćete postaviti zemlju Wi-Fi.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![postavite wifi zemlju](images/pi-set-wifi-country.png)
+![No wifi](images/no-wifi.png)
 
-+ Odaberite **Postavke**, **Konfiguriranje maline Pi** s izbornika.
+\--- collapse \---
 
-+ Kliknite karticu **Lokalizacija**.
+* * *
 
-+ Kliknite **Postavi gumb Wi-Fi zemlje**.
+## title: Set Wi-Fi Country
 
-![odaberite wifi zemlju](images/pi-select-wifi-country.png)
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-+ Odaberite svoju državu s popisa i kliknite **OK**.
+![set wifi country](images/pi-set-wifi-country.png)
 
-Nakon što postavite zemlju Wi-Fi, možete se povezati s bežičnom mrežom.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Kliknite ikonu s crvenim križem u gornjem desnom kutu zaslona i odaberite svoju mrežu s padajućeg izbornika. Možda ćete morati tražiti odraslu osobu koju mrežu trebate odabrati.
++ Go to the **Localisation** tab.
 
-![Nema wifi](images/no-wifi.png)
++ Click the **Set WiFi Country** button.
+
+![select wifi country](images/pi-select-wifi-country.png)
+
++ Select your country from the list and click **OK**.
+
+Once you Wi-Fi country is set, you can connect to a wireless network.
+
+\--- /collapse \---
 
 + Upišite lozinku za bežičnu mrežu ili zamolite odraslu osobu da ga upiše za vas, a zatim kliknite **OK**.
 
-![Upišite lozinku](images/type-password.png)
+![Type in password](images/type-password.png)
 
 + Kad je vaš Pi povezan s internetom, umjesto crvenih križa vidjet ćete simbol bežičnog LAN-a.
 
-![zaslona](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
 + Kliknite ikonu web preglednika i potražite `malina pi`.
 
-![zaslona](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
