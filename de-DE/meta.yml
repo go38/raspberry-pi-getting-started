@@ -1,20 +1,20 @@
 ---
-hero_image: Bilder / Erste Schritte-mit-Himbeer-Pi.png
-theme: rot
+hero_image: images/getting-started-with-raspberry-pi.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, Design-0, Programmierung-0, Phys-Comp-1, Herstellung-0, Community-0
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
 title: Erste Schritte mit dem Raspberry Pi
 description: Richte deinen Raspberry Pi ein und erkunde, was er kann
 original_url: https://codeclubprojects.org/de-DE/raspberry-pi/getting-started
 interests: ''
-technologies: Himbeer-Pi
+technologies: Raspberry Pi
 site_areas: Projekte
-hardware: Himbeer-Pi
+hardware: Raspberry Pi
 software: ''
-version: 3
+version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,9 +24,9 @@ steps:
   - 
     title: Treffen Sie den Raspberry Pi
   - 
-    title: 'Herausforderung: Erklären Sie den Raspberry Pi'
+    title: Connect your Raspberry Pi
   - 
-    title: Verbinde deinen Raspberry Pi
+    title: Finish the setup
   - 
     title: Eine Tour durch den Raspberry Pi
   - 
