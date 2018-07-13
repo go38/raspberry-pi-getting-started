@@ -1,14 +1,14 @@
 ## Prezentare Raspberry Pi
 
-Acum este timpul să faceți un tur al Zmeurii Pi.
+Acum este timpul să prezentăm un Raspberry Pi.
 
-+ Vedeți acea Zmeură în colțul din stânga sus? Aici accesați meniul: faceți clic pe el și veți găsi numeroase aplicații.
++ Vezi Zmeura aceea în colțul din stânga sus? Aici accesați meniul: faceți clic pe el și veți găsi numeroase aplicații.
 
 + Faceți clic pe **Accesorii** și selectați **Editor text**.
 
 ![captură de ecran](images/pi-accessories.png)
 
-+ Tipul `Tocmai am construit o Zmeură Pi` în fereastra care apare.
++ Tastează `Tocmai am construit un Raspberry Pi` în fereastra care apare.
 
 ![captură de ecran](images/pi-text-editor.png)
 
