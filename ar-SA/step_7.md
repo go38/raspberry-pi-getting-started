@@ -4,7 +4,7 @@
 
 + انقر فوق رمز الشبكة اللاسلكية في الزاوية العلوية اليمنى من الشاشة ، واختر شبكتك من القائمة المنسدلة. قد تحتاج أن تطلب من شخص بالغ أي شبكة يجب أن تختارها.
 
-![No wifi](images/no-wifi.png)
+![لا يوجد شبكة لاسلكية ](images/no-wifi.png)
 
 \--- collapse \---
 
@@ -14,7 +14,7 @@
 
 إذا ظهرت لك الرسالة "Set Wi-Fi Country on Localisation tab" عند محاولة الاتصال بشبكة Wi-Fi:
 
-![set wifi country](images/pi-set-wifi-country.png)
+![قم بتهيئة البلد للشبكة اللاسلكية](images/pi-set-wifi-country.png)
 
 + انقر فوق **تفضيلات** ثم **إضافة / إزالة البرامج** في القائمة.
 
@@ -22,7 +22,7 @@
 
 + انقر فوق ** Set WiFi Country ** زر.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![اختر الدولة للشبكة اللاسلكية](images/pi-select-wifi-country.png)
 
 + حدد بلدك من القائمة وانقر فوق ** موافق ** .
 
@@ -32,12 +32,12 @@
 
 + اكتب كلمة المرور الخاصة بشبكتك اللاسلكية ، أو اطلب من شخص بالغ أن يكتبها لك ، ثم انقر فوق **موافق**.
 
-![Type in password](images/type-password.png)
+![اكتب كلمة المرور](images/type-password.png)
 
 + عندما يتم توصيل جهاز Pi الخاص بك بالإنترنت ، سترى رمز الشبكة المحلية اللاسلكية بدلاً من علامات الصليب الأحمر.
 
-![screenshot](images/pi-wifi.png)
+![لقطة الشاشة](images/pi-wifi.png)
 
 + انقر فوق رمز متصفح الويب وابحث عن `raspberry pi`.
 
-![screenshot](images/pi-browser.png)
+![لقطة الشاشة](images/pi-browser.png)
