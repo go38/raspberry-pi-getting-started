@@ -32,20 +32,20 @@
 
 + إذا كنت ترغب في توصيل Pi بشبكة الإنترنت عبر Ethernet ، فاستخدم كبل Ethernet لتوصيل منفذ Ethernet في Raspberry Pi بمقبس Ethernet على الحائط أو على جهاز توجيه الإنترنت. لست بحاجة إلى القيام بذلك إذا كنت تستخدم WiFi أو إذا كنت لا تريد الاتصال بالإنترنت.
 
-![ethernet](images/pi-ethernet.png)
+![إيثرنت](images/pi-ethernet.png)
 
 + سوف يأتي الصوت من الشاشة إذا كان يحتوي على مكبرات الصوت أو يمكنك توصيل سماعات الرأس أو مكبرات الصوت بمقبس الصوت إذا كان لديك.
 
-![headphones](images/pi-headphones.png)
+![سماعات رأس](images/pi-headphones.png)
 
 + ﻻﺣظ أن ﻣﻧﻔذ اﻟطﺎﻗﺔ micro USB ﯾوﺟد ﺟﺎﻧب ﻣﺳطﺢ أﺑﻌد ﻣن اﻷﻋﻟﯽ.
 
 قم بتوصيل مزود الطاقة بمقبس وتوصيله بمنفذ طاقة micro USB.
 
-![screenshot](images/pi-power.png)
+![لقطة الشاشة](images/pi-power.png)
 
 يجب أن تشاهد ضوءًا أحمر على Raspberry Pi والتوت على الشاشة.
 
 سيتم تشغيل Pi في سطح مكتب رسومية.
 
-![screenshot](images/pi-desktop.png)
+![لقطة الشاشة](images/pi-desktop.png)
