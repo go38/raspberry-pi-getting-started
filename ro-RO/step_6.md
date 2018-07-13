@@ -28,7 +28,7 @@ Fișierul dvs. a fost salvat pe cardul SD al lui Raspberry Pi.
 
 + Când Pi a repornit, fișierul ar trebui să fie acolo.
 
-+ Raspberry Pi rulează o versiune a unui sistem de operare numit Linux (Windows și MacOS sunt alte sisteme de operare). It allows you to make things happen by typing commands instead of clicking on menu options. Faceți clic pe **Terminal** din partea de sus a ecranului:
++ Raspberry Pi rulează o versiune a unui sistem de operare numit Linux (Windows și MacOS sunt alte sisteme de operare). Acesta îți permite să realizezi anumite lucruri, prin scrierea unor comenzi, fără să mai apeși pe opțiunile meniurilor. Faceți clic pe **Terminal** din partea de sus a ecranului:
 
 ![captură de ecran](images/pi-command-prompt.png)
 
@@ -37,25 +37,25 @@ Fișierul dvs. a fost salvat pe cardul SD al lui Raspberry Pi.
     ls
     
 
-apoi apăsați <kbd>Introduceți</kbd> de pe tastatură.
+apoi apăsați <kbd>Enter</kbd> de pe tastatură.
 
-Aceasta va lista fișierele din directorul `de domiciliu`.
+Aceasta va lista fișierele din directorul `home`.
 
-+ Acum tastați această comandă la **c**hange **d**irelevant pe Desktop:
++ Acum tastați această comandă la **c**hange **d**irectory pe Desktop:
 
     cd Desktop
     
 
-Trebuie să apăsați tasta <kbd>Introduceți o tastă</kbd> după fiecare comandă.
+Trebuie să apăsați tasta <kbd>Enter</kbd> după fiecare comandă.
 
-Tip:
+Sfat:
 
     ls
     
 
 Puteți vedea fișierul pe care l-ați creat?
 
-+ Închideți fereastra terminale făcând clic pe **X**.
++ Închideți fereastra terminalului făcând clic pe **X**.
 
 + Acum trageți `rp.txt` la Wastebasket pe desktop, astfel încât Pi va fi gata pentru următoarea persoană.
     
