@@ -2,7 +2,7 @@
 
 S-ar putea să doriți să vă conectați Raspberry Pi la internet. Dacă nu te-ai conectat cu un cablu de internet sau cu WiFi, în timpul configurării, o poți face acum.
 
-+ Faceți clic pe pictograma cu crucenroșie din colțul din dreapta sus al ecranului și selectați rețeaua din meniu. You may need to ask an adult which network you should choose.
++ Faceți clic pe pictograma cu crucenroșie din colțul din dreapta sus al ecranului și selectați rețeaua din meniu. Este posibil să cereți sfatul unui adult pentru selectarea unei rețele.
 
 ![No wifi](images/no-wifi.png)
 
@@ -10,13 +10,13 @@ S-ar putea să doriți să vă conectați Raspberry Pi la internet. Dacă nu te-
 
 * * *
 
-## title: Set Wi-Fi Country
+## titlu: setează țara Wi-Fi
 
-If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
+Dacă apare mesajul “Setează țara Wi-Fi, pe eticheta Localizare” atunci când vrei să te conectezi la rețeaua Wi-Fi:
 
 ![set wifi country](images/pi-set-wifi-country.png)
 
-+ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
++ Selectează **Preferințe** și apoi **Configurare Raspberry Pi Configuration** din meniu.
 
 + Go to the **Localisation** tab.
 
