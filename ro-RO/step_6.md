@@ -1,4 +1,4 @@
-## Un tur al Zmei Pi
+## Prezentare Raspberry Pi
 
 Acum este timpul să faceți un tur al Zmeurii Pi.
 
