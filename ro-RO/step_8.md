@@ -1,6 +1,6 @@
 \--- provocare \---
 
-## Provocare: explorați zmeura Pi
+## Provocare: Descoperă Raspberry Pi
 
 Faceți un tur al meniului - puteți găsi:
 
