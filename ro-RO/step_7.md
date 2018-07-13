@@ -1,8 +1,8 @@
 ## Navigarea pe web
 
-S-ar putea să doriți să vă conectați Raspberry Pi la internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+S-ar putea să doriți să vă conectați Raspberry Pi la internet. Dacă nu te-ai conectat cu un cablu de internet sau cu WiFi, în timpul configurării, o poți face acum.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Faceți clic pe pictograma cu crucenroșie din colțul din dreapta sus al ecranului și selectați rețeaua din meniu. You may need to ask an adult which network you should choose.
 
 ![No wifi](images/no-wifi.png)
 
