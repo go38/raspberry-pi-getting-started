@@ -1,8 +1,8 @@
 ## تصفح الإنترنت
 
-قد ترغب في توصيل جهاز Raspberry Pi بالإنترنت. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+قد ترغب في توصيل جهاز Raspberry Pi بالإنترنت. إذا لم تقم بتوصيل كابل Ethernet أو بالاتصال بشبكة WiFi أثناء الإعداد ، يمكنك الاتصال الآن.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ انقر فوق رمز الشبكة اللاسلكية في الزاوية العلوية اليمنى من الشاشة ، واختر شبكتك من القائمة المنسدلة. قد تحتاج أن تطلب من شخص بالغ أي شبكة يجب أن تختارها.
 
 ![No wifi](images/no-wifi.png)
 
@@ -12,21 +12,21 @@
 
 ## title: Set Wi-Fi Country
 
-If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
+إذا ظهرت لك الرسالة "Set Wi-Fi Country on Localisation tab" عند محاولة الاتصال بشبكة Wi-Fi:
 
 ![set wifi country](images/pi-set-wifi-country.png)
 
-+ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
++ انقر فوق **تفضيلات** ثم **إضافة / إزالة البرامج** في القائمة.
 
-+ Go to the **Localisation** tab.
++ انتقل إلى ** التعريب ** التبويب.
 
-+ Click the **Set WiFi Country** button.
++ انقر فوق ** Set WiFi Country ** زر.
 
 ![select wifi country](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ حدد بلدك من القائمة وانقر فوق ** موافق ** .
 
-Once you Wi-Fi country is set, you can connect to a wireless network.
+بمجرد تعيين بلد Wi-Fi ، يمكنك الاتصال بشبكة لاسلكية.
 
 \--- /collapse \---
 
