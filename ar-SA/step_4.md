@@ -1,51 +1,51 @@
-## Connect your Raspberry Pi
+## قم بتوصيل Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+دعونا توصيل Raspberry بي الخاص بك وتشغيله.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
++ تحقق مما إذا كان جهاز Raspberry Pi يحتوي بالفعل على بطاقة SD في الفتحة الموجودة في الجانب السفلي ، وإذا لم يكن كذلك ، فأدخل بطاقة SD مع Raspbian مثبتًا (عبر NOOBS).
     
-    ![screenshot](images/pi-sd.png)
+    ![لقطة الشاشة](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+** ملاحظة: ** ستأتي الكثير من بطاقات SD الصغيرة داخل محول أكبر - يمكنك تمرير البطاقة إلى الخارج باستخدام الشفة الموجودة في الأسفل.
 
-![sd card holder](images/sd-card-holder.png)
+![حامل بطاقة sd](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ ابحث عن موصل USB الخاص بالماوس ، وقم بتوصيل الماوس بأحد منافذ USB في Raspberry Pi (لا يهم أي منها).
     
-    ![screenshot](images/pi-mouse.png)
+    ![لقطة الشاشة](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ قم بتوصيل لوحة المفاتيح بنفس الطريقة.
     
-    ![screenshot](images/pi-keyboard.png)
+    ![لقطة الشاشة](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ انظر إلى منفذ HDMI في Raspberry Pi - لاحظ أنه يحتوي على جانب مسطح كبير في الأعلى.
     
-    ![screenshot](images/pi-hdmi.png)
+    ![لقطة الشاشة](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+تأكد من توصيل الشاشة بمقبس الحائط وتشغيلها.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ قم بتوصيل كابل الشاشة بمنفذ HDMI الخاص بـ Pi - استخدم محولًا إذا لزم الأمر.
 
-Nothing will display yet.
+لن يتم عرض أي شيء حتى الآن.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ إذا كنت ترغب في توصيل Pi بشبكة الإنترنت عبر Ethernet ، فاستخدم كبل Ethernet لتوصيل منفذ Ethernet في Raspberry Pi بمقبس Ethernet على الحائط أو على جهاز توجيه الإنترنت. لست بحاجة إلى القيام بذلك إذا كنت تستخدم WiFi أو إذا كنت لا تريد الاتصال بالإنترنت.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ سوف يأتي الصوت من الشاشة إذا كان يحتوي على مكبرات الصوت أو يمكنك توصيل سماعات الرأس أو مكبرات الصوت بمقبس الصوت إذا كان لديك.
 
 ![headphones](images/pi-headphones.png)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ ﻻﺣظ أن ﻣﻧﻔذ اﻟطﺎﻗﺔ micro USB ﯾوﺟد ﺟﺎﻧب ﻣﺳطﺢ أﺑﻌد ﻣن اﻷﻋﻟﯽ.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+قم بتوصيل مزود الطاقة بمقبس وتوصيله بمنفذ طاقة micro USB.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+يجب أن تشاهد ضوءًا أحمر على Raspberry Pi والتوت على الشاشة.
 
-The Pi will boot up into a graphical desktop.
+سيتم تشغيل Pi في سطح مكتب رسومية.
 
 ![screenshot](images/pi-desktop.png)
