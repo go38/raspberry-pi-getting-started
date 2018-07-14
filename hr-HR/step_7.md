@@ -1,8 +1,8 @@
-## Pregledavanje weba
+## Pregledavanje Interneta
 
-Možda biste htjeli povezati svoje maline Pi s internetom. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+Možda želiš povezati svoj Raspberry Pi s internetom. Ako nisi priključio ethernet kabel ili se spojio na WiFi mrežu tijekom postavljanja, sada se možeš povezati.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ Klikni na ikonu s crvenim križićima u gornjem desnom kutu zaslona i odaberi svoju mrežu u padajućem izborniku. Možda ćeš morati pitati odraslu osobu koju mrežu trebaš odabrati.
 
 ![No wifi](images/no-wifi.png)
 
@@ -10,9 +10,9 @@ Možda biste htjeli povezati svoje maline Pi s internetom. If you didn't plug in
 
 * * *
 
-## title: Set Wi-Fi Country
+## title: Postavi zemlju za Wi-Fi
 
-If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
+Ako vidiš poruku "Postavite zemlju za Wi-Fi na kartici Lokalizacija" kada se pokušaš povezati s Wi-Fi mrežom:
 
 ![set wifi country](images/pi-set-wifi-country.png)
 
