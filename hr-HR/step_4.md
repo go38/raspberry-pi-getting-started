@@ -20,32 +20,32 @@ Spojimo tvoj Raspberry Pi i pokrenimo ga.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Pogledaj HDMI priključak na Raspberry Pi računalu — primijeti da je na vrhu ravan.
     
     ![screenshot](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+Provjeri je li monitor priključen u zidnu utičnicu i uključen.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ Priključi kabel monitora na HDMI priključak Pi-a — upotrijebi adapter ako je potrebno.
 
-Nothing will display yet.
+Još se ništa neće prikazati.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Ako želiš povezati Pi s internetom preko Etherneta, koristi Ethernet kabel za spajanje Ethernet priključka na Raspberry Pi na Ethernet utičnicu na zidu ili na internetskom usmjerivaču. Ovaj korak možeš preskočiti ako ćeš koristiti WiFi ili ako se ne želiš spojiti na internet.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Ako imaš zvučnike, čuti ćeš zvuk sa zaslona. Ako imaš slušalice ili zvučnike, možeš ih spojiti na priključak za zvuk.
 
 ![headphones](images/pi-headphones.png)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ Imaj na umu da mikro USB utičnica za napon ima dužu ravnu stranu na vrhu.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+Priključi napajanje u utičnicu i spoji ga na mikro USB priključak za napajanje.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and raspberries on the monitor.
+Na računalu bi se trebalo pojaviti crveno svjetlo, a na monitoru maline.
 
-The Pi will boot up into a graphical desktop.
+Pi će se priključiti na grafičku radnu površinu.
 
 ![screenshot](images/pi-desktop.png)
