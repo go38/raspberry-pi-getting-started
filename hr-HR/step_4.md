@@ -1,6 +1,6 @@
-## Connect your Raspberry Pi
+## Spoji svoj Raspberry Pi
 
-Let's connect up your Raspberry Pi and get it running.
+Spojimo tvoj Raspberry Pi i pokrenimo ga.
 
 + Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
     
