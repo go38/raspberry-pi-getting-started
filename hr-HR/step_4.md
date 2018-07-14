@@ -2,21 +2,21 @@
 
 Spojimo tvoj Raspberry Pi i pokrenimo ga.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
++ Provjeri ima li tvoj Raspberry Pi SD karticu u utoru na donjoj strani. Ako nema, umetni SD karticu s instaliranim Raspbian operativnim sustavom (preko NOOBS kartice).
     
     ![screenshot](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Napomena:** Mnogo se mikro SD kartica nalazi unutar većeg adaptera — možeš izvući karticu pomoću ureza na dnu.
 
 ![sd card holder](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Pronađi USB kabel za miša i spoji miš s bilo kojim USB priključkom na Raspberry Pi računalu.
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Na isti način spoji i tipkovnicu.
     
     ![screenshot](images/pi-keyboard.png)
 
