@@ -1,6 +1,6 @@
-## Connect your Raspberry Pi
+## 라즈베리파이 연결
 
-Let's connect up your Raspberry Pi and get it running.
+라즈베리파이를 연결하고 실행해 봅시다.
 
 + Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
     
