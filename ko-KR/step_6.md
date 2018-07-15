@@ -20,15 +20,15 @@
 
 ![스크린 샷](images/pi-saved.png)
 
-파일이 Raspberry Pi의 SD 카드에 저장되었습니다.
+파일이 라즈베리파이의 SD 카드에 저장되었습니다.
 
 + 창의 오른쪽 상단 모서리에있는 **X** 을 클릭하여 텍스트 편집기를 닫습니다.
 
-+ Raspberry 메뉴로 돌아가서 **Shutdown**을 선택한 다음 **Reboot**을 선택하십시오.
++ 라즈베리 메뉴로 돌아가서 **Shutdown**을 선택한 다음 **Reboot**을 선택하십시오.
 
-+ Pi가 재부팅되면 파일이 여전히 있어야합니다.
++ 라즈베리파이가 재부팅 되고난 후에도 파일이 여전히 있어야합니다.
 
-+ Raspberry Pi는 Linux (Windows 및 macOS는 다른 운영 체제)라는 운영 체제 버전을 실행합니다. It allows you to make things happen by typing commands instead of clicking on menu options. 화면 상단의 **터미널** 을 클릭하십시오.
++ 라즈베리파이는 Linux 라고 불리는 한 형태의 운영 체제로 실행됩니다. (Windows 및 macOS는 다른 운영 체제입니다.) 이 운영체제는 메뉴 옵션을 클릭하는 대신 명령을 입력하여 작업을 수행 할 수 있습니다. 화면 상단의 **Terminal** 을 클릭하십시오.
 
 ![스크린 샷](images/pi-command-prompt.png)
 
@@ -37,9 +37,9 @@
     ls
     
 
-그런 다음 <kbd>을 누르십시오. 키보드에서</kbd> 을 입력하십시오.
+그런 다음 키보드에서 <kbd>엔터</kbd>를 누르십시오.
 
-그러면 `집` 디렉토리의 파일이 나열됩니다.
+그러면 `home` 디렉토리 내의 파일이 나열될 것입니다.
 
 + 이제이 명령을 **에 입력하십시오.**hange **d**바탕 화면으로 이동하십시오.
 
