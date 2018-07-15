@@ -10,9 +10,9 @@ title: البدء مع the Raspberry Pi
 description: قم بإعداد Raspberry Pi واستكشف ما يمكنه فعله
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: راسبيري باي
-site_areas: مشاريع
-hardware: راسبيري باي
+technologies: raspberry-pi
+site_areas: projects
+hardware: raspberry-pi
 software: ''
 version: 4.1.0
 last_tested: 2017/01/01
@@ -20,9 +20,9 @@ steps:
   - 
     title: المقدمة
   - 
-    title: ما سوف تحتاجه
+    title: ما ستحتاج إليه
   - 
-    title: تلبية الراسبيري باي
+    title: التقى Raspberry Pi
   - 
     title: قم بتوصيل Raspberry Pi
   - 
