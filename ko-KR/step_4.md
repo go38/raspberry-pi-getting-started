@@ -2,29 +2,29 @@
 
 라즈베리파이를 연결하고 실행해 봅시다.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
++ 라즈베리파이 밑면에 있는 슬롯에 SD 카드가 삽입되어 있는지 확인하고, 그렇지 않은 경우 Raspbian이 설치된 SD 카드를 삽입하십시오. (NOOBS를 통해)
     
     ![screenshot](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**참고:** 대부분의 마이크로 SD 카드는 더 큰 아답터 안에 들어있습니다. 하단의 입술모양 돌기를 이용해서 카드를 꺼낼 수 있습니다.
 
 ![sd card holder](images/sd-card-holder.png)
 
-[[[noobs-install]]]
+[[[NOOBS-설치]]]
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ 마우스의 USB 케이블을 라즈베리파이의 USB 포트에 연결하십시오. (어느 포트이든 상관 없습니다.)
     
     ![screenshot](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ 동일한 방법으로 키보드를 연결하십시오.
     
     ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ 라즈베리파이의 상단에 크고 평평한 면이 있는 HDMI 포트를 살펴보십시오. 
     
     ![screenshot](images/pi-hdmi.png)
 
-Make sure your monitor is plugged into a wall socket and turned on.
+모니터가 콘센트에 꽂혀 있고, 전원이 켜져 있는지 확인하십시오.
 
 + Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
 
