@@ -26,21 +26,21 @@
 
 모니터가 콘센트에 꽂혀 있고, 전원이 켜져 있는지 확인하십시오.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
++ 케이블을 사용하여 모니터를 라즈베리파이의 HDMI 포트에 연결하십시오 - 필요한 경우 어댑터를 사용하십시오.
 
-Nothing will display yet.
+아직 아무것도 표시되지 않을것입니다.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ 이더넷을 통해 라즈베리파이를 인터넷에 연결하려면, 이더넷 케이블로 라즈베리파이의 이더넷 포트와 벽면의 이더넷 소켓 혹은 인터넷 라우터에 연결하십시오. Wi-Fi를 사용하거나 인터넷에 연결하지 않는 경우, 이 작업을 할 필요가 없습니다.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ 모니터에 내장 스피커가 있는 경우 모니터를 통해서 소리가 나옵니다. 혹은 오디오 잭에 헤드폰이나 스피커를 연결할 수도 있습니다.
 
 ![headphones](images/pi-headphones.png)
 
-+ Notice that the micro USB power port has a longer flat side on top.
++ 라즈베리파이의 마이크로 USB 전원 포트는 상단에 있는 평평한 부분입니다.
 
-Plug the power supply into a socket and connect it to the micro USB power port.
+전원 공급 장치를 소켓(콘센트)에 연결하고, 라즈베리파이의 마이크로 USB 전원 포트에 연결하십시오.
 
 ![screenshot](images/pi-power.png)
 
