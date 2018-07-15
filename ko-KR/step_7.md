@@ -1,8 +1,8 @@
 ## 웹 브라우징
 
-라스베리 파이를 인터넷에 연결하고 싶을 수도 있습니다. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+라스베리 파이를 인터넷에 연결하고 싶을 수도 있습니다. 설정 중에 이더넷 케이블을 연결하지 않았거나 WiFi 네트워크에 연결하지 않았다면, 지금 연결할 수 있습니다.
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ 화면의 오른쪽 상단 모서리에있는 빨간색 십자가 아이콘을 클릭하고 드롭다운 메뉴에서 네트워크를 선택하십시오. 어떤 네트워크를 선택해야하는지 주변의 어른에게 물어볼 필요가 있습니다.
 
 ![No wifi](images/no-wifi.png)
 
@@ -10,9 +10,9 @@
 
 * * *
 
-## title: Set Wi-Fi Country
+## 타이틀: Wi-Fi 국가 설정
 
-If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
+Wi-Fi 네트워크에 연결하려고 할 때 "Set Wi-Fi Country on Localisation tab" 메시지가 표시되면 다음을 수행하십시오.
 
 ![set wifi country](images/pi-set-wifi-country.png)
 
