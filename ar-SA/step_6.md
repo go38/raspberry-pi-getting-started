@@ -8,7 +8,7 @@
 
 ![لقطة شاشة](images/pi-accessories.png)
 
-+ اكتب `لقد قمت للتو ببناء Raspberry Pi` في النافذة التي تظهر.
++ اكتب `I just built a Raspberry Pi` في النافذة التي تظهر.
 
 ![لقطة شاشة](images/pi-text-editor.png)
 
