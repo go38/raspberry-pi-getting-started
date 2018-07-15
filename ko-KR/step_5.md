@@ -1,20 +1,20 @@
-## Finish the setup
+## 설정 마무리하기
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+처음으로 라즈베리파이를 실행하면 **Welcome to Raspberry Pi** 응용 프로그램이 팝업되어 초기 설정을 안내합니다.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ **Next**를 클릭하여 설정을 시작합니다.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ **Country**, **Language**및 **Timezone**을 설정 한 다음 **Next**를 다시 한번 클릭하십시오.
 
 ![pi wizard country](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ 라즈베리파이의 새 암호를 입력하고 **Next**를 클릭하십시오.
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Wi-Fi 네트워크에 연결하기 위해 Wi-Fi이름을 선택하고 비밀번호를 입력 한 다음 **Next**를 클릭하십시오.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
