@@ -10,12 +10,12 @@
 
 ### ما سوف تتعلم
 
-يغطي هذا المشروع عناصر من السلاسل التالية من [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [استخدام المكونات الرقمية والتناظرية والكهروميكانيكية الأساسية](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [استخدام المكونات الرقمية والتناظرية والكهروميكانيكية الأساسية](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
 
 ### معلومات إضافية للمعلمين
 
-إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
 استخدم الارتباط الموجود في التذييل للوصول إلى مستودع GitHub لهذا المشروع ، والذي يحتوي على جميع الموارد (بما في ذلك المشروع النهائي) في مجلد 'en / resources'.
