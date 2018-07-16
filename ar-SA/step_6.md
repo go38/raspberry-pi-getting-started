@@ -59,4 +59,4 @@
 
 + اسحب الآن `rp.txt` إلى Wastebasket على سطح المكتب بحيث يكون Pi جاهزًا للشخص التالي.
     
-    ![لقطة شاشة](images/pi-waste.png)
+    ![لقطة الشاشة](images/pi-waste.png)
