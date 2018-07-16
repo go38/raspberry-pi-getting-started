@@ -1,4 +1,4 @@
-## Connect your Raspberry Pi
+## חבר את הראספברי פאי שלך
 
 Let's connect up your Raspberry Pi and get it running.
 
