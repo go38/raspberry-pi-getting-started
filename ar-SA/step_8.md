@@ -6,7 +6,7 @@
 
 + نسخة من Scratch؟
 
-+ لعبة Python للعب؟
++ لعبة Python للّعب؟
 
 + نسخة من Minecraft يمكن برمجتها؟
 
