@@ -1,31 +1,31 @@
-## Finish the setup
+## Selesaikan pengaturan
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Saat Kamu memulai Raspberry Pi untuk pertama kalinya, dialog ** Selamat datang di Raspberry Pi ** akan muncul dan memandu Kamu selama pengaturan awal.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Klik **Next** untuk memulai pengaturan.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Setel **Negara** Kamu, **Bahasa**, dan **Zona Waktu**, lalu klik **Next** lagi.
 
 ![pi wizard country](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Masukkan kata sandi baru untuk Raspberry Pi Kamu dan klik **Next**.
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Hubungkan ke jaringan WiFi Kamu dengan memilih namanya, memasukkan kata sandi, dan mengklik **Next**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Catatan:** jika model Raspberry Pi Kamu tidak memiliki konektivitas nirkabel, Kamu tidak akan melihat layar ini.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Klik **Next** biarkan wizard memeriksa pembaruan untuk Raspbian dan menginstalnya (ini mungkin memerlukan sedikit waktu).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Klik **Done** atau **Reboot** untuk menyelesaikan pengaturan.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Catatan:** Kamu hanya perlu melakukan boot ulang jika diperlukan untuk menyelesaikan pembaruan.
 
 ![pi wizard complete](images/piwiz7.PNG)
