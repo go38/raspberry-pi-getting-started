@@ -4,7 +4,7 @@
 
 浏览菜单 - 你能否找到：
 
-+ 一个Scratch版本？
++ 某一版本的Scratch？
 
 + 一个Python游戏玩？
 
