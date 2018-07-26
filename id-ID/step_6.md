@@ -28,7 +28,7 @@ File Anda telah disimpan ke kartu SD Raspberry Pi.
 
 + Ketika Pi telah reboot, file Anda harus tetap ada.
 
-+ Raspberry Pi menjalankan versi sistem operasi yang disebut Linux (Windows dan macOS adalah sistem operasi lain). It allows you to make things happen by typing commands instead of clicking on menu options. Klik pada **Terminal** di bagian atas layar:
++ Raspberry Pi menjalankan versi sistem operasi yang disebut Linux (Windows dan macOS adalah sistem operasi lain). Hal ini memungkinkan Kamu untuk membuat sesuatu terjadi dengan mengetikkan perintah daripada mengklik opsi menu. Klik pada **Terminal** di bagian atas layar:
 
 ![tangkapan layar](images/pi-command-prompt.png)
 
