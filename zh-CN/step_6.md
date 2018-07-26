@@ -8,7 +8,7 @@
 
 ![截图](images/pi-accessories.png)
 
-+ 在弹出的窗口中键入 `我刚组装了一个Raspberry Pi`。
++ 在弹出的窗口输入 `我刚刚装好了一台树莓派电脑。`。
 
 ![截图](images/pi-text-editor.png)
 
@@ -28,7 +28,7 @@
 
 + 当Pi重新启动后，你的文件应该仍然在那里。
 
-+ Raspberry Pi运行一种称为Linux的操作系统（Windows和MacOS是其他操作系统）。 It allows you to make things happen by typing commands instead of clicking on menu options. 点击屏幕顶部的 **终端**：
++ 树莓派运行称为Linux操作系统的一种发行版本（Windows和MacOS是其他操作系统）。 它允许您通过键入命令而不是单击菜单选项来实现目标。 点击屏幕顶部的 **终端**：
 
 ![截图](images/pi-command-prompt.png)
 
