@@ -1,43 +1,43 @@
 ## 浏览网页
 
-您可能想要将您的Raspberry Pi连接到互联网。 If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+您可能想要将您的Raspberry Pi连接到互联网。 如果在安装过程中未插入以太网电缆或连接到WiFi网络，则可以现在连接。
 
-+ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
++ 点击屏幕右上角带红色叉叉的图标，然后从下拉菜单中选择您要连接的网络。 您可能需要向成年人询问您应该选择哪个网络。
 
-![No wifi](images/no-wifi.png)
+![Wifi未连接](images/no-wifi.png)
 
 \--- collapse \---
 
 * * *
 
-## title: Set Wi-Fi Country
+## 标题：设置Wi-Fi国家/地区
 
-If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
+尝试连接到Wi-Fi网络时，如果看到“在本地化选项卡上设置Wi-Fi国家/地区”消息：
 
-![set wifi country](images/pi-set-wifi-country.png)
+![设置wifi国家/地区](images/pi-set-wifi-country.png)
 
-+ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
++ 从菜单中选择 **首选项** ，然后选择 **Raspberry Pi Configuration**。
 
-+ Go to the **Localisation** tab.
++ 转到 **Localisation** 选项卡。
 
-+ Click the **Set WiFi Country** button.
++ 单击 **Set WiFi Country** 按钮。
 
-![select wifi country](images/pi-select-wifi-country.png)
+![选择wifi国家/地区](images/pi-select-wifi-country.png)
 
-+ Select your country from the list and click **OK**.
++ 从列表中选择您的国家/地区，然后单击 **确定**。
 
-Once you Wi-Fi country is set, you can connect to a wireless network.
+一旦你设置好了Wi-Fi国家/地区，你就可以连接到无线网络了。
 
 \--- /collapse \---
 
 + 输入您的无线网络密码，或要求成人为您输入密码，然后点击 **确定**。
 
-![Type in password](images/type-password.png)
+![输入密码](images/type-password.png)
 
 + 当您的Pi连接到互联网时，您将看到无线局域网符号，而不是红色叉叉。
 
-![screenshot](images/pi-wifi.png)
+![截屏](images/pi-wifi.png)
 
-+ 点击网页浏览器图标并搜索 `raspberry pi`。
++ 点击网页浏览器图标并搜索 `树莓派`。
 
-![screenshot](images/pi-browser.png)
+![截屏](images/pi-browser.png)
