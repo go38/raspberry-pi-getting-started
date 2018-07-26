@@ -1,31 +1,31 @@
-## Finish the setup
+## Termina a instalação
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Quando inicias o teu Raspberry Pi pela primeira vez, o aplicativo ** Bem-vindo ao Raspberry Pi ** irá aparecer e irá guiar-te pela configuração inicial.
 
-![pi wizard](images/piwiz.gif)
+![assistente do Raspberry Pi](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Clica em ** Avançar ** para iniciar a configuração.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Define o teu **país** , **idioma** e **fuso horário**, e depois clica em **Avançar ** novamente.
 
-![pi wizard country](images/piwiz2.PNG)
+![país do assistente do Raspberry Pi](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Introduz uma nova palavra-passe para o teu Raspberry Pi e clica em **Avançar**.
 
-![pi wizard password](images/piwiz3.PNG)
+![palavra-passe do assistente do Raspberry Pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Liga-te à tua rede sem fios selecionando o seu nome, introduzindo a palavra-passe e clicando em **Avançar**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![assistente de rede sem fios do Raspberry Pi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+** Nota: ** Se o teu modelo Raspberry Pi não tiver conectividade sem fios, não vais ver este ecrã.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Clica em **Avançar** e deixa o assistente verificar se há atualizações do Raspbian e instalá-las (isso pode demorar um pouco).
 
-![pi wizard updating](images/piwiz6.PNG)
+![atualização do assistente do Raspberry Pi](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Clica em **Concluído** ou **Reiniciar** para terminar a configuração.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+** Nota: ** só vais precisar de reinicializar se isso for necessário para concluir uma atualização.
 
-![pi wizard complete](images/piwiz7.PNG)
+![assistente do Raspberry Pi terminado](images/piwiz7.PNG)
